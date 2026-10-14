@@ -10,6 +10,10 @@ The aim is that the next session, human or agent, never has to re-derive anythin
 
 Images live in `docs/img/`, named with the phase number as a prefix.
 
+## Overview
+
+**[PROCESS_OVERVIEW.md](PROCESS_OVERVIEW.md)**: a visual walkthrough from Test 1 to the X02 result (segment 224, hair only), with layered technical detail. Start here.
+
 ## Phases
 
 | # | Doc | Status |
