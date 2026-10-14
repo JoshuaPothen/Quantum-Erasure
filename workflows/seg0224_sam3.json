@@ -1,0 +1,88 @@
+{
+ "1": {
+  "class_type": "VHS_LoadImagesPath",
+  "inputs": {
+   "directory": "C:\\All Github Code\\AbInt\\Quantum Erasure\\frames\\seg0224",
+   "image_load_cap": 0,
+   "skip_first_images": 0,
+   "select_every_nth": 1
+  }
+ },
+ "2": {
+  "class_type": "CheckpointLoaderSimple",
+  "inputs": {
+   "ckpt_name": "sam3.1_multiplex_fp16.safetensors"
+  }
+ },
+ "3": {
+  "class_type": "CLIPTextEncode",
+  "inputs": {
+   "clip": [
+    "2",
+    1
+   ],
+   "text": "long black hair:1"
+  }
+ },
+ "4": {
+  "class_type": "SAM3_Detect",
+  "inputs": {
+   "model": [
+    "2",
+    0
+   ],
+   "image": [
+    "1",
+    0
+   ],
+   "conditioning": [
+    "3",
+    0
+   ],
+   "threshold": 0.3,
+   "refine_iterations": 2,
+   "individual_masks": false
+  }
+ },
+ "5": {
+  "class_type": "GrowMask",
+  "inputs": {
+   "mask": [
+    "4",
+    0
+   ],
+   "expand": 1,
+   "tapered_corners": true
+  }
+ },
+ "6": {
+  "class_type": "ImpactGaussianBlurMask",
+  "inputs": {
+   "mask": [
+    "5",
+    0
+   ],
+   "kernel_size": 5,
+   "sigma": 2.0
+  }
+ },
+ "7": {
+  "class_type": "MaskToImage",
+  "inputs": {
+   "mask": [
+    "6",
+    0
+   ]
+  }
+ },
+ "8": {
+  "class_type": "SaveImage",
+  "inputs": {
+   "images": [
+    "7",
+    0
+   ],
+   "filename_prefix": "qe/seg0224_sam3/mask"
+  }
+ }
+}

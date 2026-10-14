@@ -1,0 +1,10 @@
+seg0703: 556 frames -> chunks [(0, 140), (139, 279), (278, 418), (417, 556)]
+chunk 3: frames f_0279-f_0418 (140), pos [(1899, 269), (1899, 520), (1876, 539), (1746, 809)], neg [(1453, 116), (1409, 562), (1358, 319), (1662, 41)]
+prompt_id 96d0a2eb-126d-4fcf-a27b-88f0b42ebbbf
+status=success after 126s
+chunk 3: {'mask': 140, 'white': 140, 'black': 140} in 126s
+chunk 4: frames f_0418-f_0556 (139), pos [(979, 37), (1287, 72), (1897, 215)], neg [(956, 164), (21, 317), (1558, 351), (335, 21)]
+prompt_id 3837a6e2-a5fd-4cf9-81f1-96276c00e935
+status=success after 125s
+chunk 4: {'mask': 139, 'white': 139, 'black': 139} in 126s
+DONE seg0703

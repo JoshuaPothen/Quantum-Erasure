@@ -1,0 +1,115 @@
+{
+ "1": {
+  "class_type": "VHS_LoadImagesPath",
+  "inputs": {
+   "directory": "C:\\All Github Code\\AbInt\\Quantum Erasure\\frames\\seg0224",
+   "image_load_cap": 0,
+   "skip_first_images": 0,
+   "select_every_nth": 22
+  }
+ },
+ "2": {
+  "class_type": "CheckpointLoaderSimple",
+  "inputs": {
+   "ckpt_name": "sam3.1_multiplex_fp16.safetensors"
+  }
+ },
+ "10": {
+  "class_type": "CLIPTextEncode",
+  "inputs": {
+   "clip": [
+    "2",
+    1
+   ],
+   "text": "long black hair:1"
+  }
+ },
+ "11": {
+  "class_type": "SAM3_Detect",
+  "inputs": {
+   "model": [
+    "2",
+    0
+   ],
+   "image": [
+    "1",
+    0
+   ],
+   "conditioning": [
+    "10",
+    0
+   ],
+   "threshold": 0.3,
+   "refine_iterations": 2,
+   "individual_masks": false
+  }
+ },
+ "12": {
+  "class_type": "SaveImage",
+  "inputs": {
+   "filename_prefix": "qe/seg0224_sam3ck_0/mask",
+   "images": [
+    "20",
+    0
+   ]
+  }
+ },
+ "20": {
+  "class_type": "MaskToImage",
+  "inputs": {
+   "mask": [
+    "11",
+    0
+   ]
+  }
+ },
+ "13": {
+  "class_type": "CLIPTextEncode",
+  "inputs": {
+   "clip": [
+    "2",
+    1
+   ],
+   "text": "hair:1"
+  }
+ },
+ "14": {
+  "class_type": "SAM3_Detect",
+  "inputs": {
+   "model": [
+    "2",
+    0
+   ],
+   "image": [
+    "1",
+    0
+   ],
+   "conditioning": [
+    "13",
+    0
+   ],
+   "threshold": 0.3,
+   "refine_iterations": 2,
+   "individual_masks": false
+  }
+ },
+ "15": {
+  "class_type": "SaveImage",
+  "inputs": {
+   "filename_prefix": "qe/seg0224_sam3ck_1/mask",
+   "images": [
+    "21",
+    0
+   ]
+  }
+ },
+ "21": {
+  "class_type": "MaskToImage",
+  "inputs": {
+   "mask": [
+    "14",
+    0
+   ]
+  }
+ }
+}

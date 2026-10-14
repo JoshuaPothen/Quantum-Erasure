@@ -1,0 +1,270 @@
+{
+ "1": {
+  "class_type": "VHS_LoadImagesPath",
+  "inputs": {
+   "directory": "C:\\All Github Code\\AbInt\\Quantum Erasure\\frames\\shot26",
+   "image_load_cap": 0,
+   "skip_first_images": 0,
+   "select_every_nth": 1
+  }
+ },
+ "2": {
+  "class_type": "DownloadAndLoadSAM2Model",
+  "inputs": {
+   "model": "sam2.1_hiera_large.safetensors",
+   "segmentor": "video",
+   "device": "cuda",
+   "precision": "bf16"
+  }
+ },
+ "3": {
+  "class_type": "PrimitiveStringMultiline",
+  "inputs": {
+   "value": "[{\"x\": 1150, \"y\": 70}, {\"x\": 1470, \"y\": 700}, {\"x\": 500, \"y\": 850}]"
+  }
+ },
+ "4": {
+  "class_type": "PrimitiveStringMultiline",
+  "inputs": {
+   "value": "[{\"x\": 620, \"y\": 520}, {\"x\": 1250, \"y\": 420}, {\"x\": 350, \"y\": 450}]"
+  }
+ },
+ "5": {
+  "class_type": "Sam2VideoSegmentationAddPoints",
+  "inputs": {
+   "sam2_model": [
+    "2",
+    0
+   ],
+   "coordinates_positive": [
+    "3",
+    0
+   ],
+   "coordinates_negative": [
+    "4",
+    0
+   ],
+   "frame_index": 0,
+   "object_index": 0,
+   "image": [
+    "1",
+    0
+   ]
+  }
+ },
+ "6": {
+  "class_type": "PrimitiveStringMultiline",
+  "inputs": {
+   "value": "[{\"x\": 300, \"y\": 780}, {\"x\": 700, \"y\": 450}, {\"x\": 1150, \"y\": 60}, {\"x\": 1470, \"y\": 650}, {\"x\": 1000, \"y\": 200}]"
+  }
+ },
+ "7": {
+  "class_type": "PrimitiveStringMultiline",
+  "inputs": {
+   "value": "[{\"x\": 1250, \"y\": 420}, {\"x\": 1200, \"y\": 900}, {\"x\": 500, \"y\": 300}, {\"x\": 1650, \"y\": 400}]"
+  }
+ },
+ "8": {
+  "class_type": "Sam2VideoSegmentationAddPoints",
+  "inputs": {
+   "sam2_model": [
+    "5",
+    0
+   ],
+   "coordinates_positive": [
+    "6",
+    0
+   ],
+   "coordinates_negative": [
+    "7",
+    0
+   ],
+   "frame_index": 11,
+   "object_index": 0,
+   "prev_inference_state": [
+    "5",
+    1
+   ]
+  }
+ },
+ "9": {
+  "class_type": "Sam2VideoSegmentation",
+  "inputs": {
+   "sam2_model": [
+    "8",
+    0
+   ],
+   "inference_state": [
+    "8",
+    1
+   ],
+   "keep_model_loaded": false
+  }
+ },
+ "10": {
+  "class_type": "GrowMask",
+  "inputs": {
+   "mask": [
+    "9",
+    0
+   ],
+   "expand": 1,
+   "tapered_corners": true
+  }
+ },
+ "11": {
+  "class_type": "ImpactGaussianBlurMask",
+  "inputs": {
+   "mask": [
+    "10",
+    0
+   ],
+   "kernel_size": 5,
+   "sigma": 2.0
+  }
+ },
+ "12": {
+  "class_type": "MaskToImage",
+  "inputs": {
+   "mask": [
+    "11",
+    0
+   ]
+  }
+ },
+ "13": {
+  "class_type": "SaveImage",
+  "inputs": {
+   "images": [
+    "12",
+    0
+   ],
+   "filename_prefix": "qe/shot26_sam2/mask"
+  }
+ },
+ "14": {
+  "class_type": "InvertMask",
+  "inputs": {
+   "mask": [
+    "11",
+    0
+   ]
+  }
+ },
+ "15": {
+  "class_type": "EmptyImage",
+  "inputs": {
+   "width": 1920,
+   "height": 1080,
+   "batch_size": 1,
+   "color": 16777215
+  }
+ },
+ "16": {
+  "class_type": "ImageCompositeMasked",
+  "inputs": {
+   "destination": [
+    "1",
+    0
+   ],
+   "source": [
+    "15",
+    0
+   ],
+   "x": 0,
+   "y": 0,
+   "resize_source": false,
+   "mask": [
+    "14",
+    0
+   ]
+  }
+ },
+ "17": {
+  "class_type": "SaveImage",
+  "inputs": {
+   "images": [
+    "16",
+    0
+   ],
+   "filename_prefix": "qe/shot26_comp_white_sam2/comp"
+  }
+ },
+ "18": {
+  "class_type": "VHS_VideoCombine",
+  "inputs": {
+   "images": [
+    "16",
+    0
+   ],
+   "frame_rate": 50,
+   "loop_count": 0,
+   "filename_prefix": "qe/shot26_sam2_white",
+   "format": "video/h264-mp4",
+   "pix_fmt": "yuv420p",
+   "crf": 18,
+   "save_metadata": false,
+   "trim_to_audio": false,
+   "pingpong": false,
+   "save_output": true
+  }
+ },
+ "19": {
+  "class_type": "EmptyImage",
+  "inputs": {
+   "width": 1920,
+   "height": 1080,
+   "batch_size": 1,
+   "color": 0
+  }
+ },
+ "20": {
+  "class_type": "ImageCompositeMasked",
+  "inputs": {
+   "destination": [
+    "1",
+    0
+   ],
+   "source": [
+    "19",
+    0
+   ],
+   "x": 0,
+   "y": 0,
+   "resize_source": false,
+   "mask": [
+    "14",
+    0
+   ]
+  }
+ },
+ "21": {
+  "class_type": "SaveImage",
+  "inputs": {
+   "images": [
+    "20",
+    0
+   ],
+   "filename_prefix": "qe/shot26_comp_black_sam2/comp"
+  }
+ },
+ "22": {
+  "class_type": "VHS_VideoCombine",
+  "inputs": {
+   "images": [
+    "20",
+    0
+   ],
+   "frame_rate": 50,
+   "loop_count": 0,
+   "filename_prefix": "qe/shot26_sam2_black",
+   "format": "video/h264-mp4",
+   "pix_fmt": "yuv420p",
+   "crf": 18,
+   "save_metadata": false,
+   "trim_to_audio": false,
+   "pingpong": false,
+   "save_output": true
+  }
+ }
+}

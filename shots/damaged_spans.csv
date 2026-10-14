@@ -1,0 +1,2 @@
+start_frame,end_frame,resume_frame,resume_s,note
+10040,10086,10087,420.712,BDrip damaged: pts gap 418.710->420.086 (~31 positions missing) + concealed frames; frames up to the next keyframe (10087 @ 420.712s) depend on the corrupted GOP. Decoding continuously through it shifts every later frame's pts by +1 (h264 reorder buffer grows) - always restart the decoder at resume_s.

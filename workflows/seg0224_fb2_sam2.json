@@ -1,0 +1,119 @@
+{
+ "1": {
+  "class_type": "VHS_LoadImagesPath",
+  "inputs": {
+   "directory": "C:\\All Github Code\\AbInt\\Quantum Erasure\\frames\\seg0224_fb2",
+   "image_load_cap": 0,
+   "skip_first_images": 0,
+   "select_every_nth": 1
+  }
+ },
+ "2": {
+  "class_type": "DownloadAndLoadSAM2Model",
+  "inputs": {
+   "model": "sam2.1_hiera_large.safetensors",
+   "segmentor": "video",
+   "device": "cuda",
+   "precision": "bf16"
+  }
+ },
+ "3": {
+  "class_type": "PrimitiveStringMultiline",
+  "inputs": {
+   "value": "[{\"x\": 792, \"y\": 204}, {\"x\": 729, \"y\": 363}, {\"x\": 536, \"y\": 757}, {\"x\": 514, \"y\": 782}, {\"x\": 455, \"y\": 817}, {\"x\": 834, \"y\": 910}, {\"x\": 782, \"y\": 849}, {\"x\": 442, \"y\": 908}]"
+  }
+ },
+ "4": {
+  "class_type": "PrimitiveStringMultiline",
+  "inputs": {
+   "value": "[{\"x\": 469, \"y\": 611}, {\"x\": 935, \"y\": 88}, {\"x\": 945, \"y\": 974}, {\"x\": 422, \"y\": 1046}]"
+  }
+ },
+ "5": {
+  "class_type": "Sam2VideoSegmentationAddPoints",
+  "inputs": {
+   "sam2_model": [
+    "2",
+    0
+   ],
+   "coordinates_positive": [
+    "3",
+    0
+   ],
+   "coordinates_negative": [
+    "4",
+    0
+   ],
+   "frame_index": 0,
+   "object_index": 0,
+   "image": [
+    "1",
+    0
+   ]
+  }
+ },
+ "6": {
+  "class_type": "Sam2VideoSegmentation",
+  "inputs": {
+   "sam2_model": [
+    "5",
+    0
+   ],
+   "inference_state": [
+    "5",
+    1
+   ],
+   "keep_model_loaded": false
+  }
+ },
+ "7": {
+  "class_type": "GrowMask",
+  "inputs": {
+   "mask": [
+    "6",
+    0
+   ],
+   "expand": 1,
+   "tapered_corners": true
+  }
+ },
+ "8": {
+  "class_type": "ImpactGaussianBlurMask",
+  "inputs": {
+   "mask": [
+    "7",
+    0
+   ],
+   "kernel_size": 5,
+   "sigma": 2.0
+  }
+ },
+ "9": {
+  "class_type": "MaskToImage",
+  "inputs": {
+   "mask": [
+    "8",
+    0
+   ]
+  }
+ },
+ "10": {
+  "class_type": "SaveImage",
+  "inputs": {
+   "images": [
+    "9",
+    0
+   ],
+   "filename_prefix": "qe/seg0224_fb2_sam2/mask"
+  }
+ },
+ "11": {
+  "class_type": "InvertMask",
+  "inputs": {
+   "mask": [
+    "8",
+    0
+   ]
+  }
+ }
+}

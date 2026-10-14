@@ -1,0 +1,11 @@
+content27 :  1424 shots | median  2.34s | mean  3.42s | <1s 22.1% | longest  318.2s
+content20 :  1872 shots | median  1.67s | mean  2.60s | <1s 37.6% | longest  318.2s
+content15 :  2367 shots | median  1.00s | mean  2.06s | <1s 49.6% | longest  318.3s
+adaptive3 :  1258 shots | median  2.71s | mean  3.87s | <1s  7.8% | longest  328.0s
+candidate dissolves (>= 8 frames with content_val >= 4.0, max < 27): 339
+agree content20 vs content27: 1339/1871 of content20 found in content27; 1339/1423 of content27 found in content20
+agree content15 vs content27: 1304/2366 of content15 found in content27; 1304/1423 of content27 found in content15
+agree content15 vs content20: 1686/2366 of content15 found in content20; 1686/1871 of content20 found in content15
+agree adaptive3 vs content27: 1130/1257 of adaptive3 found in content27; 1130/1423 of content27 found in adaptive3
+agree adaptive3 vs content20: 1191/1257 of adaptive3 found in content20; 1191/1871 of content20 found in adaptive3
+agree adaptive3 vs content15: 1194/1257 of adaptive3 found in content15; 1194/2366 of content15 found in adaptive3

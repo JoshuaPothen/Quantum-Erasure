@@ -1,0 +1,119 @@
+{
+ "1": {
+  "class_type": "VHS_LoadImagesPath",
+  "inputs": {
+   "directory": "C:\\All Github Code\\AbInt\\Quantum Erasure\\frames\\seg0224_fb1",
+   "image_load_cap": 0,
+   "skip_first_images": 0,
+   "select_every_nth": 1
+  }
+ },
+ "2": {
+  "class_type": "DownloadAndLoadSAM2Model",
+  "inputs": {
+   "model": "sam2.1_hiera_large.safetensors",
+   "segmentor": "video",
+   "device": "cuda",
+   "precision": "bf16"
+  }
+ },
+ "3": {
+  "class_type": "PrimitiveStringMultiline",
+  "inputs": {
+   "value": "[{\"x\": 600, \"y\": 354}, {\"x\": 598, \"y\": 356}, {\"x\": 468, \"y\": 743}, {\"x\": 436, \"y\": 882}, {\"x\": 760, \"y\": 851}]"
+  }
+ },
+ "4": {
+  "class_type": "PrimitiveStringMultiline",
+  "inputs": {
+   "value": "[{\"x\": 469, \"y\": 610}, {\"x\": 886, \"y\": 118}, {\"x\": 820, \"y\": 976}, {\"x\": 363, \"y\": 1058}]"
+  }
+ },
+ "5": {
+  "class_type": "Sam2VideoSegmentationAddPoints",
+  "inputs": {
+   "sam2_model": [
+    "2",
+    0
+   ],
+   "coordinates_positive": [
+    "3",
+    0
+   ],
+   "coordinates_negative": [
+    "4",
+    0
+   ],
+   "frame_index": 0,
+   "object_index": 0,
+   "image": [
+    "1",
+    0
+   ]
+  }
+ },
+ "6": {
+  "class_type": "Sam2VideoSegmentation",
+  "inputs": {
+   "sam2_model": [
+    "5",
+    0
+   ],
+   "inference_state": [
+    "5",
+    1
+   ],
+   "keep_model_loaded": false
+  }
+ },
+ "7": {
+  "class_type": "GrowMask",
+  "inputs": {
+   "mask": [
+    "6",
+    0
+   ],
+   "expand": 1,
+   "tapered_corners": true
+  }
+ },
+ "8": {
+  "class_type": "ImpactGaussianBlurMask",
+  "inputs": {
+   "mask": [
+    "7",
+    0
+   ],
+   "kernel_size": 5,
+   "sigma": 2.0
+  }
+ },
+ "9": {
+  "class_type": "MaskToImage",
+  "inputs": {
+   "mask": [
+    "8",
+    0
+   ]
+  }
+ },
+ "10": {
+  "class_type": "SaveImage",
+  "inputs": {
+   "images": [
+    "9",
+    0
+   ],
+   "filename_prefix": "qe/seg0224_fb1_sam2/mask"
+  }
+ },
+ "11": {
+  "class_type": "InvertMask",
+  "inputs": {
+   "mask": [
+    "8",
+    0
+   ]
+  }
+ }
+}

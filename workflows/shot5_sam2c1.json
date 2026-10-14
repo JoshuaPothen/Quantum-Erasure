@@ -1,0 +1,340 @@
+{
+ "1": {
+  "class_type": "VHS_LoadImagesPath",
+  "inputs": {
+   "directory": "C:\\All Github Code\\AbInt\\Quantum Erasure\\frames\\shot5",
+   "image_load_cap": 0,
+   "skip_first_images": 0,
+   "select_every_nth": 1
+  }
+ },
+ "2": {
+  "class_type": "DownloadAndLoadSAM2Model",
+  "inputs": {
+   "model": "sam2.1_hiera_large.safetensors",
+   "segmentor": "video",
+   "device": "cuda",
+   "precision": "bf16"
+  }
+ },
+ "3": {
+  "class_type": "PrimitiveStringMultiline",
+  "inputs": {
+   "value": "[{\"x\": 722, \"y\": 175}]"
+  }
+ },
+ "4": {
+  "class_type": "PrimitiveStringMultiline",
+  "inputs": {
+   "value": "[{\"x\": 1130, \"y\": 300}, {\"x\": 1750, \"y\": 550}, {\"x\": 720, \"y\": 240}]"
+  }
+ },
+ "5": {
+  "class_type": "Sam2VideoSegmentationAddPoints",
+  "inputs": {
+   "sam2_model": [
+    "2",
+    0
+   ],
+   "coordinates_positive": [
+    "3",
+    0
+   ],
+   "coordinates_negative": [
+    "4",
+    0
+   ],
+   "frame_index": 0,
+   "object_index": 0,
+   "image": [
+    "1",
+    0
+   ]
+  }
+ },
+ "6": {
+  "class_type": "PrimitiveStringMultiline",
+  "inputs": {
+   "value": "[{\"x\": 730, \"y\": 180}, {\"x\": 750, \"y\": 160}]"
+  }
+ },
+ "7": {
+  "class_type": "PrimitiveStringMultiline",
+  "inputs": {
+   "value": "[{\"x\": 715, \"y\": 240}, {\"x\": 770, \"y\": 285}, {\"x\": 900, \"y\": 200}, {\"x\": 1800, \"y\": 500}]"
+  }
+ },
+ "8": {
+  "class_type": "Sam2VideoSegmentationAddPoints",
+  "inputs": {
+   "sam2_model": [
+    "5",
+    0
+   ],
+   "coordinates_positive": [
+    "6",
+    0
+   ],
+   "coordinates_negative": [
+    "7",
+    0
+   ],
+   "frame_index": 9,
+   "object_index": 0,
+   "prev_inference_state": [
+    "5",
+    1
+   ]
+  }
+ },
+ "9": {
+  "class_type": "PrimitiveStringMultiline",
+  "inputs": {
+   "value": "[{\"x\": 625, \"y\": 130}, {\"x\": 635, \"y\": 190}]"
+  }
+ },
+ "10": {
+  "class_type": "PrimitiveStringMultiline",
+  "inputs": {
+   "value": "[{\"x\": 640, \"y\": 260}, {\"x\": 420, \"y\": 120}, {\"x\": 520, \"y\": 60}]"
+  }
+ },
+ "11": {
+  "class_type": "Sam2VideoSegmentationAddPoints",
+  "inputs": {
+   "sam2_model": [
+    "8",
+    0
+   ],
+   "coordinates_positive": [
+    "9",
+    0
+   ],
+   "coordinates_negative": [
+    "10",
+    0
+   ],
+   "frame_index": 79,
+   "object_index": 0,
+   "prev_inference_state": [
+    "8",
+    1
+   ]
+  }
+ },
+ "12": {
+  "class_type": "PrimitiveStringMultiline",
+  "inputs": {
+   "value": "[{\"x\": 720, \"y\": 150}, {\"x\": 760, \"y\": 250}, {\"x\": 700, \"y\": 320}]"
+  }
+ },
+ "13": {
+  "class_type": "PrimitiveStringMultiline",
+  "inputs": {
+   "value": "[{\"x\": 720, \"y\": 420}, {\"x\": 450, \"y\": 300}, {\"x\": 550, \"y\": 50}]"
+  }
+ },
+ "14": {
+  "class_type": "Sam2VideoSegmentationAddPoints",
+  "inputs": {
+   "sam2_model": [
+    "11",
+    0
+   ],
+   "coordinates_positive": [
+    "12",
+    0
+   ],
+   "coordinates_negative": [
+    "13",
+    0
+   ],
+   "frame_index": 99,
+   "object_index": 0,
+   "prev_inference_state": [
+    "11",
+    1
+   ]
+  }
+ },
+ "15": {
+  "class_type": "Sam2VideoSegmentation",
+  "inputs": {
+   "sam2_model": [
+    "14",
+    0
+   ],
+   "inference_state": [
+    "14",
+    1
+   ],
+   "keep_model_loaded": false
+  }
+ },
+ "16": {
+  "class_type": "GrowMask",
+  "inputs": {
+   "mask": [
+    "15",
+    0
+   ],
+   "expand": 1,
+   "tapered_corners": true
+  }
+ },
+ "17": {
+  "class_type": "ImpactGaussianBlurMask",
+  "inputs": {
+   "mask": [
+    "16",
+    0
+   ],
+   "kernel_size": 5,
+   "sigma": 2.0
+  }
+ },
+ "18": {
+  "class_type": "MaskToImage",
+  "inputs": {
+   "mask": [
+    "17",
+    0
+   ]
+  }
+ },
+ "19": {
+  "class_type": "SaveImage",
+  "inputs": {
+   "images": [
+    "18",
+    0
+   ],
+   "filename_prefix": "qe/shot5_sam2c1/mask"
+  }
+ },
+ "20": {
+  "class_type": "InvertMask",
+  "inputs": {
+   "mask": [
+    "17",
+    0
+   ]
+  }
+ },
+ "21": {
+  "class_type": "EmptyImage",
+  "inputs": {
+   "width": 1920,
+   "height": 1080,
+   "batch_size": 1,
+   "color": 16777215
+  }
+ },
+ "22": {
+  "class_type": "ImageCompositeMasked",
+  "inputs": {
+   "destination": [
+    "1",
+    0
+   ],
+   "source": [
+    "21",
+    0
+   ],
+   "x": 0,
+   "y": 0,
+   "resize_source": false,
+   "mask": [
+    "20",
+    0
+   ]
+  }
+ },
+ "23": {
+  "class_type": "SaveImage",
+  "inputs": {
+   "images": [
+    "22",
+    0
+   ],
+   "filename_prefix": "qe/shot5_comp_white_sam2c1/comp"
+  }
+ },
+ "24": {
+  "class_type": "VHS_VideoCombine",
+  "inputs": {
+   "images": [
+    "22",
+    0
+   ],
+   "frame_rate": 50,
+   "loop_count": 0,
+   "filename_prefix": "qe/shot5_sam2c1_white",
+   "format": "video/h264-mp4",
+   "pix_fmt": "yuv420p",
+   "crf": 18,
+   "save_metadata": false,
+   "trim_to_audio": false,
+   "pingpong": false,
+   "save_output": true
+  }
+ },
+ "25": {
+  "class_type": "EmptyImage",
+  "inputs": {
+   "width": 1920,
+   "height": 1080,
+   "batch_size": 1,
+   "color": 0
+  }
+ },
+ "26": {
+  "class_type": "ImageCompositeMasked",
+  "inputs": {
+   "destination": [
+    "1",
+    0
+   ],
+   "source": [
+    "25",
+    0
+   ],
+   "x": 0,
+   "y": 0,
+   "resize_source": false,
+   "mask": [
+    "20",
+    0
+   ]
+  }
+ },
+ "27": {
+  "class_type": "SaveImage",
+  "inputs": {
+   "images": [
+    "26",
+    0
+   ],
+   "filename_prefix": "qe/shot5_comp_black_sam2c1/comp"
+  }
+ },
+ "28": {
+  "class_type": "VHS_VideoCombine",
+  "inputs": {
+   "images": [
+    "26",
+    0
+   ],
+   "frame_rate": 50,
+   "loop_count": 0,
+   "filename_prefix": "qe/shot5_sam2c1_black",
+   "format": "video/h264-mp4",
+   "pix_fmt": "yuv420p",
+   "crf": 18,
+   "save_metadata": false,
+   "trim_to_audio": false,
+   "pingpong": false,
+   "save_output": true
+  }
+ }
+}

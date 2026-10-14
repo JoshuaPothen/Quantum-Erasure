@@ -1,0 +1,151 @@
+ffmpeg version 2024-03-07-git-97beb63a66-full_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 13.2.0 (Rev5, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --pkg-config=pkgconf --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-libsnappy --enable-zlib --enable-librist --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-libbluray --enable-libcaca --enable-sdl2 --enable-libaribb24 --enable-libaribcaption --enable-libdav1d --enable-libdavs2 --enable-libuavs3d --enable-libzvbi --enable-librav1e --enable-libsvtav1 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxavs2 --enable-libxvid --enable-libaom --enable-libjxl --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-frei0r --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-liblensfun --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-ffnvcodec --enable-nvdec --enable-nvenc --enable-dxva2 --enable-d3d11va --enable-libvpl --enable-libshaderc --enable-vulkan --enable-libplacebo --enable-opencl --enable-libcdio --enable-libgme --enable-libmodplug --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libshine --enable-libtheora --enable-libtwolame --enable-libvo-amrwbenc --enable-libcodec2 --enable-libilbc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-ladspa --enable-libbs2b --enable-libflite --enable-libmysofa --enable-librubberband --enable-libsoxr --enable-chromaprint
+  libavutil      58. 40.100 / 58. 40.100
+  libavcodec     60. 41.100 / 60. 41.100
+  libavformat    60. 25.100 / 60. 25.100
+  libavdevice    60.  4.100 / 60.  4.100
+  libavfilter     9. 17.100 /  9. 17.100
+  libswscale      7.  6.100 /  7.  6.100
+  libswresample   4. 14.100 /  4. 14.100
+  libpostproc    57.  4.100 / 57.  4.100
+Input #0, matroska,webm, from 'Pocahontas (1995) BDrip 1080p ENG-ITA MultiSub x264 blyuray -Shiv@.mkv':
+  Metadata:
+    encoder         : libebml v1.3.0 + libmatroska v1.4.1
+    creation_time   : 2014-05-26T10:51:14.000000Z
+  Duration: 01:21:08.77, start: 0.000000, bitrate: 7723 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 239.906000
+      Metadata:
+        title           : Finishing the Fortress
+    Chapter #0:1: start 239.906000, end 329.496000
+      Metadata:
+        title           : Off to the New World/The Virginia Company
+    Chapter #0:2: start 329.496000, end 461.169000
+      Metadata:
+        title           : Governor Ratcliffe
+    Chapter #0:3: start 461.169000, end 650.316000
+      Metadata:
+        title           : Opening Credits/Steady As a Beating Drum
+    Chapter #0:4: start 650.316000, end 758.466000
+      Metadata:
+        title           : Pocahontas
+    Chapter #0:5: start 758.466000, end 908.908000
+      Metadata:
+        title           : Pocahontas Tells Her Father About Her Dream
+    Chapter #0:6: start 908.908000, end 1008.758000
+      Metadata:
+        title           : Just Around the Riverbend
+    Chapter #0:7: start 1008.758000, end 1093.801000
+      Metadata:
+        title           : Grandmother Willow
+    Chapter #0:8: start 1093.801000, end 1359.608000
+      Metadata:
+        title           : Advice From Grandmother Willow/Listen With Your Heart
+    Chapter #0:9: start 1359.608000, end 1501.417000
+      Metadata:
+        title           : The New World
+    Chapter #0:10: start 1501.417000, end 1731.438000
+      Metadata:
+        title           : Powhatan's Council
+    Chapter #0:11: start 1731.438000, end 2012.344000
+      Metadata:
+        title           : Digging for Gold/Mine, Mind, Mine
+    Chapter #0:12: start 2012.344000, end 2159.783000
+      Metadata:
+        title           : John Smith Meets Pocahontas
+    Chapter #0:13: start 2159.783000, end 2359.857000
+      Metadata:
+        title           : A Clash Between the Settlers and the Indians
+    Chapter #0:14: start 2359.857000, end 2593.424000
+      Metadata:
+        title           : Getting to Know One Other
+    Chapter #0:15: start 2593.424000, end 2737.151000
+      Metadata:
+        title           : Colors of the Wind
+    Chapter #0:16: start 2737.151000, end 2883.047000
+      Metadata:
+        title           : In the Cornfield
+    Chapter #0:17: start 2883.047000, end 3039.912000
+      Metadata:
+        title           : John Smith Meets Grandmother Willow
+    Chapter #0:18: start 3039.912000, end 3247.953000
+      Metadata:
+        title           : The Warriors Arrive
+    Chapter #0:19: start 3247.953000, end 3364.361000
+      Metadata:
+        title           : Pocahontas Runs Off to Meet John Smith
+    Chapter #0:20: start 3364.361000, end 3710.373000
+      Metadata:
+        title           : The Final Meeting
+    Chapter #0:21: start 3710.373000, end 3985.315000
+      Metadata:
+        title           : Pocahontas Visits the Prisoner/If I Never Knew You
+    Chapter #0:22: start 3985.315000, end 4097.385000
+      Metadata:
+        title           : Savages
+    Chapter #0:23: start 4097.385000, end 4164.660000
+      Metadata:
+        title           : Pocahontas Understands Her Dream
+    Chapter #0:24: start 4164.660000, end 4230.017000
+      Metadata:
+        title           : Sunrise/Savages
+    Chapter #0:25: start 4230.017000, end 4415.202000
+      Metadata:
+        title           : Pocahontas Saves John Smith
+    Chapter #0:26: start 4415.202000, end 4537.658000
+      Metadata:
+        title           : The Departure/If I Never Knew You (Reprise)
+    Chapter #0:27: start 4537.658000, end 4868.768000
+      Metadata:
+        title           : End Credits
+  Stream #0:0: Video: h264 (High), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        title           : Pocahontas (1995) - 1080p -Shiv@
+  Stream #0:1(eng): Audio: ac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+      Metadata:
+        title           : English Ac3 5.1 chnls 640 kbps
+  Stream #0:2(ita): Audio: dts (dca) (DTS), 48000 Hz, 5.1(side), fltp, 1536 kb/s
+      Metadata:
+        title           : Italian DTS 5.1 chnls 1536 kbps
+  Stream #0:3(eng): Subtitle: subrip (srt)
+      Metadata:
+        title           : english
+  Stream #0:4(ita): Subtitle: subrip (srt)
+      Metadata:
+        title           : italian
+  Stream #0:5(dut): Subtitle: subrip (srt)
+      Metadata:
+        title           : dutch
+  Stream #0:6(fre): Subtitle: subrip (srt)
+      Metadata:
+        title           : french
+  Stream #0:7(por): Subtitle: subrip (srt)
+      Metadata:
+        title           : portuguese
+  Stream #0:8(spa): Subtitle: subrip (srt)
+      Metadata:
+        title           : spanish
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> rawvideo (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_1 @ 000001aa6eb2c300] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_1 @ 000001aa6eb2c300] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_1 @ 000001aa6eb2c300] n:   0 pts:  12387 pts_time:12.387  duration:     41 duration_time:0.041   fmt:gray cl:left sar:1/1 s:160x90 i:P iskey:0 type:P checksum:4E1A69C2 plane_checksum:[4E1A69C2] mean:[61] stdev:[36.5]
+[Parsed_showinfo_1 @ 000001aa6eb2c300] color_range:pc color_space:unknown color_primaries:unknown color_trc:unknown
+Output #0, rawvideo, to 'pipe:':
+  Metadata:
+    encoder         : Lavf60.25.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 4.000000
+      Metadata:
+        title           : Finishing the Fortress
+  Stream #0:0: Video: rawvideo (Y800 / 0x30303859), gray(pc, progressive), 160x90 [SAR 1:1 DAR 16:9], q=2-31, 2762 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        title           : Pocahontas (1995) - 1080p -Shiv@
+        encoder         : Lavc60.41.100 rawvideo
+[Parsed_showinfo_1 @ 000001aa6eb2c300] n:   1 pts:  12429 pts_time:12.429  duration:     41 duration_time:0.041   fmt:gray cl:left sar:1/1 s:160x90 i:P iskey:0 type:B checksum:1A5F69B5 plane_checksum:[1A5F69B5] mean:[61] stdev:[36.5]
+[Parsed_showinfo_1 @ 000001aa6eb2c300] color_range:pc color_space:unknown color_primaries:unknown color_trc:unknown
+[out#0/rawvideo @ 000001aa6da9c8c0] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+[out#0/rawvideo @ 000001aa6da9c8c0] Output file is empty, nothing was encoded(check -ss / -t / -frames parameters if used)
+frame=    0 fps=0.0 q=0.0 Lsize=       0KiB time=N/A bitrate=N/A speed=N/A    

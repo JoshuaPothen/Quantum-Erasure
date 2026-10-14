@@ -1,0 +1,189 @@
+{
+ "1": {
+  "class_type": "VHS_LoadImagesPath",
+  "inputs": {
+   "directory": "C:\\All Github Code\\AbInt\\Quantum Erasure\\frames\\seg0703",
+   "image_load_cap": 139,
+   "skip_first_images": 417,
+   "select_every_nth": 1
+  }
+ },
+ "2": {
+  "class_type": "DownloadAndLoadSAM2Model",
+  "inputs": {
+   "model": "sam2.1_hiera_large.safetensors",
+   "segmentor": "video",
+   "device": "cuda",
+   "precision": "bf16"
+  }
+ },
+ "3": {
+  "class_type": "PrimitiveStringMultiline",
+  "inputs": {
+   "value": "[{\"x\": 1544, \"y\": 393}, {\"x\": 1846, \"y\": 615}, {\"x\": 1812, \"y\": 629}, {\"x\": 1696, \"y\": 894}]"
+  }
+ },
+ "4": {
+  "class_type": "PrimitiveStringMultiline",
+  "inputs": {
+   "value": "[{\"x\": 1753, \"y\": 389}, {\"x\": 1582, \"y\": 1059}, {\"x\": 1133, \"y\": 180}, {\"x\": 1310, \"y\": 646}]"
+  }
+ },
+ "5": {
+  "class_type": "Sam2VideoSegmentationAddPoints",
+  "inputs": {
+   "sam2_model": [
+    "2",
+    0
+   ],
+   "coordinates_positive": [
+    "3",
+    0
+   ],
+   "coordinates_negative": [
+    "4",
+    0
+   ],
+   "frame_index": 0,
+   "object_index": 0,
+   "image": [
+    "1",
+    0
+   ]
+  }
+ },
+ "6": {
+  "class_type": "PrimitiveStringMultiline",
+  "inputs": {
+   "value": "[{\"x\": 1860, \"y\": 1010}, {\"x\": 1700, \"y\": 1045}]"
+  }
+ },
+ "7": {
+  "class_type": "PrimitiveStringMultiline",
+  "inputs": {
+   "value": "[{\"x\": 1400, \"y\": 1040}, {\"x\": 1300, \"y\": 1000}]"
+  }
+ },
+ "8": {
+  "class_type": "Sam2VideoSegmentationAddPoints",
+  "inputs": {
+   "sam2_model": [
+    "5",
+    0
+   ],
+   "coordinates_positive": [
+    "6",
+    0
+   ],
+   "coordinates_negative": [
+    "7",
+    0
+   ],
+   "frame_index": 7,
+   "object_index": 0,
+   "prev_inference_state": [
+    "5",
+    1
+   ]
+  }
+ },
+ "9": {
+  "class_type": "PrimitiveStringMultiline",
+  "inputs": {
+   "value": "[{\"x\": 1790, \"y\": 1010}, {\"x\": 1605, \"y\": 1011}]"
+  }
+ },
+ "10": {
+  "class_type": "PrimitiveStringMultiline",
+  "inputs": {
+   "value": "[{\"x\": 1400, \"y\": 1040}, {\"x\": 1300, \"y\": 1000}, {\"x\": 1700, \"y\": 120}, {\"x\": 1880, \"y\": 200}, {\"x\": 150, \"y\": 150}]"
+  }
+ },
+ "11": {
+  "class_type": "Sam2VideoSegmentationAddPoints",
+  "inputs": {
+   "sam2_model": [
+    "8",
+    0
+   ],
+   "coordinates_positive": [
+    "9",
+    0
+   ],
+   "coordinates_negative": [
+    "10",
+    0
+   ],
+   "frame_index": 69,
+   "object_index": 0,
+   "prev_inference_state": [
+    "8",
+    1
+   ]
+  }
+ },
+ "12": {
+  "class_type": "Sam2VideoSegmentation",
+  "inputs": {
+   "sam2_model": [
+    "11",
+    0
+   ],
+   "inference_state": [
+    "11",
+    1
+   ],
+   "keep_model_loaded": false
+  }
+ },
+ "13": {
+  "class_type": "GrowMask",
+  "inputs": {
+   "mask": [
+    "12",
+    0
+   ],
+   "expand": 1,
+   "tapered_corners": true
+  }
+ },
+ "14": {
+  "class_type": "ImpactGaussianBlurMask",
+  "inputs": {
+   "mask": [
+    "13",
+    0
+   ],
+   "kernel_size": 5,
+   "sigma": 2.0
+  }
+ },
+ "15": {
+  "class_type": "MaskToImage",
+  "inputs": {
+   "mask": [
+    "14",
+    0
+   ]
+  }
+ },
+ "16": {
+  "class_type": "SaveImage",
+  "inputs": {
+   "images": [
+    "15",
+    0
+   ],
+   "filename_prefix": "qe/seg0703_c4/mask"
+  }
+ },
+ "17": {
+  "class_type": "InvertMask",
+  "inputs": {
+   "mask": [
+    "14",
+    0
+   ]
+  }
+ }
+}
