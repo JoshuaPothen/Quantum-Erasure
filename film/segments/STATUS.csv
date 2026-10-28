@@ -1,0 +1,1446 @@
+seg,kind,start,end,frames,status,present,sam3,sam2,fail_after,missing_idx,seconds,notes
+186,shot,16365,16410,46,check,8,6,2,2,0,174,other characters' hair erased on 46 frames
+1,logo,0,332,333,absent,0,0,0,0,0,79,"hair on 36/56 presence frames, none of it hers (best P 0.09)"
+2,transition,333,348,16,absent,0,0,0,0,0,6,"hair on 1/3 presence frames, none of it hers (best P 0.00)"
+3,shot,349,862,514,absent,0,0,0,0,0,168,"hair on 43/86 presence frames, none of it hers (best P 0.00)"
+4,transition,863,877,15,absent,0,0,0,0,0,8,"hair on 2/3 presence frames, none of it hers (best P 0.00)"
+5,shot,878,972,95,absent,0,0,0,0,0,48,"hair on 16/16 presence frames, none of it hers (best P 0.00)"
+6,shot,973,1101,129,absent,0,0,0,0,0,44,"hair on 22/22 presence frames, none of it hers (best P 0.00)"
+7,shot,1102,1168,67,absent,0,0,0,0,0,31,"hair on 12/12 presence frames, none of it hers (best P 0.09)"
+8,shot,1169,1222,54,absent,0,0,0,0,0,25,"hair on 9/9 presence frames, none of it hers (best P 0.10)"
+10,shot,1380,1443,64,absent,0,0,0,0,0,27,"hair on 11/11 presence frames, none of it hers (best P 0.00)"
+11,shot,1444,1569,126,absent,0,0,0,0,0,45,"hair on 21/21 presence frames, none of it hers (best P 0.01)"
+12,shot,1570,1614,45,absent,0,0,0,0,0,19,"hair on 8/8 presence frames, none of it hers (best P 0.05)"
+13,shot,1615,1735,121,absent,0,0,0,0,0,40,"hair on 21/21 presence frames, none of it hers (best P 0.10)"
+14,shot,1736,1789,54,absent,0,0,0,0,0,19,"hair on 9/9 presence frames, none of it hers (best P 0.32)"
+15,shot,1790,1866,77,absent,0,0,0,0,0,26,"hair on 13/13 presence frames, none of it hers (best P 0.15)"
+16,shot,1867,1884,18,absent,0,0,0,0,0,10,"hair on 3/3 presence frames, none of it hers (best P 0.00)"
+17,shot,1885,2078,194,absent,0,0,0,0,0,78,"hair on 33/33 presence frames, none of it hers (best P 0.00)"
+18,shot,2079,2115,37,absent,0,0,0,0,0,21,"hair on 7/7 presence frames, none of it hers (best P 0.00)"
+19,shot,2116,2151,36,absent,0,0,0,0,0,18,"hair on 6/6 presence frames, none of it hers (best P 0.00)"
+20,shot,2152,2201,50,absent,0,0,0,0,0,23,"hair on 9/9 presence frames, none of it hers (best P 0.00)"
+21,shot,2202,2244,43,absent,0,0,0,0,0,18,"hair on 7/8 presence frames, none of it hers (best P 0.00)"
+22,shot,2245,2270,26,absent,0,0,0,0,0,11,"hair on 5/5 presence frames, none of it hers (best P 0.09)"
+23,shot,2271,2302,32,absent,0,0,0,0,0,14,"hair on 6/6 presence frames, none of it hers (best P 0.01)"
+24,shot,2303,2344,42,absent,0,0,0,0,0,25,"hair on 7/7 presence frames, none of it hers (best P 0.01)"
+25,shot,2345,2402,58,absent,0,0,0,0,0,33,"hair on 10/10 presence frames, none of it hers (best P 0.01)"
+26,shot,2403,2510,108,absent,0,0,0,0,0,40,"hair on 18/18 presence frames, none of it hers (best P 0.00)"
+27,shot,2511,2555,45,absent,0,0,0,0,0,16,"hair on 8/8 presence frames, none of it hers (best P 0.01)"
+28,transition,2556,2568,13,absent,0,0,0,0,0,6,"hair on 3/3 presence frames, none of it hers (best P 0.02)"
+29,shot,2569,2627,59,absent,0,0,0,0,0,20,"hair on 10/10 presence frames, none of it hers (best P 0.00)"
+30,shot,2628,2658,31,absent,0,0,0,0,0,13,"hair on 6/6 presence frames, none of it hers (best P 0.07)"
+31,shot,2659,2745,87,absent,0,0,0,0,0,22,"hair on 7/15 presence frames, none of it hers (best P 0.00)"
+32,shot,2746,2757,12,absent,0,0,0,0,0,5,"hair on 2/2 presence frames, none of it hers (best P 0.00)"
+33,shot,2758,2766,9,absent,0,0,0,0,0,5,"hair on 2/2 presence frames, none of it hers (best P 0.00)"
+34,shot,2767,2794,28,absent,0,0,0,0,0,10,"hair on 5/5 presence frames, none of it hers (best P 0.07)"
+35,shot,2795,2834,40,absent,0,0,0,0,0,15,"hair on 7/7 presence frames, none of it hers (best P 0.01)"
+36,shot,2835,2914,80,absent,0,0,0,0,0,26,"hair on 14/14 presence frames, none of it hers (best P 0.02)"
+37,shot,2915,3010,96,absent,0,0,0,0,0,35,"hair on 15/16 presence frames, none of it hers (best P 0.01)"
+38,shot,3011,3027,17,absent,0,0,0,0,0,8,"hair on 3/3 presence frames, none of it hers (best P 0.00)"
+39,shot,3028,3065,38,absent,0,0,0,0,0,12,"hair on 6/7 presence frames, none of it hers (best P 0.00)"
+40,shot,3066,3158,93,absent,0,0,0,0,0,24,"hair on 8/16 presence frames, none of it hers (best P 0.00)"
+41,shot,3159,3258,100,absent,0,0,0,0,0,33,"hair on 14/17 presence frames, none of it hers (best P 0.01)"
+42,shot,3259,3290,32,absent,0,0,0,0,0,11,"hair on 6/6 presence frames, none of it hers (best P 0.00)"
+43,shot,3291,3314,24,absent,0,0,0,0,0,9,"hair on 4/4 presence frames, none of it hers (best P 0.00)"
+44,shot,3315,3352,38,absent,0,0,0,0,0,14,"hair on 7/7 presence frames, none of it hers (best P 0.00)"
+45,shot,3353,3376,24,absent,0,0,0,0,0,9,"hair on 4/4 presence frames, none of it hers (best P 0.03)"
+46,shot,3377,3407,31,absent,0,0,0,0,0,16,"hair on 6/6 presence frames, none of it hers (best P 0.01)"
+47,shot,3408,3623,216,absent,0,0,0,0,0,71,"hair on 35/36 presence frames, none of it hers (best P 0.08)"
+48,shot,3624,3660,37,absent,0,0,0,0,0,15,"hair on 7/7 presence frames, none of it hers (best P 0.00)"
+49,shot,3661,3692,32,absent,0,0,0,0,0,14,"hair on 6/6 presence frames, none of it hers (best P 0.00)"
+50,shot,3693,3840,148,absent,0,0,0,0,0,40,"hair on 17/25 presence frames, none of it hers (best P 0.00)"
+51,shot,3841,3908,68,absent,0,0,0,0,0,31,"hair on 12/12 presence frames, none of it hers (best P 0.04)"
+52,shot,3909,3956,48,absent,0,0,0,0,0,17,"hair on 8/8 presence frames, none of it hers (best P 0.01)"
+53,shot,3957,4112,156,absent,0,0,0,0,0,54,"hair on 24/26 presence frames, none of it hers (best P 0.02)"
+54,shot,4113,4334,222,absent,0,0,0,0,0,66,"hair on 36/37 presence frames, none of it hers (best P 0.03)"
+55,shot,4335,4366,32,absent,0,0,0,0,0,12,"hair on 6/6 presence frames, none of it hers (best P 0.01)"
+56,shot,4367,4395,29,absent,0,0,0,0,0,10,"hair on 5/5 presence frames, none of it hers (best P 0.03)"
+57,shot,4396,4458,63,absent,0,0,0,0,0,25,"hair on 11/11 presence frames, none of it hers (best P 0.00)"
+58,shot,4459,4721,263,absent,0,0,0,0,0,71,"hair on 39/44 presence frames, none of it hers (best P 0.01)"
+59,shot,4722,4916,195,absent,0,0,0,0,0,57,"hair on 33/33 presence frames, none of it hers (best P 0.01)"
+60,shot,4917,4980,64,absent,0,0,0,0,0,25,"hair on 11/11 presence frames, none of it hers (best P 0.01)"
+61,shot,4981,5032,52,absent,0,0,0,0,0,20,"hair on 9/9 presence frames, none of it hers (best P 0.01)"
+62,shot,5033,5217,185,absent,0,0,0,0,0,61,"hair on 31/31 presence frames, none of it hers (best P 0.05)"
+63,shot,5218,5269,52,absent,0,0,0,0,0,18,"hair on 8/9 presence frames, none of it hers (best P 0.00)"
+64,shot,5270,5327,58,absent,0,0,0,0,0,18,"hair on 10/10 presence frames, none of it hers (best P 0.00)"
+65,shot,5328,5387,60,absent,0,0,0,0,0,20,"hair on 10/10 presence frames, none of it hers (best P 0.00)"
+66,shot,5388,5627,240,absent,0,0,0,0,0,97,"hair on 40/40 presence frames, none of it hers (best P 0.04)"
+67,shot,5628,5755,128,absent,0,0,0,0,0,45,"hair on 22/22 presence frames, none of it hers (best P 0.00)"
+68,shot,5756,5833,78,absent,0,0,0,0,0,26,"hair on 13/13 presence frames, none of it hers (best P 0.00)"
+69,shot,5834,5905,72,absent,0,0,0,0,0,25,"hair on 12/12 presence frames, none of it hers (best P 0.02)"
+70,shot,5906,6017,112,absent,0,0,0,0,0,40,"hair on 19/19 presence frames, none of it hers (best P 0.01)"
+71,shot,6018,6121,104,absent,0,0,0,0,0,51,"hair on 18/18 presence frames, none of it hers (best P 0.00)"
+72,shot,6122,6331,210,absent,0,0,0,0,0,65,"hair on 35/35 presence frames, none of it hers (best P 0.00)"
+73,shot,6332,6415,84,absent,0,0,0,0,0,31,"hair on 14/14 presence frames, none of it hers (best P 0.00)"
+74,shot,6416,6451,36,absent,0,0,0,0,0,13,"hair on 6/6 presence frames, none of it hers (best P 0.01)"
+75,shot,6452,6499,48,absent,0,0,0,0,0,15,"hair on 8/8 presence frames, none of it hers (best P 0.00)"
+76,shot,6500,6750,251,absent,0,0,0,0,0,88,"hair on 42/42 presence frames, none of it hers (best P 0.01)"
+77,shot,6751,6842,92,absent,0,0,0,0,0,38,"hair on 16/16 presence frames, none of it hers (best P 0.01)"
+78,shot,6843,6920,78,absent,0,0,0,0,0,26,"hair on 13/13 presence frames, none of it hers (best P 0.05)"
+79,shot,6921,7160,240,absent,0,0,0,0,0,80,"hair on 40/40 presence frames, none of it hers (best P 0.01)"
+80,shot,7161,7224,64,absent,0,0,0,0,0,28,"hair on 11/11 presence frames, none of it hers (best P 0.01)"
+81,shot,7225,7258,34,absent,0,0,0,0,0,11,"hair on 6/6 presence frames, none of it hers (best P 0.02)"
+82,shot,7259,7300,42,absent,0,0,0,0,0,18,"hair on 7/7 presence frames, none of it hers (best P 0.01)"
+83,shot,7301,7626,326,absent,0,0,0,0,0,112,"hair on 55/55 presence frames, none of it hers (best P 0.15)"
+84,shot,7627,7712,86,absent,0,0,0,0,0,33,"hair on 15/15 presence frames, none of it hers (best P 0.01)"
+85,shot,7713,7899,187,absent,0,0,0,0,0,71,"hair on 32/32 presence frames, none of it hers (best P 0.05)"
+86,shot,7900,8066,167,absent,0,0,0,0,0,34,"hair on 9/28 presence frames, none of it hers (best P 0.01)"
+87,transition,8067,8077,11,absent,0,0,0,0,0,4,"hair on 1/2 presence frames, none of it hers (best P 0.00)"
+88,shot,8078,8208,131,absent,0,0,0,0,0,30,"hair on 19/22 presence frames, none of it hers (best P 0.01)"
+89,transition,8209,8246,38,absent,0,0,0,0,0,10,"hair on 4/7 presence frames, none of it hers (best P 0.00)"
+90,shot,8247,8324,78,absent,0,0,0,0,0,35,"hair on 12/13 presence frames, none of it hers (best P 0.04)"
+91,transition,8325,8350,26,absent,0,0,0,0,0,8,"hair on 1/5 presence frames, none of it hers (best P 0.00)"
+92,shot,8351,8429,79,absent,0,0,0,0,0,24,"hair on 7/14 presence frames, none of it hers (best P 0.03)"
+93,transition,8430,8441,12,absent,0,0,0,0,0,6,"hair on 2/2 presence frames, none of it hers (best P 0.03)"
+94,shot,8442,8461,20,absent,0,0,0,0,0,9,"hair on 4/4 presence frames, none of it hers (best P 0.03)"
+95,transition,8462,8484,23,absent,0,0,0,0,0,10,"hair on 3/4 presence frames, none of it hers (best P 0.01)"
+96,shot,8485,8514,30,absent,0,0,0,0,0,18,"hair on 5/5 presence frames, none of it hers (best P 0.10)"
+97,transition,8515,8525,11,absent,0,0,0,0,0,7,"hair on 2/2 presence frames, none of it hers (best P 0.08)"
+98,shot,8526,8551,26,absent,0,0,0,0,0,18,"hair on 5/5 presence frames, none of it hers (best P 0.01)"
+99,transition,8552,8561,10,absent,0,0,0,0,0,8,"hair on 2/2 presence frames, none of it hers (best P 0.01)"
+100,shot,8562,8670,109,absent,0,0,0,0,0,51,"hair on 10/19 presence frames, none of it hers (best P 0.00)"
+101,shot,8671,8752,82,absent,0,0,0,0,0,52,"hair on 14/14 presence frames, none of it hers (best P 0.01)"
+102,shot,8753,8868,116,absent,0,0,0,0,0,43,"hair on 20/20 presence frames, none of it hers (best P 0.02)"
+103,shot,8869,9020,152,ok,0,0,0,0,0,409,other characters' hair erased on 90 frames
+104,shot,9021,9134,114,check,17,14,3,5,0,343,other characters' hair erased on 113 frames
+105,shot,9135,9207,73,check,4,2,2,1,0,127,other characters' hair erased on 57 frames
+106,shot,9208,9284,77,absent,0,0,0,0,0,48,"hair on 13/13 presence frames, none of it hers (best P 0.41)"
+107,shot,9285,9311,27,absent,0,0,0,0,0,9,"hair on 4/5 presence frames, none of it hers (best P 0.06)"
+108,shot,9312,9361,50,absent,0,0,0,0,0,19,"hair on 9/9 presence frames, none of it hers (best P 0.01)"
+109,shot,9362,9690,329,ok,0,0,0,0,0,1007,other characters' hair erased on 282 frames
+110,shot,9691,9760,70,absent,0,0,0,0,0,32,"hair on 12/12 presence frames, none of it hers (best P 0.39)"
+111,shot,9761,9847,87,ok,0,0,0,0,0,177,other characters' hair erased on 87 frames
+112,shot,9848,9901,54,check,54,54,0,34,0,183,fallback 1-32: no seed prompts (cleaned seed too small (1800 px): hair lost) | fallback 45-45: no seed prompts (cleaned seed too small (1370 px): hair lost) | fallback 54-54: no seed prompts (cleaned seed too small (1088 px): hair lost) | other characters' hair erased on 54 frames
+113,shot,9902,10006,105,absent,0,0,0,0,0,47,"hair on 18/18 presence frames, none of it hers (best P 0.20)"
+114,shot,10007,10123,117,absent,0,0,0,0,47,33,"47 film indices have no picture (damaged source): 10040-10086; the previous frame is held | hair on 12/12 presence frames, none of it hers (best P 0.01)"
+115,transition,10124,10137,14,absent,0,0,0,0,0,11,"hair on 3/3 presence frames, none of it hers (best P 0.09)"
+116,shot,10138,10231,94,absent,0,0,0,0,0,54,"hair on 16/16 presence frames, none of it hers (best P 0.07)"
+117,shot,10232,10293,62,absent,0,0,0,0,0,39,"hair on 11/11 presence frames, none of it hers (best P 0.46)"
+118,shot,10294,10332,39,ok,5,5,0,0,0,85,"tinted scene: median hair purity 0.40 < 0.5, purity/missed QC off (README step 6) | other characters' hair erased on 37 frames"
+119,shot,10333,10408,76,check,20,20,0,35,0,192,fallback 22-56: no passing frame with hair to seed from | other characters' hair erased on 75 frames
+120,shot,10409,10472,64,absent,0,0,0,0,0,20,"hair on 11/11 presence frames, none of it hers (best P 0.08)"
+121,shot,10473,10625,153,absent,0,0,0,0,0,51,"hair on 26/26 presence frames, none of it hers (best P 0.41)"
+122,shot,10626,10843,218,absent,0,0,0,0,0,72,"hair on 37/37 presence frames, none of it hers (best P 0.01)"
+123,shot,10844,10886,43,absent,0,0,0,0,0,29,"hair on 8/8 presence frames, none of it hers (best P 0.14)"
+124,shot,10887,10994,108,absent,0,0,0,0,0,38,"hair on 18/18 presence frames, none of it hers (best P 0.01)"
+125,shot,10995,11056,62,check,62,62,0,5,0,199,other characters' hair erased on 62 frames
+126,shot,11057,11182,126,absent,0,0,0,0,0,48,"hair on 21/21 presence frames, none of it hers (best P 0.01)"
+127,shot,11183,11276,94,absent,0,0,0,0,0,36,"hair on 16/16 presence frames, none of it hers (best P 0.07)"
+128,shot,11277,11757,481,check,205,199,6,9,0,729,fallback 277-280: no seed prompts (cleaned seed too small (3346 px): hair lost) | other characters' hair erased on 72 frames
+129,transition,11758,11771,14,check,14,14,0,14,0,22,fallback 1-14: no passing frame with hair to seed from
+130,shot,11772,11845,74,check,74,74,0,74,0,110,fallback 1-74: no passing frame with hair to seed from
+131,shot,11846,11949,104,absent,0,0,0,0,0,32,"hair on 18/18 presence frames, none of it hers (best P 0.14)"
+132,shot,11950,12018,69,check,54,53,1,1,0,104,other characters' hair erased on 4 frames
+133,shot,12019,12192,174,absent,0,0,0,0,0,63,"hair on 26/29 presence frames, none of it hers (best P 0.40)"
+134,shot,12193,12312,120,check,114,109,5,38,0,199,fallback 56-59: no seed prompts (cleaned seed too small (3454 px): hair lost) | fallback 62-63: no seed prompts (cleaned seed too small (4010 px): hair lost) | fallback 66-91: no seed prompts (cleaned seed too small (4565 px): hair lost) | other characters' hair erased on 6 frames
+135,shot,12313,12340,28,ok,26,26,0,0,0,42,other characters' hair erased on 2 frames
+136,shot,12341,12382,42,absent,0,0,0,0,0,12,"hair on 7/7 presence frames, none of it hers (best P 0.09)"
+137,shot,12383,12566,184,check,167,143,24,60,0,330,fallback 35-45: no seed prompts (cleaned seed too small (0 px): hair lost) | fallback 147-152: no seed prompts (cleaned seed too small (0 px): hair lost) | fallback 165-170: no seed prompts (cleaned seed too small (0 px): hair lost) | fallback 172-173: no seed prompts (cleaned seed too small (0 px): hair lost) | other characters' hair erased on 6 frames
+138,shot,12567,12648,82,absent,0,0,0,0,0,25,"hair on 14/14 presence frames, none of it hers (best P 0.03)"
+139,shot,12649,12699,51,absent,0,0,0,0,0,17,"hair on 9/9 presence frames, none of it hers (best P 0.03)"
+140,shot,12700,12764,65,absent,0,0,0,0,0,20,"hair on 8/11 presence frames, none of it hers (best P 0.02)"
+141,shot,12765,12820,56,absent,0,0,0,0,0,18,"hair on 10/10 presence frames, none of it hers (best P 0.07)"
+142,shot,12821,12848,28,absent,0,0,0,0,0,11,"hair on 5/5 presence frames, none of it hers (best P 0.00)"
+143,transition,12849,12868,20,absent,0,0,0,0,0,9,"hair on 4/4 presence frames, none of it hers (best P 0.00)"
+144,shot,12869,12967,99,absent,0,0,0,0,0,35,"hair on 17/17 presence frames, none of it hers (best P 0.10)"
+145,shot,12968,13068,101,absent,0,0,0,0,0,33,"hair on 17/17 presence frames, none of it hers (best P 0.18)"
+146,shot,13069,13132,64,absent,0,0,0,0,0,19,"hair on 11/11 presence frames, none of it hers (best P 0.00)"
+147,shot,13133,13226,94,check,2,2,0,2,0,136,fallback 70-71: no passing frame with hair to seed from | other characters' hair erased on 86 frames
+148,shot,13227,13486,260,check,196,180,16,4,0,557,"tinted scene: median hair purity 0.34 < 0.5, purity/missed QC off (README step 6) | fallback 27-27: no seed prompts (cleaned seed too small (0 px): hair lost) | other characters' hair erased on 260 frames"
+149,shot,13487,13534,48,absent,0,0,0,0,0,17,"hair on 8/8 presence frames, none of it hers (best P 0.15)"
+150,shot,13535,13590,56,absent,0,0,0,0,0,18,"hair on 9/10 presence frames, none of it hers (best P 0.05)"
+151,shot,13591,13693,103,absent,0,0,0,0,0,33,"hair on 17/18 presence frames, none of it hers (best P 0.14)"
+152,shot,13694,13773,80,absent,0,0,0,0,0,28,"hair on 14/14 presence frames, none of it hers (best P 0.04)"
+153,shot,13774,13805,32,absent,0,0,0,0,0,11,"hair on 6/6 presence frames, none of it hers (best P 0.00)"
+154,shot,13806,13833,28,absent,0,0,0,0,0,11,"hair on 5/5 presence frames, none of it hers (best P 0.03)"
+155,shot,13834,13948,115,absent,0,0,0,0,0,42,"hair on 20/20 presence frames, none of it hers (best P 0.06)"
+156,shot,13949,13981,33,absent,0,0,0,0,0,15,"hair on 6/6 presence frames, none of it hers (best P 0.01)"
+157,shot,13982,14073,92,check,92,88,4,26,0,224,other characters' hair erased on 92 frames
+158,shot,14074,14178,105,absent,0,0,0,0,0,32,"hair on 18/18 presence frames, none of it hers (best P 0.04)"
+159,shot,14179,14246,68,ok,68,68,0,0,0,115,
+160,shot,14247,14297,51,absent,0,0,0,0,0,16,"hair on 9/9 presence frames, none of it hers (best P 0.08)"
+161,shot,14298,14361,64,ok,64,64,0,0,0,97,
+162,shot,14362,14393,32,absent,0,0,0,0,0,13,"hair on 6/6 presence frames, none of it hers (best P 0.07)"
+163,shot,14394,14479,86,ok,86,86,0,0,0,175,
+164,transition,14480,14501,22,check,22,20,2,4,0,63,"tinted scene: median hair purity 0.00 < 0.5, purity/missed QC off (README step 6) | fallback 13-14: no seed prompts (cleaned seed too small (0 px): hair lost) | other characters' hair erased on 22 frames"
+165,shot,14502,14721,220,check,104,104,0,94,0,826,fallback 1-91: no seed prompts (cleaned seed too small (1767 px): hair lost) | fallback 102-104: no seed prompts (cleaned seed too small (1369 px): hair lost) | other characters' hair erased on 161 frames
+166,shot,14722,14841,120,absent,0,0,0,0,0,51,"hair on 20/20 presence frames, none of it hers (best P 0.01)"
+167,shot,14842,14913,72,absent,0,0,0,0,0,26,"hair on 12/12 presence frames, none of it hers (best P 0.06)"
+169,shot,15041,15102,62,absent,0,0,0,0,0,23,"hair on 11/11 presence frames, none of it hers (best P 0.01)"
+170,shot,15103,15166,64,absent,0,0,0,0,0,35,"hair on 11/11 presence frames, none of it hers (best P 0.01)"
+172,shot,15247,15526,280,check,234,211,23,5,0,716,other characters' hair erased on 216 frames
+173,shot,15527,15591,65,check,29,29,0,40,0,166,fallback 13-16: no seed prompts (cleaned seed too small (3737 px): hair lost) | fallback 19-20: no seed prompts (cleaned seed too small (3737 px): hair lost) | fallback 25-29: no seed prompts (cleaned seed too small (3829 px): hair lost) | fallback 31-34: no seed prompts (cleaned seed too small (3374 px): hair lost) | fallback 37-40: no seed prompts (cleaned seed too small (2990 px): hair lost) | fallback 43-45: no seed prompts (cleaned seed too small (2926 px): hair lost) | fallback 47-64: no seed prompts (cleaned seed too small (2584 px): hair lost) | other characters' hair erased on 4 frames
+174,shot,15592,15675,84,absent,0,0,0,0,0,32,"hair on 13/14 presence frames, none of it hers (best P 0.18)"
+175,shot,15676,15796,121,check,42,42,0,28,0,307,fallback 1-20: no seed prompts (cleaned seed too small (534 px): hair lost) | fallback 52-55: no seed prompts (cleaned seed too small (534 px): hair lost) | fallback 116-119: no seed prompts (cleaned seed too small (3700 px): hair lost) | other characters' hair erased on 6 frames
+176,shot,15797,15930,134,check,134,96,38,88,0,455,other characters' hair erased on 123 frames
+177,shot,15931,15988,58,absent,0,0,0,0,0,27,"hair on 10/10 presence frames, none of it hers (best P 0.46)"
+178,shot,15989,16024,36,check,36,31,5,18,0,87,
+179,shot,16025,16113,89,absent,0,0,0,0,0,33,"hair on 15/15 presence frames, none of it hers (best P 0.00)"
+180,shot,16114,16150,37,ok,37,37,0,0,0,71,
+181,shot,16151,16182,32,absent,0,0,0,0,0,15,"hair on 6/6 presence frames, none of it hers (best P 0.01)"
+182,shot,16183,16216,34,absent,0,0,0,0,0,13,"hair on 6/6 presence frames, none of it hers (best P 0.13)"
+183,shot,16217,16278,62,ok,62,7,55,0,0,223,other characters' hair erased on 62 frames
+184,shot,16279,16336,58,check,58,58,0,58,0,140,fallback 1-58: no passing frame with hair to seed from | other characters' hair erased on 44 frames
+185,shot,16337,16364,28,ok,28,28,0,0,0,53,
+187,shot,16411,16496,86,check,86,35,51,79,0,287,other characters' hair erased on 57 frames
+188,shot,16497,16581,85,absent,0,0,0,0,0,35,"hair on 14/15 presence frames, none of it hers (best P 0.03)"
+112,shot,9848,9901,54,ok,54,54,0,0,0,253,"dusk scene: median hair purity 0.55 < 0.75, purity QC off | other characters' hair erased on 54 frames"
+119,shot,10333,10408,76,check,22,18,4,17,0,269,"dusk scene: median hair purity 0.64 < 0.75, purity QC off | fallback 40-55: no seed prompts (cleaned seed too small (3150 px): hair lost) | other characters' hair erased on 75 frames"
+129,transition,11758,11771,14,ok,14,14,0,0,0,29,"dusk scene: median hair purity 0.70 < 0.75, purity QC off"
+130,shot,11772,11845,74,ok,74,74,0,0,0,143,"dusk scene: median hair purity 0.66 < 0.75, purity QC off"
+137,shot,12383,12566,184,check,167,155,12,36,0,415,"dusk scene: median hair purity 0.71 < 0.75, purity QC off | fallback 41-41: no seed prompts (cleaned seed too small (0 px): hair lost) | fallback 132-132: no seed prompts (cleaned seed too small (0 px): hair lost) | fallback 136-136: no seed prompts (cleaned seed too small (0 px): hair lost) | fallback 138-138: no seed prompts (cleaned seed too small (0 px): hair lost) | fallback 149-149: no seed prompts (cleaned seed too small (0 px): hair lost) | fallback 151-151: no seed prompts (cleaned seed too small (0 px): hair lost) | fallback 165-170: no seed prompts (cleaned seed too small (0 px): hair lost) | fallback 172-173: no seed prompts (cleaned seed too small (0 px): hair lost) | other characters' hair erased on 6 frames"
+147,shot,13133,13226,94,ok,2,2,0,0,0,176,"dusk scene: median hair purity 0.68 < 0.75, purity QC off | other characters' hair erased on 86 frames"
+148,shot,13227,13486,260,check,196,180,16,4,0,728,"tinted scene: median hair purity 0.34 < 0.5, purity/missed QC off | fallback 27-27: no seed prompts (cleaned seed too small (0 px): hair lost) | other characters' hair erased on 260 frames"
+164,transition,14480,14501,22,check,22,20,2,4,0,80,"tinted scene: median hair purity 0.00 < 0.5, purity/missed QC off | fallback 13-14: no seed prompts (cleaned seed too small (0 px): hair lost) | other characters' hair erased on 22 frames"
+165,shot,14502,14721,220,check,104,104,0,1,0,874,"dusk scene: median hair purity 0.58 < 0.75, purity QC off | fallback 104-104: no seed prompts (cleaned seed too small (2025 px): hair lost) | other characters' hair erased on 161 frames"
+173,shot,15527,15591,65,check,29,29,0,26,0,167,"dusk scene: median hair purity 0.75 < 0.75, purity QC off | fallback 13-13: no seed prompts (cleaned seed too small (3711 px): hair lost) | fallback 29-29: no seed prompts (cleaned seed too small (3463 px): hair lost) | fallback 31-34: no seed prompts (cleaned seed too small (3374 px): hair lost) | fallback 37-40: no seed prompts (cleaned seed too small (2990 px): hair lost) | fallback 43-45: no seed prompts (cleaned seed too small (2926 px): hair lost) | fallback 48-50: no seed prompts (cleaned seed too small (2484 px): hair lost) | fallback 53-62: no seed prompts (cleaned seed too small (2264 px): hair lost) | other characters' hair erased on 4 frames"
+175,shot,15676,15796,121,check,42,42,0,4,0,315,"dusk scene: median hair purity 0.72 < 0.75, purity QC off | fallback 18-19: no seed prompts (cleaned seed too small (835 px): hair lost) | fallback 52-53: no seed prompts (cleaned seed too small (534 px): hair lost) | other characters' hair erased on 6 frames"
+176,shot,15797,15930,134,ok,134,134,0,0,0,390,"dark scene: 66% of frames fail 'missed', missed QC off | other characters' hair erased on 123 frames"
+178,shot,15989,16024,36,ok,36,36,0,0,0,67,"dark scene: 64% of frames fail 'missed', missed QC off"
+184,shot,16279,16336,58,ok,58,58,0,0,0,146,"dark scene: 100% of frames fail 'missed', missed QC off | other characters' hair erased on 44 frames"
+187,shot,16411,16496,86,check,86,86,0,7,0,235,"dark scene: 95% of frames fail 'missed', missed QC off | other characters' hair erased on 57 frames"
+189,shot,16582,16621,40,absent,0,0,0,0,0,20,"hair on 7/7 presence frames, none of it hers (best P 0.02)"
+190,shot,16622,16668,47,absent,0,0,0,0,0,21,"hair on 8/8 presence frames, none of it hers (best P 0.11)"
+191,shot,16669,16753,85,check,85,85,0,16,0,237,fallback 9-24: no seed prompts (cleaned seed too small (3846 px): hair lost) | other characters' hair erased on 67 frames
+192,shot,16754,16794,41,absent,0,0,0,0,0,15,"hair on 7/7 presence frames, none of it hers (best P 0.00)"
+193,shot,16795,16818,24,absent,0,0,0,0,0,10,"hair on 4/4 presence frames, none of it hers (best P 0.01)"
+194,shot,16819,16866,48,check,48,33,15,7,0,136,
+195,shot,16867,16919,53,absent,0,0,0,0,0,23,"hair on 8/9 presence frames, none of it hers (best P 0.00)"
+196,shot,16920,17033,114,check,114,95,19,13,0,312,
+197,shot,17034,17147,114,check,50,43,7,8,0,273,other characters' hair erased on 112 frames
+198,shot,17148,17323,176,ok,0,0,0,0,0,366,
+199,shot,17324,17529,206,ok,121,121,0,0,0,444,"dark scene: 88% of frames fail 'missed', missed QC off | other characters' hair erased on 206 frames"
+200,shot,17530,17742,213,absent,0,0,0,0,0,68,"hair on 36/36 presence frames, none of it hers (best P 0.03)"
+201,shot,17743,17910,168,ok,0,0,0,0,0,259,other characters' hair erased on 36 frames
+202,shot,17911,18029,119,absent,0,0,0,0,0,36,"hair on 20/20 presence frames, none of it hers (best P 0.01)"
+203,shot,18030,18120,91,ok,91,91,0,0,0,190,other characters' hair erased on 62 frames
+204,shot,18121,18216,96,check,36,35,1,1,0,152,other characters' hair erased on 59 frames
+205,shot,18217,18377,161,ok,161,160,1,0,0,249,
+206,shot,18378,18423,46,ok,30,30,0,0,0,70,"tinted scene: median hair purity 0.04 < 0.5, purity/missed QC off | other characters' hair erased on 8 frames"
+207,shot,18424,18501,78,ok,78,78,0,0,0,117,
+208,shot,18502,18581,80,absent,0,0,0,0,0,31,"hair on 13/14 presence frames, none of it hers (best P 0.01)"
+209,shot,18582,18627,46,ok,46,46,0,0,0,70,"dark scene: 70% of frames fail 'missed', missed QC off"
+210,shot,18628,18691,64,absent,0,0,0,0,0,17,"hair on 1/11 presence frames, none of it hers (best P 0.03)"
+211,shot,18692,18746,55,check,47,47,0,9,0,100,"dusk scene: median hair purity 0.71 < 0.75, purity QC off | fallback 2-2: no seed prompts (cleaned seed too small (1923 px): hair lost) | fallback 18-19: no seed prompts (cleaned seed too small (1780 px): hair lost) | fallback 26-29: no seed prompts (cleaned seed too small (915 px): hair lost) | fallback 33-33: no seed prompts (cleaned seed too small (1105 px): hair lost) | fallback 35-35: no seed prompts (cleaned seed too small (982 px): hair lost) | other characters' hair erased on 11 frames"
+212,shot,18747,18791,45,check,37,24,13,7,0,86,
+213,shot,18792,18851,60,ok,60,58,2,0,0,95,
+214,shot,18852,18967,116,absent,0,0,0,0,0,40,"hair on 17/20 presence frames, none of it hers (best P 0.07)"
+215,shot,18968,19016,49,check,49,41,8,1,0,89,
+216,shot,19017,19061,45,absent,0,0,0,0,0,17,"hair on 8/8 presence frames, none of it hers (best P 0.09)"
+217,shot,19062,19239,178,check,62,49,13,13,0,335,other characters' hair erased on 15 frames
+218,shot,19240,19281,42,ok,39,36,3,0,0,71,other characters' hair erased on 3 frames
+219,shot,19282,19322,41,ok,41,41,0,0,0,65,
+220,shot,19323,19373,51,absent,0,0,0,0,0,22,"hair on 9/9 presence frames, none of it hers (best P 0.01)"
+221,shot,19374,19504,131,check,34,33,1,6,0,211,fallback 15-15: no seed prompts (cleaned seed too small (4912 px): hair lost) | fallback 17-20: no seed prompts (cleaned seed too small (4667 px): hair lost) | other characters' hair erased on 47 frames
+222,shot,19505,19582,78,ok,78,78,0,0,0,117,"dark scene: 85% of frames fail 'missed', missed QC off"
+223,shot,19583,19692,110,ok,33,33,0,0,0,179,"dusk scene: median hair purity 0.71 < 0.75, purity QC off | other characters' hair erased on 52 frames"
+224,shot,19693,19891,199,ok,199,199,0,0,0,302,
+225,shot,19892,19937,46,ok,0,0,0,0,0,72,
+226,shot,19938,20024,87,absent,0,0,0,0,0,32,"hair on 14/15 presence frames, none of it hers (best P 0.07)"
+227,shot,20025,20126,102,ok,102,102,0,0,0,165,
+228,shot,20127,20172,46,absent,0,0,0,0,0,16,"hair on 7/8 presence frames, none of it hers (best P 0.15)"
+229,shot,20173,20201,29,ok,29,29,0,0,0,43,
+230,shot,20202,20237,36,absent,0,0,0,0,0,12,"hair on 5/6 presence frames, none of it hers (best P 0.02)"
+231,shot,20238,20261,24,absent,0,0,0,0,0,10,"hair on 4/4 presence frames, none of it hers (best P 0.06)"
+232,shot,20262,20351,90,check,83,79,4,27,0,197,fallback 4-5: no seed prompts (cleaned seed too small (3957 px): hair lost) | fallback 44-51: no seed prompts (cleaned seed too small (0 px): hair lost) | fallback 53-53: no seed prompts (cleaned seed too small (0 px): hair lost) | other characters' hair erased on 2 frames
+233,shot,20352,20397,46,ok,0,0,0,0,0,66,
+234,shot,20398,20536,139,check,117,108,9,17,0,272,other characters' hair erased on 16 frames
+235,shot,20537,20588,52,check,52,48,4,5,0,96,
+236,shot,20589,20652,64,ok,7,7,0,0,0,109,"tinted scene: median hair purity 0.00 < 0.5, purity/missed QC off"
+237,shot,20653,20734,82,check,82,80,2,3,0,144,
+238,shot,20735,20852,118,absent,0,0,0,0,0,45,"hair on 20/20 presence frames, none of it hers (best P 0.00)"
+239,shot,20853,20906,54,ok,54,54,0,0,0,115,"dusk scene: median hair purity 0.58 < 0.75, purity QC off"
+241,transition,20985,20999,15,ok,15,15,0,0,0,32,"tinted scene: median hair purity 0.00 < 0.5, purity/missed QC off | other characters' hair erased on 15 frames"
+242,shot,21000,21063,64,ok,64,64,0,0,0,130,"tinted scene: median hair purity 0.00 < 0.5, purity/missed QC off | other characters' hair erased on 64 frames"
+243,shot,21064,21160,97,ok,97,97,0,0,0,146,
+244,shot,21161,21233,73,ok,73,73,0,0,0,129,"tinted scene: median hair purity 0.00 < 0.5, purity/missed QC off | other characters' hair erased on 39 frames"
+245,shot,21234,21575,342,ok,342,342,0,0,0,521,
+246,shot,21576,21791,216,absent,0,0,0,0,0,74,"hair on 36/36 presence frames, none of it hers (best P 0.00)"
+247,shot,21792,21903,112,absent,0,0,0,0,0,57,"hair on 19/19 presence frames, none of it hers (best P 0.03)"
+248,shot,21904,21967,64,check,64,64,0,1,0,143,"tinted scene: median hair purity 0.30 < 0.5, purity/missed QC off | fallback 64-64: no seed prompts (cleaned seed too small (1126 px): hair lost)"
+249,shot,21968,22052,85,ok,85,85,0,0,0,125,
+250,shot,22053,22094,42,absent,0,0,0,0,0,18,"hair on 7/7 presence frames, none of it hers (best P 0.00)"
+251,shot,22095,22144,50,absent,0,0,0,0,0,22,"hair on 9/9 presence frames, none of it hers (best P 0.00)"
+252,shot,22145,22359,215,check,215,192,23,31,0,387,"dark scene: 54% of frames fail 'missed', missed QC off | fallback 20-42: no seed prompts (cleaned seed too small (4673 px): hair lost)"
+253,shot,22360,22483,124,check,124,93,31,49,0,247,fallback 102-102: no seed prompts (cleaned seed too small (4715 px): hair lost)
+254,shot,22484,22735,252,check,66,63,3,1,0,462,other characters' hair erased on 171 frames
+255,shot,22736,22854,119,ok,119,119,0,0,0,173,
+256,shot,22855,22940,86,absent,0,0,0,0,0,35,"hair on 15/15 presence frames, none of it hers (best P 0.03)"
+257,shot,22941,23108,168,ok,168,168,0,0,0,253,
+258,shot,23109,23182,74,absent,0,0,0,0,0,34,"hair on 13/13 presence frames, none of it hers (best P 0.01)"
+259,shot,23183,23214,32,absent,0,0,0,0,0,13,"hair on 6/6 presence frames, none of it hers (best P 0.01)"
+260,shot,23215,23252,38,absent,0,0,0,0,0,15,"hair on 6/7 presence frames, none of it hers (best P 0.06)"
+261,shot,23253,23308,56,absent,0,0,0,0,0,22,"hair on 10/10 presence frames, none of it hers (best P 0.02)"
+262,shot,23309,23360,52,ok,0,0,0,0,0,81,
+263,shot,23361,23388,28,absent,0,0,0,0,0,11,"hair on 5/5 presence frames, none of it hers (best P 0.00)"
+264,shot,23389,23412,24,absent,0,0,0,0,0,10,"hair on 4/4 presence frames, none of it hers (best P 0.07)"
+265,shot,23413,23496,84,absent,0,0,0,0,0,27,"hair on 13/14 presence frames, none of it hers (best P 0.02)"
+266,shot,23497,23549,53,ok,53,53,0,0,0,84,
+267,shot,23550,23741,192,ok,192,192,0,0,0,286,
+268,shot,23742,23831,90,absent,0,0,0,0,0,37,"hair on 15/15 presence frames, none of it hers (best P 0.05)"
+269,shot,23832,23891,60,ok,60,60,0,0,0,87,
+270,shot,23892,23917,26,absent,0,0,0,0,0,11,"hair on 5/5 presence frames, none of it hers (best P 0.08)"
+271,shot,23918,23961,44,ok,44,44,0,0,0,65,
+272,shot,23962,24017,56,absent,0,0,0,0,0,19,"hair on 9/10 presence frames, none of it hers (best P 0.08)"
+273,shot,24018,24185,168,absent,0,0,0,0,0,77,"hair on 28/28 presence frames, none of it hers (best P 0.02)"
+274,shot,24186,24307,122,ok,122,122,0,0,0,184,
+275,shot,24308,24421,114,absent,0,0,0,0,0,49,"hair on 19/19 presence frames, none of it hers (best P 0.01)"
+276,shot,24422,24479,58,ok,58,58,0,0,0,89,
+277,shot,24480,24623,144,absent,0,0,0,0,0,57,"hair on 23/24 presence frames, none of it hers (best P 0.01)"
+278,shot,24624,24781,158,ok,158,158,0,0,0,230,
+279,shot,24782,24841,60,absent,0,0,0,0,0,21,"hair on 10/10 presence frames, none of it hers (best P 0.01)"
+280,shot,24842,24915,74,absent,0,0,0,0,0,28,"hair on 12/13 presence frames, none of it hers (best P 0.01)"
+281,shot,24916,25089,174,ok,174,174,0,0,0,269,"dark scene: 59% of frames fail 'missed', missed QC off"
+282,shot,25090,25175,86,absent,0,0,0,0,0,33,"hair on 15/15 presence frames, none of it hers (best P 0.00)"
+283,shot,25176,25260,85,ok,0,0,0,0,0,140,
+284,shot,25261,25345,85,ok,85,85,0,0,0,133,
+285,shot,25346,25430,85,absent,0,0,0,0,0,28,"hair on 15/15 presence frames, none of it hers (best P 0.22)"
+286,shot,25431,25679,249,ok,249,249,0,0,0,393,"dusk scene: median hair purity 0.72 < 0.75, purity QC off"
+287,shot,25680,25760,81,ok,67,67,0,0,0,129,other characters' hair erased on 3 frames
+288,shot,25761,25811,51,absent,0,0,0,0,0,18,"hair on 9/9 presence frames, none of it hers (best P 0.00)"
+289,shot,25812,25859,48,ok,38,38,0,0,0,81,"dark scene: 92% of frames fail 'missed', missed QC off | other characters' hair erased on 6 frames"
+290,shot,25860,25923,64,check,58,56,2,2,0,106,other characters' hair erased on 5 frames
+291,shot,25924,25957,34,absent,0,0,0,0,0,13,"hair on 6/6 presence frames, none of it hers (best P 0.02)"
+292,shot,25958,25993,36,check,36,36,0,1,0,60,
+293,shot,25994,26057,64,absent,0,0,0,0,0,26,"hair on 11/11 presence frames, none of it hers (best P 0.01)"
+294,shot,26058,26112,55,ok,55,55,0,0,0,82,
+295,shot,26113,26224,112,absent,0,0,0,0,0,44,"hair on 19/19 presence frames, none of it hers (best P 0.01)"
+296,shot,26225,26381,157,absent,0,0,0,0,0,60,"hair on 25/27 presence frames, none of it hers (best P 0.00)"
+297,shot,26382,26433,52,absent,0,0,0,0,0,18,"hair on 9/9 presence frames, none of it hers (best P 0.00)"
+298,shot,26434,26583,150,absent,0,0,0,0,0,56,"hair on 25/25 presence frames, none of it hers (best P 0.00)"
+299,shot,26584,26657,74,absent,0,0,0,0,0,23,"hair on 13/13 presence frames, none of it hers (best P 0.02)"
+300,shot,26658,26673,16,absent,0,0,0,0,0,6,"hair on 3/3 presence frames, none of it hers (best P 0.00)"
+301,shot,26674,26703,30,absent,0,0,0,0,0,12,"hair on 5/5 presence frames, none of it hers (best P 0.00)"
+302,shot,26704,26805,102,absent,0,0,0,0,0,33,"hair on 17/17 presence frames, none of it hers (best P 0.02)"
+303,shot,26806,26875,70,absent,0,0,0,0,0,24,"hair on 12/12 presence frames, none of it hers (best P 0.00)"
+304,shot,26876,26945,70,absent,0,0,0,0,0,23,"hair on 12/12 presence frames, none of it hers (best P 0.02)"
+305,shot,26946,27022,77,absent,0,0,0,0,0,31,"hair on 13/13 presence frames, none of it hers (best P 0.02)"
+306,shot,27023,27133,111,absent,0,0,0,0,0,36,"hair on 19/19 presence frames, none of it hers (best P 0.18)"
+307,shot,27134,27280,147,absent,0,0,0,0,0,47,"hair on 25/25 presence frames, none of it hers (best P 0.00)"
+308,shot,27281,27387,107,absent,0,0,0,0,0,33,"hair on 18/18 presence frames, none of it hers (best P 0.04)"
+309,shot,27388,27463,76,absent,0,0,0,0,0,30,"hair on 13/13 presence frames, none of it hers (best P 0.01)"
+310,shot,27464,27523,60,absent,0,0,0,0,0,24,"hair on 10/10 presence frames, none of it hers (best P 0.10)"
+311,shot,27524,27619,96,absent,0,0,0,0,0,29,"hair on 16/16 presence frames, none of it hers (best P 0.00)"
+312,shot,27620,27667,48,absent,0,0,0,0,0,16,"hair on 8/8 presence frames, none of it hers (best P 0.01)"
+313,shot,27668,27773,106,absent,0,0,0,0,0,34,"hair on 18/18 presence frames, none of it hers (best P 0.02)"
+314,shot,27774,27937,164,absent,0,0,0,0,0,54,"hair on 28/28 presence frames, none of it hers (best P 0.01)"
+315,shot,27938,27955,18,absent,0,0,0,0,0,6,"hair on 3/3 presence frames, none of it hers (best P 0.00)"
+316,shot,27956,28250,295,absent,0,0,0,0,0,111,"hair on 50/50 presence frames, none of it hers (best P 0.01)"
+317,shot,28251,28307,57,absent,0,0,0,0,0,19,"hair on 7/10 presence frames, none of it hers (best P 0.01)"
+318,shot,28308,28380,73,absent,0,0,0,0,0,30,"hair on 13/13 presence frames, none of it hers (best P 0.00)"
+319,shot,28381,28464,84,absent,0,0,0,0,0,41,"hair on 14/14 presence frames, none of it hers (best P 0.06)"
+320,shot,28465,28555,91,absent,0,0,0,0,0,28,"hair on 16/16 presence frames, none of it hers (best P 0.01)"
+321,shot,28556,28590,35,absent,0,0,0,0,0,14,"hair on 6/6 presence frames, none of it hers (best P 0.00)"
+322,shot,28591,28673,83,absent,0,0,0,0,0,28,"hair on 14/14 presence frames, none of it hers (best P 0.02)"
+323,shot,28674,28766,93,absent,0,0,0,0,0,33,"hair on 16/16 presence frames, none of it hers (best P 0.00)"
+324,shot,28767,28830,64,absent,0,0,0,0,0,19,"hair on 8/11 presence frames, none of it hers (best P 0.02)"
+325,shot,28831,29054,224,absent,0,0,0,0,0,78,"hair on 38/38 presence frames, none of it hers (best P 0.14)"
+326,shot,29055,29119,65,check,24,21,3,17,0,134,other characters' hair erased on 35 frames
+327,shot,29120,29215,96,absent,0,0,0,0,0,44,"hair on 16/16 presence frames, none of it hers (best P 0.01)"
+328,shot,29216,29271,56,absent,0,0,0,0,0,22,"hair on 7/10 presence frames, none of it hers (best P 0.03)"
+329,shot,29272,29401,130,check,118,118,0,44,0,219,fallback 1-44: no seed prompts (cleaned seed too small (1566 px): hair lost)
+330,shot,29402,29481,80,absent,0,0,0,0,0,31,"hair on 14/14 presence frames, none of it hers (best P 0.00)"
+331,shot,29482,29573,92,ok,92,92,0,0,0,141,
+332,shot,29574,29613,40,absent,0,0,0,0,0,15,"hair on 7/7 presence frames, none of it hers (best P 0.00)"
+333,shot,29614,29691,78,check,78,78,0,1,0,117,fallback 2-2: no seed prompts (cleaned seed too small (3259 px): hair lost) | other characters' hair erased on 2 frames
+334,shot,29692,29877,186,absent,0,0,0,0,0,55,"hair on 31/31 presence frames, none of it hers (best P 0.07)"
+335,shot,29878,29983,106,ok,106,106,0,0,0,158,
+336,shot,29984,30135,152,absent,0,0,0,0,0,45,"hair on 13/26 presence frames, none of it hers (best P 0.02)"
+337,shot,30136,30239,104,absent,0,0,0,0,0,32,"hair on 18/18 presence frames, none of it hers (best P 0.09)"
+338,shot,30240,30269,30,absent,0,0,0,0,0,11,"hair on 5/5 presence frames, none of it hers (best P 0.00)"
+339,shot,30270,30300,31,absent,0,0,0,0,0,14,"hair on 6/6 presence frames, none of it hers (best P 0.00)"
+340,shot,30301,30364,64,ok,64,64,0,0,0,102,"dark scene: 100% of frames fail 'missed', missed QC off"
+341,shot,30365,30420,56,absent,0,0,0,0,0,20,"hair on 10/10 presence frames, none of it hers (best P 0.04)"
+342,shot,30421,30467,47,ok,47,47,0,0,0,77,"dark scene: 74% of frames fail 'missed', missed QC off"
+343,shot,30468,30534,67,ok,67,67,0,0,0,108,"dark scene: 100% of frames fail 'missed', missed QC off"
+344,shot,30535,30591,57,absent,0,0,0,0,0,21,"hair on 10/10 presence frames, none of it hers (best P 0.08)"
+345,shot,30592,30697,106,absent,0,0,0,0,0,28,"hair on 2/18 presence frames, none of it hers (best P 0.00)"
+346,shot,30698,30817,120,check,120,119,1,2,0,292,other characters' hair erased on 28 frames
+347,shot,30818,30857,40,absent,0,0,0,0,0,15,"hair on 6/7 presence frames, none of it hers (best P 0.13)"
+348,shot,30858,30873,16,ok,16,16,0,0,0,25,
+349,shot,30874,30905,32,ok,0,0,0,0,0,73,other characters' hair erased on 28 frames
+350,shot,30906,30953,48,absent,0,0,0,0,0,16,"hair on 5/8 presence frames, none of it hers (best P 0.01)"
+351,shot,30954,30993,40,absent,0,0,0,0,0,16,"hair on 7/7 presence frames, none of it hers (best P 0.13)"
+352,shot,30994,31007,14,absent,0,0,0,0,0,6,"hair on 2/3 presence frames, none of it hers (best P 0.01)"
+353,shot,31008,31093,86,absent,0,0,0,0,0,25,"hair on 12/15 presence frames, none of it hers (best P 0.10)"
+354,shot,31094,31123,30,ok,30,30,0,0,0,46,
+355,shot,31124,31469,346,absent,0,0,0,0,0,128,"hair on 56/58 presence frames, none of it hers (best P 0.05)"
+356,shot,31470,31517,48,absent,0,0,0,0,0,19,"hair on 8/8 presence frames, none of it hers (best P 0.04)"
+357,shot,31518,31592,75,absent,0,0,0,0,0,29,"hair on 13/13 presence frames, none of it hers (best P 0.03)"
+358,shot,31593,31634,42,check,42,42,0,18,0,87,
+359,shot,31635,31720,86,absent,0,0,0,0,0,35,"hair on 15/15 presence frames, none of it hers (best P 0.02)"
+360,shot,31721,31755,35,ok,35,35,0,0,0,72,"dark scene: 100% of frames fail 'missed', missed QC off"
+361,shot,31756,31837,82,absent,0,0,0,0,0,30,"hair on 14/14 presence frames, none of it hers (best P 0.01)"
+362,shot,31838,31897,60,ok,60,60,0,0,0,97,
+363,shot,31898,31938,41,absent,0,0,0,0,0,16,"hair on 7/7 presence frames, none of it hers (best P 0.10)"
+364,shot,31939,32021,83,absent,0,0,0,0,0,27,"hair on 14/14 presence frames, none of it hers (best P 0.28)"
+365,shot,32022,32137,116,absent,0,0,0,0,0,42,"hair on 20/20 presence frames, none of it hers (best P 0.01)"
+366,shot,32138,32236,99,absent,0,0,0,0,0,42,"hair on 17/17 presence frames, none of it hers (best P 0.01)"
+367,shot,32237,32300,64,absent,0,0,0,0,0,23,"hair on 11/11 presence frames, none of it hers (best P 0.03)"
+368,shot,32301,32357,57,ok,57,55,2,0,0,93,
+369,shot,32358,32597,240,absent,0,0,0,0,0,81,"hair on 29/40 presence frames, none of it hers (best P 0.06)"
+370,shot,32598,32789,192,absent,0,0,0,0,0,89,"hair on 31/32 presence frames, none of it hers (best P 0.02)"
+371,shot,32790,32920,131,absent,0,0,0,0,0,48,"hair on 22/22 presence frames, none of it hers (best P 0.01)"
+372,shot,32921,33118,198,absent,0,0,0,0,0,61,"hair on 33/33 presence frames, none of it hers (best P 0.01)"
+373,shot,33119,33240,122,absent,0,0,0,0,0,36,"hair on 19/21 presence frames, none of it hers (best P 0.16)"
+374,shot,33241,33438,198,absent,0,0,0,0,0,118,"hair on 33/33 presence frames, none of it hers (best P 0.04)"
+375,shot,33439,33482,44,absent,0,0,0,0,0,27,"hair on 8/8 presence frames, none of it hers (best P 0.32)"
+376,shot,33483,33523,41,absent,0,0,0,0,0,15,"hair on 7/7 presence frames, none of it hers (best P 0.13)"
+377,shot,33524,33641,118,absent,0,0,0,0,0,36,"hair on 20/20 presence frames, none of it hers (best P 0.01)"
+378,shot,33642,33653,12,absent,0,0,0,0,0,5,"hair on 1/2 presence frames, none of it hers (best P 0.01)"
+379,shot,33654,33667,14,absent,0,0,0,0,0,5,"hair on 1/3 presence frames, none of it hers (best P 0.00)"
+380,shot,33668,33692,25,absent,0,0,0,0,0,11,"hair on 5/5 presence frames, none of it hers (best P 0.00)"
+381,shot,33693,33708,16,absent,0,0,0,0,0,11,"hair on 3/3 presence frames, none of it hers (best P 0.01)"
+382,shot,33709,33948,240,absent,0,0,0,0,0,79,"hair on 36/40 presence frames, none of it hers (best P 0.08)"
+383,shot,33949,34179,231,absent,0,0,0,0,0,114,"hair on 39/39 presence frames, none of it hers (best P 0.36)"
+384,shot,34180,34371,192,absent,0,0,0,0,0,55,"hair on 32/32 presence frames, none of it hers (best P 0.01)"
+385,shot,34372,34432,61,absent,0,0,0,0,0,38,"hair on 11/11 presence frames, none of it hers (best P 0.05)"
+386,shot,34433,34497,65,absent,0,0,0,0,0,22,"hair on 11/11 presence frames, none of it hers (best P 0.02)"
+387,shot,34498,34525,28,absent,0,0,0,0,0,16,"hair on 5/5 presence frames, none of it hers (best P 0.01)"
+388,shot,34526,34675,150,absent,0,0,0,0,0,81,"hair on 25/25 presence frames, none of it hers (best P 0.00)"
+389,shot,34676,34882,207,absent,0,0,0,0,0,69,"hair on 34/35 presence frames, none of it hers (best P 0.00)"
+390,shot,34883,35128,246,absent,0,0,0,0,0,91,"hair on 40/41 presence frames, none of it hers (best P 0.00)"
+391,shot,35129,35248,120,absent,0,0,0,0,0,53,"hair on 19/20 presence frames, none of it hers (best P 0.04)"
+392,shot,35249,35296,48,absent,0,0,0,0,0,15,"hair on 2/8 presence frames, none of it hers (best P 0.01)"
+393,shot,35297,35317,21,absent,0,0,0,0,0,8,"hair on 2/4 presence frames, none of it hers (best P 0.01)"
+394,shot,35318,35413,96,absent,0,0,0,0,0,37,"hair on 13/16 presence frames, none of it hers (best P 0.02)"
+395,shot,35414,35479,66,absent,0,0,0,0,0,25,"hair on 11/11 presence frames, none of it hers (best P 0.00)"
+396,shot,35480,35499,20,absent,0,0,0,0,0,8,"hair on 4/4 presence frames, none of it hers (best P 0.00)"
+397,shot,35500,35780,281,absent,0,0,0,0,0,104,"hair on 46/47 presence frames, none of it hers (best P 0.07)"
+398,shot,35781,35804,24,absent,0,0,0,0,0,9,"hair on 3/4 presence frames, none of it hers (best P 0.01)"
+399,shot,35805,35860,56,absent,0,0,0,0,0,23,"hair on 10/10 presence frames, none of it hers (best P 0.17)"
+400,shot,35861,35884,24,absent,0,0,0,0,0,10,"hair on 4/4 presence frames, none of it hers (best P 0.01)"
+401,shot,35885,35997,113,absent,0,0,0,0,0,48,"hair on 19/19 presence frames, none of it hers (best P 0.34)"
+402,shot,35998,36208,211,absent,0,0,0,0,0,72,"hair on 36/36 presence frames, none of it hers (best P 0.00)"
+403,shot,36209,36357,149,absent,0,0,0,0,0,47,"hair on 25/25 presence frames, none of it hers (best P 0.00)"
+404,shot,36358,36490,133,check,38,34,4,6,0,273,other characters' hair erased on 95 frames
+405,shot,36491,36603,113,absent,0,0,0,0,0,49,"hair on 19/19 presence frames, none of it hers (best P 0.02)"
+406,shot,36604,36746,143,absent,0,0,0,0,0,50,"hair on 24/24 presence frames, none of it hers (best P 0.10)"
+407,shot,36747,36952,206,absent,0,0,0,0,0,69,"hair on 35/35 presence frames, none of it hers (best P 0.00)"
+408,shot,36953,37441,489,absent,0,0,0,0,0,198,"hair on 78/82 presence frames, none of it hers (best P 0.03)"
+409,shot,37442,37546,105,absent,0,0,0,0,0,56,"hair on 18/18 presence frames, none of it hers (best P 0.10)"
+410,shot,37547,37642,96,absent,0,0,0,0,0,31,"hair on 16/16 presence frames, none of it hers (best P 0.00)"
+411,shot,37643,37672,30,absent,0,0,0,0,0,10,"hair on 5/5 presence frames, none of it hers (best P 0.00)"
+412,shot,37673,37702,30,absent,0,0,0,0,0,15,"hair on 5/5 presence frames, none of it hers (best P 0.00)"
+413,shot,37703,37744,42,absent,0,0,0,0,0,18,"hair on 7/7 presence frames, none of it hers (best P 0.00)"
+414,shot,37745,37780,36,absent,0,0,0,0,0,17,"hair on 6/6 presence frames, none of it hers (best P 0.03)"
+415,shot,37781,37819,39,absent,0,0,0,0,0,14,"hair on 7/7 presence frames, none of it hers (best P 0.00)"
+416,shot,37820,37860,41,absent,0,0,0,0,0,17,"hair on 7/7 presence frames, none of it hers (best P 0.12)"
+417,shot,37861,38046,186,absent,0,0,0,0,0,90,"hair on 31/31 presence frames, none of it hers (best P 0.00)"
+418,shot,38047,38090,44,absent,0,0,0,0,0,20,"hair on 8/8 presence frames, none of it hers (best P 0.00)"
+419,shot,38091,38189,99,absent,0,0,0,0,0,31,"hair on 17/17 presence frames, none of it hers (best P 0.00)"
+420,shot,38190,38220,31,absent,0,0,0,0,0,21,"hair on 6/6 presence frames, none of it hers (best P 0.00)"
+421,shot,38221,38245,25,absent,0,0,0,0,0,8,"hair on 1/5 presence frames, none of it hers (best P 0.00)"
+422,shot,38246,38258,13,absent,0,0,0,0,0,6,"hair on 2/3 presence frames, none of it hers (best P 0.00)"
+423,shot,38259,38278,20,absent,0,0,0,0,0,9,"hair on 4/4 presence frames, none of it hers (best P 0.00)"
+424,shot,38279,38315,37,absent,0,0,0,0,0,22,"hair on 7/7 presence frames, none of it hers (best P 0.00)"
+425,shot,38316,38350,35,absent,0,0,0,0,0,14,"hair on 5/6 presence frames, none of it hers (best P 0.00)"
+426,shot,38351,38377,27,absent,0,0,0,0,0,13,"hair on 5/5 presence frames, none of it hers (best P 0.00)"
+427,shot,38378,38412,35,absent,0,0,0,0,0,13,"hair on 5/6 presence frames, none of it hers (best P 0.00)"
+428,shot,38413,38453,41,absent,0,0,0,0,0,16,"hair on 7/7 presence frames, none of it hers (best P 0.00)"
+429,shot,38454,38488,35,absent,0,0,0,0,0,16,"hair on 6/6 presence frames, none of it hers (best P 0.01)"
+430,shot,38489,38528,40,absent,0,0,0,0,0,14,"hair on 6/7 presence frames, none of it hers (best P 0.00)"
+431,shot,38529,38635,107,absent,0,0,0,0,0,43,"hair on 17/18 presence frames, none of it hers (best P 0.00)"
+432,shot,38636,38722,87,absent,0,0,0,0,0,31,"hair on 14/15 presence frames, none of it hers (best P 0.00)"
+433,shot,38723,38887,165,absent,0,0,0,0,0,61,"hair on 28/28 presence frames, none of it hers (best P 0.00)"
+434,shot,38888,38975,88,absent,0,0,0,0,0,31,"hair on 15/15 presence frames, none of it hers (best P 0.21)"
+435,shot,38976,39015,40,absent,0,0,0,0,0,17,"hair on 7/7 presence frames, none of it hers (best P 0.00)"
+436,shot,39016,39041,26,absent,0,0,0,0,0,10,"hair on 5/5 presence frames, none of it hers (best P 0.01)"
+437,shot,39042,39073,32,absent,0,0,0,0,0,10,"hair on 6/6 presence frames, none of it hers (best P 0.01)"
+438,shot,39074,39138,65,absent,0,0,0,0,0,21,"hair on 11/11 presence frames, none of it hers (best P 0.01)"
+439,shot,39139,39200,62,absent,0,0,0,0,0,25,"hair on 11/11 presence frames, none of it hers (best P 0.01)"
+440,shot,39201,39268,68,absent,0,0,0,0,0,27,"hair on 12/12 presence frames, none of it hers (best P 0.00)"
+441,shot,39269,39337,69,absent,0,0,0,0,0,29,"hair on 11/12 presence frames, none of it hers (best P 0.00)"
+442,shot,39338,39431,94,absent,0,0,0,0,0,32,"hair on 16/16 presence frames, none of it hers (best P 0.01)"
+443,shot,39432,39498,67,absent,0,0,0,0,0,26,"hair on 12/12 presence frames, none of it hers (best P 0.00)"
+444,shot,39499,39586,88,absent,0,0,0,0,0,31,"hair on 15/15 presence frames, none of it hers (best P 0.01)"
+445,shot,39587,39622,36,absent,0,0,0,0,0,13,"hair on 6/6 presence frames, none of it hers (best P 0.09)"
+446,shot,39623,39906,284,absent,0,0,0,0,0,109,"hair on 44/48 presence frames, none of it hers (best P 0.15)"
+447,shot,39907,40034,128,check,70,70,0,1,0,226,"dark scene: 66% of frames fail 'missed', missed QC off | fallback 59-59: no seed prompts (cleaned seed too small (3952 px): hair lost) | other characters' hair erased on 55 frames"
+448,shot,40035,40069,35,absent,0,0,0,0,0,13,"hair on 6/6 presence frames, none of it hers (best P 0.00)"
+449,shot,40070,40126,57,absent,0,0,0,0,0,21,"hair on 8/10 presence frames, none of it hers (best P 0.00)"
+450,shot,40127,40136,10,absent,0,0,0,0,0,5,"hair on 2/2 presence frames, none of it hers (best P 0.00)"
+451,shot,40137,40148,12,absent,0,0,0,0,0,5,"hair on 2/2 presence frames, none of it hers (best P 0.00)"
+452,shot,40149,40188,40,absent,0,0,0,0,0,15,"hair on 7/7 presence frames, none of it hers (best P 0.08)"
+453,shot,40189,40225,37,absent,0,0,0,0,0,14,"hair on 7/7 presence frames, none of it hers (best P 0.01)"
+454,shot,40226,40308,83,absent,0,0,0,0,0,26,"hair on 14/14 presence frames, none of it hers (best P 0.01)"
+455,shot,40309,40358,50,absent,0,0,0,0,0,17,
+456,shot,40359,40391,33,absent,0,0,0,0,0,12,"hair on 6/6 presence frames, none of it hers (best P 0.10)"
+457,shot,40392,40639,248,absent,0,0,0,0,0,117,"hair on 42/42 presence frames, none of it hers (best P 0.11)"
+458,shot,40640,40705,66,absent,0,0,0,0,0,21,"hair on 11/11 presence frames, none of it hers (best P 0.00)"
+459,shot,40706,40800,95,absent,0,0,0,0,0,48,"hair on 16/16 presence frames, none of it hers (best P 0.00)"
+460,shot,40801,40878,78,absent,0,0,0,0,0,32,"hair on 13/13 presence frames, none of it hers (best P 0.00)"
+461,shot,40879,40931,53,absent,0,0,0,0,0,19,"hair on 9/9 presence frames, none of it hers (best P 0.00)"
+462,shot,40932,40974,43,absent,0,0,0,0,0,16,"hair on 8/8 presence frames, none of it hers (best P 0.00)"
+463,shot,40975,41015,41,absent,0,0,0,0,0,17,"hair on 7/7 presence frames, none of it hers (best P 0.01)"
+464,shot,41016,41056,41,absent,0,0,0,0,0,13,"hair on 2/7 presence frames, none of it hers (best P 0.00)"
+465,shot,41057,41103,47,absent,0,0,0,0,0,19,"hair on 8/8 presence frames, none of it hers (best P 0.00)"
+466,shot,41104,41123,20,absent,0,0,0,0,0,8,"hair on 3/4 presence frames, none of it hers (best P 0.00)"
+467,shot,41124,41144,21,absent,0,0,0,0,0,7,"hair on 3/4 presence frames, none of it hers (best P 0.03)"
+468,shot,41145,41166,22,absent,0,0,0,0,0,9,"hair on 3/4 presence frames, none of it hers (best P 0.01)"
+469,shot,41167,41206,40,absent,0,0,0,0,0,17,"hair on 7/7 presence frames, none of it hers (best P 0.01)"
+470,shot,41207,41238,32,absent,0,0,0,0,0,13,"hair on 5/6 presence frames, none of it hers (best P 0.01)"
+471,transition,41239,41249,11,absent,0,0,0,0,0,5,"hair on 2/2 presence frames, none of it hers (best P 0.01)"
+472,shot,41250,41294,45,absent,0,0,0,0,0,15,"hair on 5/8 presence frames, none of it hers (best P 0.00)"
+473,shot,41295,41316,22,absent,0,0,0,0,0,8,"hair on 2/4 presence frames, none of it hers (best P 0.00)"
+474,transition,41317,41328,12,absent,0,0,0,0,0,5,"hair on 1/2 presence frames, none of it hers (best P 0.00)"
+475,shot,41329,41415,87,absent,0,0,0,0,0,38,"hair on 15/15 presence frames, none of it hers (best P 0.00)"
+476,shot,41416,41443,28,absent,0,0,0,0,0,11,"hair on 5/5 presence frames, none of it hers (best P 0.00)"
+477,shot,41444,41765,322,absent,0,0,0,0,0,109,"hair on 41/54 presence frames, none of it hers (best P 0.10)"
+478,shot,41766,41941,176,absent,0,0,0,0,0,51,"hair on 30/30 presence frames, none of it hers (best P 0.01)"
+479,shot,41942,42045,104,absent,0,0,0,0,0,28,"hair on 6/18 presence frames, none of it hers (best P 0.15)"
+480,shot,42046,42211,166,absent,0,0,0,0,0,48,"hair on 28/28 presence frames, none of it hers (best P 0.05)"
+481,shot,42212,42267,56,absent,0,0,0,0,0,23,"hair on 10/10 presence frames, none of it hers (best P 0.04)"
+482,shot,42268,42363,96,check,96,96,0,40,0,174,
+483,shot,42364,42537,174,absent,0,0,0,0,0,51,"hair on 29/29 presence frames, none of it hers (best P 0.10)"
+484,shot,42538,42659,122,check,122,96,26,48,0,234,
+485,shot,42660,42754,95,check,95,66,29,44,0,199,other characters' hair erased on 1 frames
+486,shot,42755,43033,279,check,279,212,67,44,0,542,
+487,shot,43034,43175,142,check,140,140,0,1,0,222,other characters' hair erased on 2 frames
+488,shot,43176,43223,48,absent,0,0,0,0,0,22,"hair on 8/8 presence frames, none of it hers (best P 0.05)"
+489,shot,43224,43471,248,check,194,191,3,3,0,410,other characters' hair erased on 48 frames
+490,shot,43472,43613,142,check,142,139,3,2,0,215,"dark scene: 58% of frames fail 'missed', missed QC off"
+491,shot,43614,43675,62,check,8,8,0,6,0,96,"tinted scene: median hair purity 0.48 < 0.5, purity/missed QC off | fallback 27-32: no seed prompts (cleaned seed too small (896 px): hair lost)"
+492,shot,43676,43809,134,absent,0,0,0,0,0,46,"hair on 23/23 presence frames, none of it hers (best P 0.01)"
+493,shot,43810,43898,89,absent,0,0,0,0,0,36,"hair on 15/15 presence frames, none of it hers (best P 0.01)"
+494,shot,43899,43936,38,absent,0,0,0,0,0,13,"hair on 7/7 presence frames, none of it hers (best P 0.00)"
+495,shot,43937,43958,22,absent,0,0,0,0,0,9,"hair on 4/4 presence frames, none of it hers (best P 0.01)"
+496,shot,43959,43988,30,absent,0,0,0,0,0,10,"hair on 5/5 presence frames, none of it hers (best P 0.00)"
+497,shot,43989,44140,152,ok,152,152,0,0,0,219,"tinted scene: median hair purity 0.00 < 0.5, purity/missed QC off"
+498,shot,44141,44214,74,absent,0,0,0,0,0,31,"hair on 13/13 presence frames, none of it hers (best P 0.02)"
+499,shot,44215,44326,112,check,112,110,2,3,0,219,"tinted scene: median hair purity 0.08 < 0.5, purity/missed QC off"
+500,shot,44327,44464,138,absent,0,0,0,0,0,45,"hair on 23/23 presence frames, none of it hers (best P 0.01)"
+501,shot,44465,44572,108,check,108,81,27,45,0,196,
+502,shot,44573,44682,110,absent,0,0,0,0,0,41,"hair on 19/19 presence frames, none of it hers (best P 0.08)"
+503,shot,44683,44768,86,ok,86,86,0,0,0,142,
+504,shot,44769,44944,176,check,176,176,0,1,0,279,"tinted scene: median hair purity 0.02 < 0.5, purity/missed QC off | fallback 110-110: no seed prompts (cleaned seed too small (0 px): hair lost)"
+505,shot,44945,45119,175,absent,0,0,0,0,0,62,"hair on 30/30 presence frames, none of it hers (best P 0.01)"
+506,shot,45120,45193,74,ok,74,74,0,0,0,108,
+507,shot,45194,45298,105,ok,105,105,0,0,0,152,"tinted scene: median hair purity 0.11 < 0.5, purity/missed QC off"
+508,shot,45299,45337,39,absent,0,0,0,0,0,14,"hair on 7/7 presence frames, none of it hers (best P 0.07)"
+509,shot,45338,45398,61,absent,0,0,0,0,0,21,"hair on 11/11 presence frames, none of it hers (best P 0.00)"
+510,shot,45399,45462,64,check,32,32,0,6,0,109,"dusk scene: median hair purity 0.61 < 0.75, purity QC off | fallback 3-3: no seed prompts (cleaned seed too small (370 px): hair lost) | fallback 23-24: no seed prompts (cleaned seed too small (768 px): hair lost) | fallback 34-36: no seed prompts (cleaned seed too small (1369 px): hair lost) | other characters' hair erased on 4 frames"
+511,shot,45463,45583,121,check,86,69,17,24,0,243,other characters' hair erased on 29 frames
+512,shot,45584,45626,43,absent,0,0,0,0,0,17,"hair on 6/8 presence frames, none of it hers (best P 0.47)"
+513,shot,45627,45662,36,check,36,32,4,4,0,65,
+514,shot,45663,45696,34,check,34,32,2,2,0,59,"dark scene: 76% of frames fail 'missed', missed QC off"
+515,shot,45697,45774,78,absent,0,0,0,0,0,29,"hair on 13/13 presence frames, none of it hers (best P 0.00)"
+516,shot,45775,45846,72,ok,72,72,0,0,0,110,
+517,shot,45847,45918,72,check,72,72,0,1,0,151,fallback 71-71: no seed prompts (cleaned seed too small (2307 px): hair lost) | other characters' hair erased on 60 frames
+518,shot,45919,46002,84,absent,0,0,0,0,0,29,"hair on 14/14 presence frames, none of it hers (best P 0.03)"
+519,shot,46003,46083,81,ok,81,81,0,0,0,126,
+520,shot,46084,46176,93,ok,93,93,0,0,0,139,
+521,shot,46177,46183,7,ok,7,7,0,0,0,13,
+522,transition,46184,46213,30,ok,30,30,0,0,0,45,
+523,shot,46214,46268,55,ok,55,55,0,0,0,83,
+524,shot,46269,46305,37,absent,0,0,0,0,0,13,"hair on 7/7 presence frames, none of it hers (best P 0.00)"
+525,shot,46306,46421,116,ok,116,116,0,0,0,174,
+526,shot,46422,46478,57,absent,0,0,0,0,0,19,"hair on 10/10 presence frames, none of it hers (best P 0.01)"
+527,shot,46479,46532,54,ok,54,54,0,0,0,81,
+528,shot,46533,46812,280,ok,121,121,0,0,0,406,other characters' hair erased on 114 frames
+529,shot,46813,46970,158,ok,158,158,0,0,0,239,
+530,shot,46971,47058,88,absent,0,0,0,0,0,31,"hair on 15/15 presence frames, none of it hers (best P 0.04)"
+531,shot,47059,47275,217,check,188,188,0,16,0,354,"dusk scene: median hair purity 0.71 < 0.75, purity QC off | fallback 39-40: no seed prompts (cleaned seed too small (0 px): hair lost) | fallback 117-120: no seed prompts (cleaned seed too small (0 px): hair lost) | fallback 165-174: no seed prompts (cleaned seed too small (0 px): hair lost)"
+532,shot,47276,47313,38,absent,0,0,0,0,0,13,"hair on 7/7 presence frames, none of it hers (best P 0.01)"
+533,shot,47314,47525,212,ok,212,212,0,0,0,356,
+534,shot,47526,47583,58,ok,58,58,0,0,0,86,
+535,shot,47584,47645,62,absent,0,0,0,0,0,20,"hair on 11/11 presence frames, none of it hers (best P 0.01)"
+536,shot,47646,47729,84,ok,84,84,0,0,0,129,
+537,shot,47730,47809,80,absent,0,0,0,0,0,30,"hair on 14/14 presence frames, none of it hers (best P 0.07)"
+538,shot,47810,47881,72,absent,0,0,0,0,0,22,"hair on 12/12 presence frames, none of it hers (best P 0.01)"
+539,shot,47882,47969,88,ok,0,0,0,0,0,142,
+540,transition,47970,47999,30,ok,0,0,0,0,0,61,other characters' hair erased on 17 frames
+541,shot,48000,48044,45,absent,0,0,0,0,0,22,"hair on 8/8 presence frames, none of it hers (best P 0.23)"
+542,shot,48045,48160,116,absent,0,0,0,0,0,49,"hair on 19/20 presence frames, none of it hers (best P 0.00)"
+543,shot,48161,48247,87,absent,0,0,0,0,0,40,"hair on 15/15 presence frames, none of it hers (best P 0.01)"
+544,shot,48248,48336,89,absent,0,0,0,0,0,28,"hair on 15/15 presence frames, none of it hers (best P 0.00)"
+545,shot,48337,48430,94,absent,0,0,0,0,0,33,"hair on 16/16 presence frames, none of it hers (best P 0.00)"
+546,shot,48431,48493,63,absent,0,0,0,0,0,24,"hair on 11/11 presence frames, none of it hers (best P 0.02)"
+547,shot,48494,48631,138,absent,0,0,0,0,0,56,"hair on 23/23 presence frames, none of it hers (best P 0.05)"
+548,shot,48632,48730,99,absent,0,0,0,0,0,35,"hair on 17/17 presence frames, none of it hers (best P 0.00)"
+549,shot,48731,48747,17,absent,0,0,0,0,0,7,"hair on 3/3 presence frames, none of it hers (best P 0.00)"
+550,shot,48748,48778,31,absent,0,0,0,0,0,12,"hair on 6/6 presence frames, none of it hers (best P 0.08)"
+551,shot,48779,48820,42,absent,0,0,0,0,0,17,"hair on 7/7 presence frames, none of it hers (best P 0.00)"
+552,shot,48821,48882,62,absent,0,0,0,0,0,25,"hair on 11/11 presence frames, none of it hers (best P 0.01)"
+553,shot,48883,48928,46,absent,0,0,0,0,0,22,"hair on 8/8 presence frames, none of it hers (best P 0.17)"
+554,shot,48929,48980,52,absent,0,0,0,0,0,19,"hair on 9/9 presence frames, none of it hers (best P 0.02)"
+555,shot,48981,49028,48,absent,0,0,0,0,0,18,"hair on 8/8 presence frames, none of it hers (best P 0.00)"
+556,shot,49029,49065,37,absent,0,0,0,0,0,16,"hair on 7/7 presence frames, none of it hers (best P 0.00)"
+557,shot,49066,49089,24,absent,0,0,0,0,0,12,"hair on 4/4 presence frames, none of it hers (best P 0.03)"
+558,shot,49090,49140,51,absent,0,0,0,0,0,19,"hair on 9/9 presence frames, none of it hers (best P 0.01)"
+559,shot,49141,49184,44,absent,0,0,0,0,0,19,"hair on 8/8 presence frames, none of it hers (best P 0.24)"
+560,shot,49185,49215,31,absent,0,0,0,0,0,18,"hair on 6/6 presence frames, none of it hers (best P 0.01)"
+561,shot,49216,49257,42,absent,0,0,0,0,0,17,"hair on 7/7 presence frames, none of it hers (best P 0.01)"
+562,shot,49258,49287,30,absent,0,0,0,0,0,12,"hair on 5/5 presence frames, none of it hers (best P 0.00)"
+563,shot,49288,49392,105,absent,0,0,0,0,0,36,"hair on 17/18 presence frames, none of it hers (best P 0.01)"
+564,shot,49393,49430,38,absent,0,0,0,0,0,12,"hair on 4/7 presence frames, none of it hers (best P 0.01)"
+565,shot,49431,49458,28,absent,0,0,0,0,0,10,"hair on 5/5 presence frames, none of it hers (best P 0.00)"
+566,shot,49459,49492,34,absent,0,0,0,0,0,13,"hair on 6/6 presence frames, none of it hers (best P 0.00)"
+567,shot,49493,49524,32,absent,0,0,0,0,0,14,"hair on 6/6 presence frames, none of it hers (best P 0.00)"
+568,shot,49525,49602,78,absent,0,0,0,0,0,30,"hair on 13/13 presence frames, none of it hers (best P 0.03)"
+569,shot,49603,49709,107,absent,0,0,0,0,0,43,"hair on 18/18 presence frames, none of it hers (best P 0.12)"
+570,shot,49710,49763,54,absent,0,0,0,0,0,18,"hair on 9/9 presence frames, none of it hers (best P 0.00)"
+571,shot,49764,49821,58,absent,0,0,0,0,0,20,"hair on 10/10 presence frames, none of it hers (best P 0.01)"
+572,shot,49822,49854,33,absent,0,0,0,0,0,14,"hair on 6/6 presence frames, none of it hers (best P 0.00)"
+573,shot,49855,49881,27,absent,0,0,0,0,0,10,"hair on 5/5 presence frames, none of it hers (best P 0.00)"
+574,shot,49882,49889,8,absent,0,0,0,0,0,5,"hair on 2/2 presence frames, none of it hers (best P 0.01)"
+575,shot,49890,49941,52,absent,0,0,0,0,0,20,"hair on 9/9 presence frames, none of it hers (best P 0.03)"
+576,shot,49942,49977,36,absent,0,0,0,0,0,13,"hair on 6/6 presence frames, none of it hers (best P 0.02)"
+577,shot,49978,50003,26,absent,0,0,0,0,0,12,"hair on 5/5 presence frames, none of it hers (best P 0.01)"
+578,shot,50004,50032,29,absent,0,0,0,0,0,12,"hair on 5/5 presence frames, none of it hers (best P 0.06)"
+579,shot,50033,50059,27,absent,0,0,0,0,0,9,"hair on 5/5 presence frames, none of it hers (best P 0.02)"
+580,shot,50060,50098,39,absent,0,0,0,0,0,19,"hair on 7/7 presence frames, none of it hers (best P 0.06)"
+581,shot,50099,50172,74,absent,0,0,0,0,0,31,"hair on 13/13 presence frames, none of it hers (best P 0.02)"
+582,shot,50173,50208,36,absent,0,0,0,0,0,15,"hair on 6/6 presence frames, none of it hers (best P 0.01)"
+583,shot,50209,50240,32,absent,0,0,0,0,0,14,"hair on 6/6 presence frames, none of it hers (best P 0.01)"
+584,shot,50241,50264,24,absent,0,0,0,0,0,9,"hair on 4/4 presence frames, none of it hers (best P 0.24)"
+585,shot,50265,50329,65,absent,0,0,0,0,0,26,"hair on 11/11 presence frames, none of it hers (best P 0.09)"
+586,shot,50330,50347,18,absent,0,0,0,0,0,8,"hair on 3/3 presence frames, none of it hers (best P 0.00)"
+587,shot,50348,50377,30,absent,0,0,0,0,0,16,"hair on 5/5 presence frames, none of it hers (best P 0.01)"
+588,shot,50378,50467,90,absent,0,0,0,0,0,31,"hair on 15/15 presence frames, none of it hers (best P 0.00)"
+589,shot,50468,50519,52,absent,0,0,0,0,0,21,"hair on 9/9 presence frames, none of it hers (best P 0.04)"
+590,shot,50520,50585,66,absent,0,0,0,0,0,20,"hair on 11/11 presence frames, none of it hers (best P 0.00)"
+591,shot,50586,50637,52,absent,0,0,0,0,0,20,"hair on 9/9 presence frames, none of it hers (best P 0.01)"
+592,shot,50638,50697,60,absent,0,0,0,0,0,20,"hair on 10/10 presence frames, none of it hers (best P 0.01)"
+593,shot,50698,50729,32,absent,0,0,0,0,0,13,"hair on 6/6 presence frames, none of it hers (best P 0.01)"
+594,shot,50730,50787,58,absent,0,0,0,0,0,20,"hair on 10/10 presence frames, none of it hers (best P 0.00)"
+595,shot,50788,50995,208,check,60,58,2,2,0,399,other characters' hair erased on 201 frames
+596,shot,50996,51177,182,absent,0,0,0,0,0,112,"hair on 31/31 presence frames, none of it hers (best P 0.01)"
+597,shot,51178,51304,127,absent,0,0,0,0,0,38,"hair on 22/22 presence frames, none of it hers (best P 0.00)"
+598,shot,51305,51351,47,absent,0,0,0,0,0,24,"hair on 8/8 presence frames, none of it hers (best P 0.11)"
+599,shot,51352,51473,122,absent,0,0,0,0,0,65,"hair on 21/21 presence frames, none of it hers (best P 0.09)"
+600,shot,51474,51553,80,absent,0,0,0,0,0,51,"hair on 14/14 presence frames, none of it hers (best P 0.04)"
+601,shot,51554,51659,106,ok,2,2,0,0,0,375,other characters' hair erased on 106 frames
+602,shot,51660,51693,34,absent,0,0,0,0,0,12,"hair on 6/6 presence frames, none of it hers (best P 0.16)"
+603,shot,51694,51782,89,absent,0,0,0,0,0,57,"hair on 15/15 presence frames, none of it hers (best P 0.12)"
+604,shot,51783,51968,186,check,88,88,0,1,0,302,"tinted scene: median hair purity 0.00 < 0.5, purity/missed QC off | fallback 88-88: no seed prompts (cleaned seed too small (0 px): hair lost) | other characters' hair erased on 60 frames"
+605,shot,51969,52065,97,ok,97,97,0,0,0,153,
+606,shot,52066,52267,202,ok,202,202,0,0,0,360,
+607,shot,52268,52457,190,check,190,188,2,2,0,302,
+608,shot,52458,52483,26,absent,0,0,0,0,0,11,"hair on 5/5 presence frames, none of it hers (best P 0.10)"
+609,shot,52484,52531,48,absent,0,0,0,0,0,18,"hair on 8/8 presence frames, none of it hers (best P 0.09)"
+610,shot,52532,52845,314,ok,261,261,0,0,0,600,other characters' hair erased on 53 frames
+611,shot,52846,52943,98,ok,98,98,0,0,0,150,
+612,shot,52944,53013,70,absent,0,0,0,0,0,24,"hair on 12/12 presence frames, none of it hers (best P 0.01)"
+613,shot,53014,53151,138,ok,138,138,0,0,0,222,
+614,shot,53152,53205,54,ok,54,54,0,0,0,82,
+615,shot,53206,53274,69,absent,0,0,0,0,0,25,"hair on 11/12 presence frames, none of it hers (best P 0.06)"
+616,shot,53275,53440,166,ok,166,166,0,0,0,255,
+617,shot,53441,53506,66,absent,0,0,0,0,0,21,"hair on 11/11 presence frames, none of it hers (best P 0.02)"
+618,shot,53507,53603,97,ok,97,97,0,0,0,148,
+619,shot,53604,53699,96,ok,96,96,0,0,0,148,
+620,shot,53700,53717,18,absent,0,0,0,0,0,9,"hair on 3/3 presence frames, none of it hers (best P 0.02)"
+621,shot,53718,53757,40,absent,0,0,0,0,0,14,"hair on 7/7 presence frames, none of it hers (best P 0.11)"
+622,shot,53758,53845,88,absent,0,0,0,0,0,32,"hair on 15/15 presence frames, none of it hers (best P 0.28)"
+623,shot,53846,53972,127,ok,127,127,0,0,0,195,
+624,shot,53973,54025,53,absent,0,0,0,0,0,16,"hair on 9/9 presence frames, none of it hers (best P 0.01)"
+625,shot,54026,54083,58,ok,58,58,0,0,0,89,
+626,shot,54084,54099,16,absent,0,0,0,0,0,6,"hair on 3/3 presence frames, none of it hers (best P 0.01)"
+627,shot,54100,54131,32,absent,0,0,0,0,0,13,"hair on 6/6 presence frames, none of it hers (best P 0.41)"
+628,shot,54132,54163,32,ok,32,32,0,0,0,52,
+629,shot,54164,54202,39,absent,0,0,0,0,0,13,"hair on 4/7 presence frames, none of it hers (best P 0.07)"
+630,shot,54203,54220,18,ok,18,18,0,0,0,29,
+631,shot,54221,54243,23,absent,0,0,0,0,0,7,"hair on 1/4 presence frames, none of it hers (best P 0.08)"
+632,shot,54244,54259,16,absent,0,0,0,0,0,7,"hair on 3/3 presence frames, none of it hers (best P 0.01)"
+633,shot,54260,54285,26,ok,0,0,0,0,0,52,other characters' hair erased on 26 frames
+634,shot,54286,54321,36,ok,0,0,0,0,0,58,
+635,shot,54322,54401,80,absent,0,0,0,0,0,29,"hair on 14/14 presence frames, none of it hers (best P 0.06)"
+636,shot,54402,54439,38,absent,0,0,0,0,0,14,"hair on 4/7 presence frames, none of it hers (best P 0.17)"
+637,shot,54440,54473,34,absent,0,0,0,0,0,13,"hair on 6/6 presence frames, none of it hers (best P 0.02)"
+638,shot,54474,54605,132,check,132,123,9,11,0,234,
+639,shot,54606,54781,176,ok,176,176,0,0,0,261,
+640,shot,54782,54893,112,check,13,13,0,14,0,183,fallback 3-14: no seed prompts (cleaned seed too small (1353 px): hair lost) | fallback 75-76: no seed prompts (cleaned seed too small (1096 px): hair lost) | other characters' hair erased on 1 frames
+641,shot,54894,54957,64,ok,0,0,0,0,0,96,
+642,shot,54958,55053,96,check,96,94,2,1,0,168,
+643,shot,55054,55158,105,ok,105,105,0,0,0,167,
+644,shot,55159,55212,54,ok,54,54,0,0,0,84,
+645,shot,55213,55268,56,absent,0,0,0,0,0,20,"hair on 10/10 presence frames, none of it hers (best P 0.03)"
+646,shot,55269,55358,90,ok,90,90,0,0,0,140,
+647,shot,55359,55428,70,ok,70,70,0,0,0,109,
+648,shot,55429,55518,90,check,31,28,3,4,0,153,other characters' hair erased on 50 frames
+649,shot,55519,55689,171,check,125,125,0,10,0,269,fallback 43-52: no seed prompts (cleaned seed too small (3206 px): hair lost) | other characters' hair erased on 36 frames
+650,shot,55690,55718,29,ok,29,29,0,0,0,43,
+651,shot,55719,55773,55,absent,0,0,0,0,0,24,"hair on 10/10 presence frames, none of it hers (best P 0.12)"
+652,shot,55774,55814,41,ok,41,41,0,0,0,69,other characters' hair erased on 14 frames
+653,shot,55815,55872,58,ok,58,58,0,0,0,88,
+654,shot,55873,56048,176,check,128,127,1,2,0,277,other characters' hair erased on 12 frames
+655,shot,56049,56107,59,absent,0,0,0,0,0,26,"hair on 10/10 presence frames, none of it hers (best P 0.03)"
+656,shot,56108,56226,119,check,28,28,0,10,0,202,fallback 3-3: no seed prompts (cleaned seed too small (2935 px): hair lost) | fallback 21-28: no seed prompts (cleaned seed too small (4271 px): hair lost) | other characters' hair erased on 79 frames
+657,shot,56227,56253,27,check,27,24,3,7,0,51,
+658,shot,56254,56360,107,absent,0,0,0,0,0,42,"hair on 18/18 presence frames, none of it hers (best P 0.08)"
+659,shot,56361,56392,32,absent,0,0,0,0,0,17,"hair on 6/6 presence frames, none of it hers (best P 0.04)"
+660,shot,56393,56408,16,ok,16,16,0,0,0,24,
+661,shot,56409,56440,32,absent,0,0,0,0,0,13,"hair on 6/6 presence frames, none of it hers (best P 0.00)"
+662,shot,56441,56469,29,absent,0,0,0,0,0,11,"hair on 5/5 presence frames, none of it hers (best P 0.01)"
+663,shot,56470,56579,110,check,106,101,5,14,0,190,fallback 99-106: no seed prompts (cleaned seed too small (2067 px): hair lost)
+664,shot,56580,56667,88,ok,88,88,0,0,0,165,
+665,shot,56668,56842,175,ok,175,175,0,0,0,267,other characters' hair erased on 2 frames
+666,shot,56843,57152,310,ok,310,309,1,0,0,479,
+667,shot,57153,57275,123,ok,123,123,0,0,0,187,
+668,shot,57276,57389,114,check,86,86,0,16,0,180,fallback 33-33: no seed prompts (cleaned seed too small (1880 px): hair lost) | fallback 37-37: no seed prompts (cleaned seed too small (1901 px): hair lost) | fallback 41-41: no seed prompts (cleaned seed too small (1676 px): hair lost) | fallback 47-52: no seed prompts (cleaned seed too small (1671 px): hair lost) | fallback 55-56: no seed prompts (cleaned seed too small (1555 px): hair lost) | fallback 60-60: no seed prompts (cleaned seed too small (1759 px): hair lost) | fallback 73-76: no seed prompts (cleaned seed too small (1887 px): hair lost)
+669,shot,57390,57465,76,absent,0,0,0,0,0,24,"hair on 13/13 presence frames, none of it hers (best P 0.01)"
+670,shot,57466,57694,229,check,171,169,2,26,0,369,fallback 148-148: no seed prompts (cleaned seed too small (3182 px): hair lost) | fallback 152-171: no seed prompts (cleaned seed too small (2798 px): hair lost)
+671,shot,57695,57968,274,check,238,223,15,2,0,462,other characters' hair erased on 16 frames
+672,shot,57969,57997,29,ok,29,29,0,0,0,44,"dusk scene: median hair purity 0.69 < 0.75, purity QC off"
+673,shot,57998,58024,27,absent,0,0,0,0,0,12,"hair on 5/5 presence frames, none of it hers (best P 0.15)"
+674,shot,58025,58126,102,ok,102,102,0,0,0,153,
+675,shot,58127,58228,102,absent,0,0,0,0,0,42,"hair on 15/17 presence frames, none of it hers (best P 0.42)"
+676,shot,58229,58278,50,absent,0,0,0,0,0,16,"hair on 8/9 presence frames, none of it hers (best P 0.02)"
+677,shot,58279,58344,66,check,66,55,11,18,0,131,
+678,shot,58345,58564,220,check,124,121,3,4,0,335,other characters' hair erased on 81 frames
+679,transition,58565,58592,28,absent,0,0,0,0,0,10,"hair on 5/5 presence frames, none of it hers (best P 0.00)"
+680,shot,58593,58640,48,check,45,45,0,11,0,86,other characters' hair erased on 3 frames
+681,transition,58641,58650,10,check,8,8,0,1,0,20,"tinted scene: median hair purity 0.00 < 0.5, purity/missed QC off | fallback 8-8: no seed prompts (cleaned seed too small (0 px): hair lost)"
+682,shot,58651,58921,271,check,217,217,0,27,0,456,"tinted scene: median hair purity 0.21 < 0.5, purity/missed QC off | fallback 39-46: no seed prompts (cleaned seed too small (2472 px): hair lost) | fallback 54-55: no seed prompts (cleaned seed too small (0 px): hair lost) | fallback 57-57: no seed prompts (cleaned seed too small (0 px): hair lost) | fallback 63-63: no seed prompts (cleaned seed too small (0 px): hair lost) | fallback 66-67: no seed prompts (cleaned seed too small (0 px): hair lost) | fallback 88-92: no seed prompts (cleaned seed too small (0 px): hair lost) | fallback 94-100: no seed prompts (cleaned seed too small (0 px): hair lost) | fallback 103-103: no seed prompts (cleaned seed too small (0 px): hair lost) | other characters' hair erased on 44 frames"
+683,shot,58922,59032,111,check,111,109,2,1,0,184,"dusk scene: median hair purity 0.55 < 0.75, purity QC off | fallback 4-4: no seed prompts (cleaned seed too small (2263 px): hair lost)"
+684,shot,59033,59136,104,ok,82,82,0,0,0,155,"tinted scene: median hair purity 0.00 < 0.5, purity/missed QC off | other characters' hair erased on 5 frames"
+685,shot,59137,59314,178,check,50,23,27,33,0,346,fallback 121-121: no seed prompts (cleaned seed too small (4456 px): hair lost) | other characters' hair erased on 114 frames
+686,shot,59315,59334,20,check,12,11,1,1,0,39,other characters' hair erased on 8 frames
+687,shot,59335,59398,64,check,53,53,0,16,0,104,fallback 2-15: no seed prompts (cleaned seed too small (4441 px): hair lost) | fallback 50-50: no seed prompts (cleaned seed too small (3968 px): hair lost) | fallback 60-60: no seed prompts (cleaned seed too small (1936 px): hair lost) | other characters' hair erased on 12 frames
+688,shot,59399,59575,177,check,163,157,6,5,0,296,fallback 126-126: no seed prompts (cleaned seed too small (0 px): hair lost) | other characters' hair erased on 13 frames
+689,shot,59576,59639,64,absent,0,0,0,0,0,25,"hair on 11/11 presence frames, none of it hers (best P 0.09)"
+690,shot,59640,59751,112,check,72,64,8,20,0,213,fallback 102-106: no seed prompts (cleaned seed too small (3688 px): hair lost) | fallback 108-110: no seed prompts (cleaned seed too small (1464 px): hair lost) | other characters' hair erased on 50 frames
+691,shot,59752,60019,268,check,226,219,7,21,0,502,fallback 49-49: no seed prompts (cleaned seed too small (3935 px): hair lost) | fallback 155-156: no seed prompts (cleaned seed too small (2075 px): hair lost) | other characters' hair erased on 46 frames
+692,shot,60020,60073,54,absent,0,0,0,0,0,19,"hair on 9/9 presence frames, none of it hers (best P 0.01)"
+693,shot,60074,60120,47,check,47,38,9,6,0,88,
+694,shot,60121,60167,47,absent,0,0,0,0,0,22,"hair on 8/8 presence frames, none of it hers (best P 0.01)"
+695,shot,60168,60198,31,absent,0,0,0,0,0,13,"hair on 6/6 presence frames, none of it hers (best P 0.04)"
+696,shot,60199,60225,27,absent,0,0,0,0,0,11,"hair on 5/5 presence frames, none of it hers (best P 0.05)"
+697,transition,60226,60266,41,check,24,23,1,7,0,88,other characters' hair erased on 20 frames
+698,shot,60267,60306,40,ok,40,40,0,0,0,61,
+699,shot,60307,60368,62,ok,62,62,0,0,0,101,"dusk scene: median hair purity 0.68 < 0.75, purity QC off"
+700,shot,60369,60466,98,ok,98,98,0,0,0,147,"dusk scene: median hair purity 0.72 < 0.75, purity QC off"
+701,shot,60467,60599,133,ok,0,0,0,0,0,213,
+702,shot,60600,60701,102,absent,0,0,0,0,0,29,"hair on 17/17 presence frames, none of it hers (best P 0.30)"
+703,shot,60702,61257,556,ok,556,556,0,0,0,849,
+704,shot,61258,61509,252,ok,252,252,0,0,0,390,
+705,shot,61510,61783,274,ok,274,274,0,0,0,438,
+706,shot,61784,62050,267,ok,256,256,0,0,0,425,other characters' hair erased on 11 frames
+707,shot,62051,62091,41,ok,0,0,0,0,0,67,
+708,shot,62092,62154,63,absent,0,0,0,0,0,21,"hair on 11/11 presence frames, none of it hers (best P 0.02)"
+709,transition,62155,62177,23,absent,0,0,0,0,0,8,"hair on 4/4 presence frames, none of it hers (best P 0.01)"
+710,shot,62178,62191,14,absent,0,0,0,0,0,4,"hair on 1/3 presence frames, none of it hers (best P 0.01)"
+711,transition,62192,62215,24,absent,0,0,0,0,0,8,"hair on 3/4 presence frames, none of it hers (best P 0.00)"
+712,shot,62216,62373,158,absent,0,0,0,0,0,51,"hair on 16/27 presence frames, none of it hers (best P 0.01)"
+713,shot,62374,62415,42,absent,0,0,0,0,0,14,"hair on 7/7 presence frames, none of it hers (best P 0.01)"
+714,shot,62416,62490,75,absent,0,0,0,0,0,27,"hair on 12/13 presence frames, none of it hers (best P 0.02)"
+715,shot,62491,62546,56,absent,0,0,0,0,0,20,"hair on 10/10 presence frames, none of it hers (best P 0.14)"
+716,shot,62547,62760,214,absent,0,0,0,0,0,93,"hair on 36/36 presence frames, none of it hers (best P 0.03)"
+717,shot,62761,62823,63,absent,0,0,0,0,0,26,"hair on 11/11 presence frames, none of it hers (best P 0.00)"
+718,shot,62824,62906,83,absent,0,0,0,0,0,37,"hair on 14/14 presence frames, none of it hers (best P 0.05)"
+719,shot,62907,63105,199,absent,0,0,0,0,0,78,"hair on 34/34 presence frames, none of it hers (best P 0.29)"
+720,shot,63106,63168,63,absent,0,0,0,0,0,21,"hair on 11/11 presence frames, none of it hers (best P 0.03)"
+721,shot,63169,63228,60,absent,0,0,0,0,0,25,"hair on 10/10 presence frames, none of it hers (best P 0.03)"
+722,shot,63229,63461,233,absent,0,0,0,0,0,77,"hair on 38/39 presence frames, none of it hers (best P 0.08)"
+723,shot,63462,63520,59,absent,0,0,0,0,0,18,"hair on 10/10 presence frames, none of it hers (best P 0.01)"
+724,shot,63521,63588,68,absent,0,0,0,0,0,23,"hair on 12/12 presence frames, none of it hers (best P 0.04)"
+725,shot,63589,63618,30,absent,0,0,0,0,0,9,"hair on 5/5 presence frames, none of it hers (best P 0.00)"
+726,shot,63619,63672,54,absent,0,0,0,0,0,17,"hair on 9/9 presence frames, none of it hers (best P 0.12)"
+727,shot,63673,63805,133,absent,0,0,0,0,0,64,"hair on 23/23 presence frames, none of it hers (best P 0.02)"
+728,shot,63806,63909,104,absent,0,0,0,0,0,35,"hair on 18/18 presence frames, none of it hers (best P 0.01)"
+729,shot,63910,64040,131,absent,0,0,0,0,0,55,"hair on 22/22 presence frames, none of it hers (best P 0.39)"
+730,shot,64041,64083,43,absent,0,0,0,0,0,16,"hair on 8/8 presence frames, none of it hers (best P 0.02)"
+731,shot,64084,64156,73,absent,0,0,0,0,0,23,"hair on 13/13 presence frames, none of it hers (best P 0.01)"
+732,shot,64157,64262,106,absent,0,0,0,0,0,29,"hair on 18/18 presence frames, none of it hers (best P 0.00)"
+733,shot,64263,64373,111,absent,0,0,0,0,0,32,"hair on 19/19 presence frames, none of it hers (best P 0.01)"
+734,shot,64374,64541,168,absent,0,0,0,0,0,49,"hair on 28/28 presence frames, none of it hers (best P 0.04)"
+735,shot,64542,64717,176,absent,0,0,0,0,0,52,"hair on 30/30 presence frames, none of it hers (best P 0.01)"
+736,shot,64718,64744,27,absent,0,0,0,0,0,8,"hair on 5/5 presence frames, none of it hers (best P 0.01)"
+737,shot,64745,64860,116,absent,0,0,0,0,0,37,"hair on 17/20 presence frames, none of it hers (best P 0.00)"
+738,shot,64861,64897,37,absent,0,0,0,0,0,15,"hair on 7/7 presence frames, none of it hers (best P 0.00)"
+739,shot,64898,64972,75,absent,0,0,0,0,0,23,"hair on 13/13 presence frames, none of it hers (best P 0.00)"
+740,shot,64973,65012,40,absent,0,0,0,0,0,13,"hair on 7/7 presence frames, none of it hers (best P 0.00)"
+741,shot,65013,65057,45,absent,0,0,0,0,0,15,"hair on 8/8 presence frames, none of it hers (best P 0.00)"
+742,shot,65058,65181,124,absent,0,0,0,0,0,35,"hair on 21/21 presence frames, none of it hers (best P 0.00)"
+743,shot,65182,65293,112,absent,0,0,0,0,0,36,"hair on 9/19 presence frames, none of it hers (best P 0.00)"
+744,shot,65294,65625,332,absent,0,0,0,0,0,108,"hair on 42/56 presence frames, none of it hers (best P 0.02)"
+745,shot,65626,65838,213,check,113,113,0,1,0,444,other characters' hair erased on 187 frames
+746,shot,65839,65909,71,absent,0,0,0,0,0,27,"hair on 12/12 presence frames, none of it hers (best P 0.00)"
+747,shot,65910,66025,116,ok,116,116,0,0,0,244,"dark scene: 87% of frames fail 'missed', missed QC off | other characters' hair erased on 93 frames"
+748,shot,66026,66096,71,ok,71,71,0,0,0,196,"dark scene: 100% of frames fail 'missed', missed QC off | other characters' hair erased on 71 frames"
+749,shot,66097,66136,40,ok,40,40,0,0,0,62,
+750,shot,66137,66230,94,absent,0,0,0,0,0,30,"hair on 16/16 presence frames, none of it hers (best P 0.00)"
+751,shot,66231,66334,104,ok,104,104,0,0,0,163,
+752,shot,66335,66451,117,absent,0,0,0,0,0,37,"hair on 20/20 presence frames, none of it hers (best P 0.01)"
+753,shot,66452,66565,114,ok,114,114,0,0,0,174,
+754,shot,66566,66631,66,ok,66,66,0,0,0,137,other characters' hair erased on 63 frames
+755,shot,66632,66677,46,ok,46,46,0,0,0,71,
+756,shot,66678,66771,94,ok,94,94,0,0,0,222,"dark scene: 100% of frames fail 'missed', missed QC off | other characters' hair erased on 94 frames"
+757,shot,66772,66869,98,ok,98,98,0,0,0,181,"dark scene: 57% of frames fail 'missed', missed QC off | other characters' hair erased on 49 frames"
+758,shot,66870,66916,47,ok,47,47,0,0,0,98,other characters' hair erased on 47 frames
+759,shot,66917,66969,53,absent,0,0,0,0,0,18,"hair on 9/9 presence frames, none of it hers (best P 0.03)"
+760,shot,66970,66992,23,ok,23,23,0,0,0,39,"dark scene: 100% of frames fail 'missed', missed QC off"
+761,shot,66993,67036,44,absent,0,0,0,0,0,15,"hair on 8/8 presence frames, none of it hers (best P 0.08)"
+762,shot,67037,67067,31,check,31,31,0,2,0,58,
+763,shot,67068,67095,28,absent,0,0,0,0,0,12,"hair on 5/5 presence frames, none of it hers (best P 0.00)"
+764,shot,67096,67147,52,absent,0,0,0,0,0,16,"hair on 8/9 presence frames, none of it hers (best P 0.05)"
+765,shot,67148,67237,90,check,58,56,2,2,0,179,"dark scene: 72% of frames fail 'missed', missed QC off | other characters' hair erased on 69 frames"
+766,shot,67238,67264,27,absent,0,0,0,0,0,11,"hair on 5/5 presence frames, none of it hers (best P 0.01)"
+767,shot,67265,67408,144,check,133,127,6,17,0,344,other characters' hair erased on 126 frames
+768,shot,67409,67460,52,check,34,32,2,1,0,117,"dark scene: 100% of frames fail 'missed', missed QC off | other characters' hair erased on 50 frames"
+769,shot,67461,67486,26,absent,0,0,0,0,0,11,"hair on 5/5 presence frames, none of it hers (best P 0.06)"
+770,shot,67487,67527,41,absent,0,0,0,0,0,14,"hair on 7/7 presence frames, none of it hers (best P 0.00)"
+771,shot,67528,67595,68,absent,0,0,0,0,0,22,"hair on 12/12 presence frames, none of it hers (best P 0.04)"
+772,shot,67596,67686,91,absent,0,0,0,0,0,31,"hair on 16/16 presence frames, none of it hers (best P 0.01)"
+773,shot,67687,67716,30,absent,0,0,0,0,0,10,"hair on 5/5 presence frames, none of it hers (best P 0.01)"
+774,shot,67717,67830,114,absent,0,0,0,0,0,35,"hair on 19/19 presence frames, none of it hers (best P 0.03)"
+775,shot,67831,67898,68,absent,0,0,0,0,0,23,"hair on 12/12 presence frames, none of it hers (best P 0.04)"
+776,shot,67899,68045,147,absent,0,0,0,0,0,57,"hair on 23/25 presence frames, none of it hers (best P 0.03)"
+777,transition,68046,68064,19,absent,0,0,0,0,0,9,"hair on 4/4 presence frames, none of it hers (best P 0.01)"
+778,shot,68065,68333,269,absent,0,0,0,0,0,104,"hair on 35/45 presence frames, none of it hers (best P 0.11)"
+779,shot,68334,68395,62,ok,2,2,0,0,0,105,
+780,shot,68396,68432,37,absent,0,0,0,0,0,14,"hair on 7/7 presence frames, none of it hers (best P 0.03)"
+781,shot,68433,68652,220,check,220,166,54,53,0,423,other characters' hair erased on 2 frames
+782,shot,68653,68709,57,absent,0,0,0,0,0,15,"hair on 4/10 presence frames, none of it hers (best P 0.16)"
+783,shot,68710,68780,71,ok,71,71,0,0,0,109,"dark scene: 100% of frames fail 'missed', missed QC off"
+784,shot,68781,68865,85,ok,85,85,0,0,0,129,"dark scene: 100% of frames fail 'missed', missed QC off"
+785,shot,68866,68929,64,absent,0,0,0,0,0,18,"hair on 6/11 presence frames, none of it hers (best P 0.07)"
+786,shot,68930,68997,68,absent,0,0,0,0,0,20,"hair on 12/12 presence frames, none of it hers (best P 0.05)"
+787,shot,68998,69065,68,ok,68,68,0,0,0,104,"dark scene: 100% of frames fail 'missed', missed QC off"
+788,shot,69066,69123,58,ok,58,58,0,0,0,118,"dark scene: 100% of frames fail 'missed', missed QC off"
+789,shot,69124,69207,84,ok,84,84,0,0,0,126,
+790,shot,69208,69419,212,ok,212,212,0,0,0,316,
+791,shot,69420,69462,43,ok,43,43,0,0,0,65,
+792,shot,69463,69558,96,ok,96,96,0,0,0,141,
+793,shot,69559,69614,56,absent,0,0,0,0,0,21,"hair on 10/10 presence frames, none of it hers (best P 0.00)"
+794,shot,69615,69767,153,ok,153,153,0,0,0,222,
+795,shot,69768,69807,40,absent,0,0,0,0,0,20,"hair on 7/7 presence frames, none of it hers (best P 0.00)"
+796,shot,69808,69883,76,ok,76,76,0,0,0,110,
+797,shot,69884,70053,170,absent,0,0,0,0,0,65,"hair on 27/29 presence frames, none of it hers (best P 0.01)"
+798,shot,70054,70115,62,absent,0,0,0,0,0,21,"hair on 11/11 presence frames, none of it hers (best P 0.05)"
+799,shot,70116,70187,72,absent,0,0,0,0,0,29,"hair on 12/12 presence frames, none of it hers (best P 0.02)"
+800,shot,70188,70359,172,ok,172,172,0,0,0,248,
+801,shot,70360,70430,71,absent,0,0,0,0,0,30,"hair on 12/12 presence frames, none of it hers (best P 0.01)"
+802,shot,70431,70462,32,absent,0,0,0,0,0,20,"hair on 6/6 presence frames, none of it hers (best P 0.00)"
+803,shot,70463,70651,189,ok,189,189,0,0,0,286,"dark scene: 75% of frames fail 'missed', missed QC off"
+804,shot,70652,71025,374,check,173,171,2,16,0,620,other characters' hair erased on 189 frames
+805,shot,71026,71080,55,absent,0,0,0,0,0,20,"hair on 10/10 presence frames, none of it hers (best P 0.00)"
+806,shot,71081,71114,34,ok,34,34,0,0,0,50,
+807,shot,71115,71145,31,ok,31,31,0,0,0,66,"dark scene: 100% of frames fail 'missed', missed QC off"
+808,shot,71146,71262,117,absent,0,0,0,0,0,35,"hair on 20/20 presence frames, none of it hers (best P 0.00)"
+809,shot,71263,71311,49,ok,49,49,0,0,0,73,
+810,shot,71312,71341,30,absent,0,0,0,0,0,13,"hair on 5/5 presence frames, none of it hers (best P 0.01)"
+811,shot,71342,71358,17,absent,0,0,0,0,0,7,"hair on 3/3 presence frames, none of it hers (best P 0.03)"
+812,shot,71359,71389,31,absent,0,0,0,0,0,12,"hair on 6/6 presence frames, none of it hers (best P 0.02)"
+813,shot,71390,71434,45,absent,0,0,0,0,0,14,"hair on 8/8 presence frames, none of it hers (best P 0.01)"
+814,shot,71435,71479,45,absent,0,0,0,0,0,19,"hair on 8/8 presence frames, none of it hers (best P 0.00)"
+815,shot,71480,71566,87,absent,0,0,0,0,0,28,"hair on 15/15 presence frames, none of it hers (best P 0.03)"
+816,shot,71567,71590,24,absent,0,0,0,0,0,10,"hair on 4/4 presence frames, none of it hers (best P 0.28)"
+817,shot,71591,71680,90,absent,0,0,0,0,0,27,"hair on 15/15 presence frames, none of it hers (best P 0.10)"
+818,shot,71681,71708,28,absent,0,0,0,0,0,14,"hair on 5/5 presence frames, none of it hers (best P 0.01)"
+819,shot,71709,71716,8,absent,0,0,0,0,0,5,"hair on 2/2 presence frames, none of it hers (best P 0.01)"
+820,shot,71717,71756,40,absent,0,0,0,0,0,14,"hair on 7/7 presence frames, none of it hers (best P 0.04)"
+821,shot,71757,71861,105,absent,0,0,0,0,0,35,"hair on 17/18 presence frames, none of it hers (best P 0.00)"
+822,shot,71862,71893,32,ok,32,32,0,0,0,51,
+823,shot,71894,71967,74,absent,0,0,0,0,0,28,"hair on 13/13 presence frames, none of it hers (best P 0.01)"
+824,shot,71968,72251,284,check,284,283,1,3,0,527,
+825,shot,72252,72367,116,absent,0,0,0,0,0,43,"hair on 18/20 presence frames, none of it hers (best P 0.00)"
+826,shot,72368,72492,125,ok,125,125,0,0,0,189,
+827,shot,72493,72567,75,absent,0,0,0,0,0,27,"hair on 11/13 presence frames, none of it hers (best P 0.01)"
+828,shot,72568,72663,96,ok,96,96,0,0,0,145,
+829,shot,72664,72705,42,absent,0,0,0,0,0,16,"hair on 7/7 presence frames, none of it hers (best P 0.00)"
+830,shot,72706,72828,123,ok,123,123,0,0,0,181,"dark scene: 100% of frames fail 'missed', missed QC off"
+831,shot,72829,72884,56,absent,0,0,0,0,0,21,"hair on 10/10 presence frames, none of it hers (best P 0.00)"
+832,shot,72885,73028,144,absent,0,0,0,0,0,64,"hair on 22/24 presence frames, none of it hers (best P 0.01)"
+833,shot,73029,73090,62,absent,0,0,0,0,0,27,"hair on 11/11 presence frames, none of it hers (best P 0.06)"
+834,shot,73091,73142,52,absent,0,0,0,0,0,31,
+835,shot,73143,73214,72,check,72,69,3,8,0,128,other characters' hair erased on 1 frames
+836,shot,73215,73254,40,absent,0,0,0,0,0,26,"hair on 7/7 presence frames, none of it hers (best P 0.00)"
+837,shot,73255,73283,29,absent,0,0,0,0,0,11,"hair on 5/5 presence frames, none of it hers (best P 0.01)"
+838,shot,73284,73333,50,absent,0,0,0,0,0,17,"hair on 9/9 presence frames, none of it hers (best P 0.03)"
+839,shot,73334,73542,209,ok,209,209,0,0,0,551,"dark scene: 98% of frames fail 'missed', missed QC off | other characters' hair erased on 209 frames"
+840,shot,73543,73676,134,absent,0,0,0,0,0,61,"hair on 23/23 presence frames, none of it hers (best P 0.01)"
+841,shot,73677,73756,80,absent,0,0,0,0,0,24,"hair on 14/14 presence frames, none of it hers (best P 0.10)"
+842,shot,73757,73860,104,check,39,38,1,1,0,243,"dark scene: 100% of frames fail 'missed', missed QC off | other characters' hair erased on 104 frames"
+843,shot,73861,73904,44,ok,25,25,0,0,0,93,other characters' hair erased on 44 frames
+844,shot,73905,74096,192,check,192,189,3,93,0,458,other characters' hair erased on 192 frames
+845,shot,74097,74163,67,ok,67,67,0,0,0,140,"dark scene: 100% of frames fail 'missed', missed QC off | other characters' hair erased on 67 frames"
+846,shot,74164,74358,195,check,195,138,57,87,0,345,
+847,shot,74359,74386,28,absent,0,0,0,0,0,13,"hair on 5/5 presence frames, none of it hers (best P 0.01)"
+848,shot,74387,74408,22,ok,22,22,0,0,0,32,
+849,shot,74409,74541,133,ok,133,133,0,0,0,272,"dark scene: 100% of frames fail 'missed', missed QC off | other characters' hair erased on 133 frames"
+850,shot,74542,74609,68,check,68,62,6,6,0,111,
+851,shot,74610,74683,74,ok,74,74,0,0,0,125,other characters' hair erased on 2 frames
+852,shot,74684,74741,58,absent,0,0,0,0,0,24,"hair on 9/10 presence frames, none of it hers (best P 0.01)"
+853,shot,74742,74781,40,absent,0,0,0,0,0,15,"hair on 6/7 presence frames, none of it hers (best P 0.08)"
+854,shot,74782,74853,72,absent,0,0,0,0,0,30,"hair on 12/12 presence frames, none of it hers (best P 0.02)"
+855,shot,74854,75087,234,absent,0,0,0,0,0,78,"hair on 37/39 presence frames, none of it hers (best P 0.03)"
+856,shot,75088,75133,46,absent,0,0,0,0,0,16,"hair on 8/8 presence frames, none of it hers (best P 0.04)"
+857,shot,75134,75247,114,absent,0,0,0,0,0,39,"hair on 18/19 presence frames, none of it hers (best P 0.49)"
+858,shot,75248,75303,56,absent,0,0,0,0,0,24,"hair on 10/10 presence frames, none of it hers (best P 0.23)"
+859,shot,75304,75391,88,absent,0,0,0,0,0,29,"hair on 15/15 presence frames, none of it hers (best P 0.00)"
+860,shot,75392,75471,80,absent,0,0,0,0,0,31,"hair on 13/14 presence frames, none of it hers (best P 0.00)"
+861,shot,75472,75577,106,absent,0,0,0,0,0,36,"hair on 17/18 presence frames, none of it hers (best P 0.00)"
+862,shot,75578,75601,24,absent,0,0,0,0,0,7,"hair on 1/4 presence frames, none of it hers (best P 0.00)"
+863,shot,75602,75621,20,absent,0,0,0,0,0,9,"hair on 4/4 presence frames, none of it hers (best P 0.01)"
+864,shot,75622,75681,60,absent,0,0,0,0,0,26,"hair on 10/10 presence frames, none of it hers (best P 0.16)"
+865,shot,75682,75703,22,absent,0,0,0,0,0,8,"hair on 4/4 presence frames, none of it hers (best P 0.01)"
+866,shot,75704,75928,225,absent,0,0,0,0,0,84,"hair on 37/38 presence frames, none of it hers (best P 0.02)"
+867,shot,75929,76088,160,absent,0,0,0,0,0,64,"hair on 27/27 presence frames, none of it hers (best P 0.00)"
+868,shot,76089,76225,137,absent,0,0,0,0,0,45,"hair on 23/23 presence frames, none of it hers (best P 0.00)"
+869,shot,76226,76264,39,absent,0,0,0,0,0,14,"hair on 7/7 presence frames, none of it hers (best P 0.01)"
+870,shot,76265,76282,18,absent,0,0,0,0,0,8,"hair on 3/3 presence frames, none of it hers (best P 0.01)"
+871,shot,76283,76354,72,absent,0,0,0,0,0,22,"hair on 12/12 presence frames, none of it hers (best P 0.00)"
+872,shot,76355,76390,36,absent,0,0,0,0,0,13,"hair on 6/6 presence frames, none of it hers (best P 0.01)"
+873,shot,76391,76459,69,absent,0,0,0,0,0,24,"hair on 12/12 presence frames, none of it hers (best P 0.01)"
+874,shot,76460,76575,116,absent,0,0,0,0,0,47,"hair on 20/20 presence frames, none of it hers (best P 0.01)"
+875,shot,76576,76761,186,absent,0,0,0,0,0,60,"hair on 31/31 presence frames, none of it hers (best P 0.01)"
+876,shot,76762,76783,22,absent,0,0,0,0,0,10,"hair on 4/4 presence frames, none of it hers (best P 0.14)"
+877,shot,76784,76894,111,absent,0,0,0,0,0,33,"hair on 19/19 presence frames, none of it hers (best P 0.02)"
+878,shot,76895,77101,207,absent,0,0,0,0,0,71,"hair on 35/35 presence frames, none of it hers (best P 0.03)"
+879,shot,77102,77143,42,absent,0,0,0,0,0,13,"hair on 7/7 presence frames, none of it hers (best P 0.01)"
+880,shot,77144,77180,37,absent,0,0,0,0,0,14,"hair on 7/7 presence frames, none of it hers (best P 0.28)"
+881,shot,77181,77228,48,absent,0,0,0,0,0,16,"hair on 8/8 presence frames, none of it hers (best P 0.00)"
+882,shot,77229,77333,105,absent,0,0,0,0,0,32,"hair on 18/18 presence frames, none of it hers (best P 0.01)"
+883,shot,77334,77369,36,absent,0,0,0,0,0,13,"hair on 6/6 presence frames, none of it hers (best P 0.02)"
+884,shot,77370,77485,116,absent,0,0,0,0,0,35,"hair on 20/20 presence frames, none of it hers (best P 0.01)"
+885,shot,77486,77546,61,absent,0,0,0,0,0,19,"hair on 11/11 presence frames, none of it hers (best P 0.00)"
+886,shot,77547,77628,82,absent,0,0,0,0,0,25,"hair on 14/14 presence frames, none of it hers (best P 0.04)"
+887,shot,77629,77809,181,absent,0,0,0,0,0,67,"hair on 31/31 presence frames, none of it hers (best P 0.06)"
+888,shot,77810,77832,23,absent,0,0,0,0,0,9,"hair on 4/4 presence frames, none of it hers (best P 0.00)"
+889,shot,77833,77872,40,absent,0,0,0,0,0,12,"hair on 7/7 presence frames, none of it hers (best P 0.38)"
+890,shot,77873,78061,189,check,146,107,39,30,0,349,other characters' hair erased on 47 frames
+891,shot,78062,78142,81,absent,0,0,0,0,0,28,"hair on 14/14 presence frames, none of it hers (best P 0.02)"
+892,shot,78143,78260,118,check,118,100,18,16,0,271,other characters' hair erased on 113 frames
+893,shot,78261,78305,45,absent,0,0,0,0,0,16,"hair on 8/8 presence frames, none of it hers (best P 0.09)"
+894,shot,78306,78363,58,ok,58,58,0,0,0,88,"dark scene: 100% of frames fail 'missed', missed QC off"
+895,shot,78364,78556,193,check,184,178,6,1,0,400,other characters' hair erased on 188 frames
+896,shot,78557,78694,138,ok,0,0,0,0,0,269,other characters' hair erased on 73 frames
+897,transition,78695,78726,32,absent,0,0,0,0,0,14,"hair on 6/6 presence frames, none of it hers (best P 0.00)"
+898,shot,78727,79018,292,absent,0,0,0,0,0,107,"hair on 48/49 presence frames, none of it hers (best P 0.08)"
+899,shot,79019,79120,102,absent,0,0,0,0,0,36,"hair on 17/17 presence frames, none of it hers (best P 0.02)"
+900,shot,79121,79160,40,absent,0,0,0,0,0,14,"hair on 6/7 presence frames, none of it hers (best P 0.00)"
+901,shot,79161,79204,44,absent,0,0,0,0,0,14,"hair on 7/8 presence frames, none of it hers (best P 0.02)"
+902,shot,79205,79268,64,absent,0,0,0,0,0,30,"hair on 11/11 presence frames, none of it hers (best P 0.00)"
+903,shot,79269,79382,114,absent,0,0,0,0,0,38,"hair on 19/19 presence frames, none of it hers (best P 0.01)"
+904,shot,79383,79439,57,absent,0,0,0,0,0,19,"hair on 10/10 presence frames, none of it hers (best P 0.08)"
+905,shot,79440,79516,77,absent,0,0,0,0,0,25,"hair on 13/13 presence frames, none of it hers (best P 0.00)"
+906,shot,79517,79552,36,absent,0,0,0,0,0,16,"hair on 6/6 presence frames, none of it hers (best P 0.02)"
+907,shot,79553,79586,34,absent,0,0,0,0,0,14,"hair on 6/6 presence frames, none of it hers (best P 0.00)"
+908,shot,79587,79647,61,absent,0,0,0,0,0,26,"hair on 11/11 presence frames, none of it hers (best P 0.00)"
+909,shot,79648,79723,76,absent,0,0,0,0,0,32,"hair on 13/13 presence frames, none of it hers (best P 0.00)"
+910,shot,79724,79802,79,absent,0,0,0,0,0,28,"hair on 14/14 presence frames, none of it hers (best P 0.00)"
+911,shot,79803,79841,39,absent,0,0,0,0,0,15,"hair on 7/7 presence frames, none of it hers (best P 0.00)"
+912,shot,79842,79962,121,absent,0,0,0,0,0,36,"hair on 21/21 presence frames, none of it hers (best P 0.00)"
+913,shot,79963,80114,152,absent,0,0,0,0,0,55,"hair on 26/26 presence frames, none of it hers (best P 0.03)"
+914,shot,80115,80201,87,absent,0,0,0,0,0,27,"hair on 14/15 presence frames, none of it hers (best P 0.00)"
+915,shot,80202,80281,80,absent,0,0,0,0,0,26,"hair on 13/14 presence frames, none of it hers (best P 0.00)"
+916,shot,80282,80343,62,absent,0,0,0,0,0,17,"hair on 7/11 presence frames, none of it hers (best P 0.03)"
+917,shot,80344,80370,27,absent,0,0,0,0,0,13,"hair on 5/5 presence frames, none of it hers (best P 0.01)"
+918,shot,80371,80406,36,absent,0,0,0,0,0,12,"hair on 6/6 presence frames, none of it hers (best P 0.24)"
+919,shot,80407,80457,51,absent,0,0,0,0,0,18,"hair on 9/9 presence frames, none of it hers (best P 0.03)"
+920,shot,80458,80523,66,absent,0,0,0,0,0,21,"hair on 11/11 presence frames, none of it hers (best P 0.03)"
+921,shot,80524,80663,140,absent,0,0,0,0,0,46,"hair on 24/24 presence frames, none of it hers (best P 0.01)"
+922,shot,80664,80726,63,ok,0,0,0,0,0,108,other characters' hair erased on 25 frames
+923,shot,80727,80801,75,absent,0,0,0,0,0,30,"hair on 13/13 presence frames, none of it hers (best P 0.03)"
+924,shot,80802,80912,111,check,111,111,0,26,0,175,fallback 70-70: no seed prompts (cleaned seed too small (2847 px): hair lost) | fallback 80-81: no seed prompts (cleaned seed too small (2535 px): hair lost) | fallback 83-84: no seed prompts (cleaned seed too small (2342 px): hair lost) | fallback 86-87: no seed prompts (cleaned seed too small (2682 px): hair lost) | fallback 94-111: no seed prompts (cleaned seed too small (2236 px): hair lost)
+925,shot,80913,81034,122,ok,122,122,0,0,0,187,"dark scene: 80% of frames fail 'missed', missed QC off"
+926,shot,81035,81110,76,check,73,72,1,1,0,116,other characters' hair erased on 1 frames
+927,shot,81111,81207,97,check,91,91,0,12,0,156,fallback 1-2: no seed prompts (cleaned seed too small (1919 px): hair lost) | fallback 5-8: no seed prompts (cleaned seed too small (1915 px): hair lost) | fallback 27-30: no seed prompts (cleaned seed too small (2134 px): hair lost) | fallback 35-36: no seed prompts (cleaned seed too small (1696 px): hair lost)
+928,shot,81208,81251,44,absent,0,0,0,0,0,19,"hair on 8/8 presence frames, none of it hers (best P 0.03)"
+929,shot,81252,81334,83,ok,83,83,0,0,0,125,
+930,shot,81335,81414,80,absent,0,0,0,0,0,30,"hair on 13/14 presence frames, none of it hers (best P 0.05)"
+931,shot,81415,81474,60,absent,0,0,0,0,0,27,"hair on 10/10 presence frames, none of it hers (best P 0.01)"
+932,shot,81475,81570,96,absent,0,0,0,0,0,35,"hair on 14/16 presence frames, none of it hers (best P 0.35)"
+933,shot,81571,81610,40,absent,0,0,0,0,0,14,"hair on 7/7 presence frames, none of it hers (best P 0.10)"
+934,shot,81611,81644,34,absent,0,0,0,0,0,11,"hair on 6/6 presence frames, none of it hers (best P 0.01)"
+935,shot,81645,81686,42,absent,0,0,0,0,0,14,"hair on 7/7 presence frames, none of it hers (best P 0.21)"
+936,shot,81687,81734,48,check,48,46,2,2,0,88,"dark scene: 65% of frames fail 'missed', missed QC off"
+937,shot,81735,81802,68,absent,0,0,0,0,0,22,"hair on 12/12 presence frames, none of it hers (best P 0.01)"
+938,shot,81803,81882,80,check,52,31,21,24,0,176,fallback 37-48: no seed prompts (cleaned seed too small (2570 px): hair lost) | other characters' hair erased on 17 frames
+939,shot,81883,81914,32,absent,0,0,0,0,0,12,"hair on 6/6 presence frames, none of it hers (best P 0.08)"
+940,shot,81915,81967,53,absent,0,0,0,0,0,18,"hair on 9/9 presence frames, none of it hers (best P 0.02)"
+941,shot,81968,82068,101,absent,0,0,0,0,0,39,"hair on 16/17 presence frames, none of it hers (best P 0.01)"
+942,shot,82069,82209,141,absent,0,0,0,0,0,58,"hair on 24/24 presence frames, none of it hers (best P 0.09)"
+943,shot,82210,82295,86,ok,0,0,0,0,0,147,other characters' hair erased on 81 frames
+944,shot,82296,82391,96,absent,0,0,0,0,0,30,"hair on 14/16 presence frames, none of it hers (best P 0.03)"
+945,shot,82392,82499,108,ok,0,0,0,0,0,197,
+946,shot,82500,82555,56,absent,0,0,0,0,0,24,"hair on 10/10 presence frames, none of it hers (best P 0.04)"
+947,shot,82556,82619,64,ok,64,64,0,0,0,93,
+948,shot,82620,82673,54,absent,0,0,0,0,0,15,"hair on 9/9 presence frames, none of it hers (best P 0.03)"
+949,shot,82674,82705,32,absent,0,0,0,0,0,16,"hair on 6/6 presence frames, none of it hers (best P 0.15)"
+950,shot,82706,82813,108,absent,0,0,0,0,0,32,"hair on 18/18 presence frames, none of it hers (best P 0.02)"
+951,shot,82814,82879,66,absent,0,0,0,0,0,27,"hair on 11/11 presence frames, none of it hers (best P 0.01)"
+952,shot,82880,82953,74,absent,0,0,0,0,0,24,"hair on 13/13 presence frames, none of it hers (best P 0.02)"
+953,shot,82954,83039,86,absent,0,0,0,0,0,30,"hair on 13/15 presence frames, none of it hers (best P 0.01)"
+954,shot,83040,83209,170,ok,105,105,0,0,0,267,other characters' hair erased on 64 frames
+955,shot,83210,83249,40,ok,40,40,0,0,0,59,
+956,shot,83250,83425,176,check,176,174,2,23,0,301,
+957,shot,83426,83473,48,absent,0,0,0,0,0,19,"hair on 8/8 presence frames, none of it hers (best P 0.00)"
+958,shot,83474,83581,108,absent,0,0,0,0,0,34,"hair on 15/18 presence frames, none of it hers (best P 0.13)"
+959,shot,83582,83709,128,ok,128,128,0,0,0,187,
+960,shot,83710,83833,124,ok,0,0,0,0,0,185,other characters' hair erased on 3 frames
+961,shot,83834,83899,66,absent,0,0,0,0,0,27,"hair on 11/11 presence frames, none of it hers (best P 0.01)"
+962,shot,83900,83947,48,ok,48,48,0,0,0,71,
+963,shot,83948,84037,90,ok,0,0,0,0,0,182,other characters' hair erased on 90 frames
+964,shot,84038,84079,42,ok,42,42,0,0,0,64,"dark scene: 100% of frames fail 'missed', missed QC off"
+965,shot,84080,84183,104,check,27,26,1,3,0,177,other characters' hair erased on 77 frames
+966,shot,84184,84216,33,ok,15,15,0,0,0,60,"dark scene: 93% of frames fail 'missed', missed QC off | other characters' hair erased on 22 frames"
+967,shot,84217,84249,33,ok,33,33,0,0,0,50,"dark scene: 97% of frames fail 'missed', missed QC off"
+968,shot,84250,84272,23,ok,23,23,0,0,0,49,other characters' hair erased on 23 frames
+969,shot,84273,84332,60,absent,0,0,0,0,0,20,"hair on 10/10 presence frames, none of it hers (best P 0.25)"
+970,shot,84333,84341,9,absent,0,0,0,0,0,5,"hair on 2/2 presence frames, none of it hers (best P 0.01)"
+971,shot,84342,84442,101,ok,26,26,0,0,0,170,"dark scene: 85% of frames fail 'missed', missed QC off | other characters' hair erased on 92 frames"
+972,shot,84443,84633,191,check,82,75,7,6,0,387,other characters' hair erased on 158 frames
+973,shot,84634,84652,19,check,18,17,1,1,0,36,"dark scene: 78% of frames fail 'missed', missed QC off | other characters' hair erased on 1 frames"
+974,shot,84653,84680,28,ok,0,0,0,0,0,50,other characters' hair erased on 28 frames
+975,shot,84681,84718,38,absent,0,0,0,0,0,15,"hair on 7/7 presence frames, none of it hers (best P 0.00)"
+976,shot,84719,84774,56,absent,0,0,0,0,0,18,"hair on 10/10 presence frames, none of it hers (best P 0.40)"
+977,shot,84775,84798,24,absent,0,0,0,0,0,9,"hair on 4/4 presence frames, none of it hers (best P 0.00)"
+978,shot,84799,84850,52,ok,0,0,0,0,0,90,other characters' hair erased on 52 frames
+979,shot,84851,84894,44,absent,0,0,0,0,0,16,"hair on 8/8 presence frames, none of it hers (best P 0.00)"
+980,shot,84895,84917,23,check,5,2,3,3,0,52,"dark scene: 75% of frames fail 'missed', missed QC off | other characters' hair erased on 20 frames"
+981,shot,84918,84965,48,absent,0,0,0,0,0,15,"hair on 8/8 presence frames, none of it hers (best P 0.01)"
+982,shot,84966,85071,106,check,82,74,8,2,0,249,other characters' hair erased on 94 frames
+983,shot,85072,85126,55,absent,0,0,0,0,0,17,"hair on 10/10 presence frames, none of it hers (best P 0.01)"
+984,shot,85127,85137,11,absent,0,0,0,0,0,5,"hair on 2/2 presence frames, none of it hers (best P 0.00)"
+985,shot,85138,85145,8,absent,0,0,0,0,0,6,"hair on 2/2 presence frames, none of it hers (best P 0.01)"
+986,shot,85146,85167,22,absent,0,0,0,0,0,8,"hair on 4/4 presence frames, none of it hers (best P 0.01)"
+987,shot,85168,85222,55,ok,55,54,1,0,0,105,
+988,shot,85223,85238,16,ok,0,0,0,0,0,37,
+989,shot,85239,85252,14,check,6,5,1,2,0,32,other characters' hair erased on 8 frames
+990,shot,85253,85306,54,absent,0,0,0,0,0,21,"hair on 9/9 presence frames, none of it hers (best P 0.41)"
+991,shot,85307,85337,31,ok,31,31,0,0,0,66,"dark scene: 94% of frames fail 'missed', missed QC off | other characters' hair erased on 31 frames"
+992,shot,85338,85388,51,absent,0,0,0,0,0,17,"hair on 9/9 presence frames, none of it hers (best P 0.01)"
+993,shot,85389,85434,46,ok,46,46,0,0,0,70,"dark scene: 76% of frames fail 'missed', missed QC off"
+994,shot,85435,85453,19,absent,0,0,0,0,0,7,"hair on 4/4 presence frames, none of it hers (best P 0.00)"
+995,shot,85454,85482,29,ok,29,29,0,0,0,47,"dark scene: 76% of frames fail 'missed', missed QC off"
+996,shot,85483,85564,82,check,82,82,0,14,0,166,
+997,shot,85565,85662,98,absent,0,0,0,0,0,30,"hair on 17/17 presence frames, none of it hers (best P 0.01)"
+998,shot,85663,85677,15,ok,15,15,0,0,0,24,"dark scene: 100% of frames fail 'missed', missed QC off"
+999,shot,85678,85761,84,check,72,67,5,5,0,145,other characters' hair erased on 7 frames
+1000,shot,85762,85795,34,absent,0,0,0,0,0,17,"hair on 6/6 presence frames, none of it hers (best P 0.02)"
+1001,shot,85796,85892,97,ok,0,0,0,0,0,198,other characters' hair erased on 35 frames
+1002,shot,85893,85902,10,ok,10,10,0,0,0,16,"dark scene: 100% of frames fail 'missed', missed QC off"
+1003,shot,85903,85968,66,ok,66,66,0,0,0,198,other characters' hair erased on 66 frames
+1004,shot,85969,85986,18,ok,18,18,0,0,0,27,"dark scene: 100% of frames fail 'missed', missed QC off"
+1005,shot,85987,86011,25,absent,0,0,0,0,0,10,"hair on 5/5 presence frames, none of it hers (best P 0.18)"
+1006,shot,86012,86065,54,absent,0,0,0,0,0,24,"hair on 9/9 presence frames, none of it hers (best P 0.09)"
+1007,shot,86066,86557,492,check,390,290,100,172,0,1421,other characters' hair erased on 373 frames
+1008,shot,86558,86625,68,absent,0,0,0,0,0,27,"hair on 12/12 presence frames, none of it hers (best P 0.04)"
+1009,shot,86626,86681,56,absent,0,0,0,0,0,22,"hair on 10/10 presence frames, none of it hers (best P 0.03)"
+1010,shot,86682,86741,60,absent,0,0,0,0,0,17,"hair on 7/10 presence frames, none of it hers (best P 0.29)"
+1011,shot,86742,86952,211,absent,0,0,0,0,0,62,"hair on 32/36 presence frames, none of it hers (best P 0.07)"
+1012,shot,86953,87173,221,absent,0,0,0,0,0,92,"hair on 35/37 presence frames, none of it hers (best P 0.04)"
+1013,shot,87174,87295,122,absent,0,0,0,0,0,41,"hair on 21/21 presence frames, none of it hers (best P 0.01)"
+1014,shot,87296,87359,64,ok,0,0,0,0,0,233,other characters' hair erased on 64 frames
+1015,shot,87360,87382,23,absent,0,0,0,0,0,13,"hair on 4/4 presence frames, none of it hers (best P 0.19)"
+1016,shot,87383,87417,35,absent,0,0,0,0,0,12,"hair on 6/6 presence frames, none of it hers (best P 0.00)"
+1017,shot,87418,87459,42,absent,0,0,0,0,0,19,"hair on 7/7 presence frames, none of it hers (best P 0.17)"
+1018,shot,87460,87530,71,absent,0,0,0,0,0,38,"hair on 12/12 presence frames, none of it hers (best P 0.39)"
+1019,shot,87531,87584,54,absent,0,0,0,0,0,28,"hair on 9/9 presence frames, none of it hers (best P 0.01)"
+1020,shot,87585,87653,69,absent,0,0,0,0,0,25,"hair on 12/12 presence frames, none of it hers (best P 0.03)"
+1021,shot,87654,87667,14,ok,11,11,0,0,0,54,other characters' hair erased on 14 frames
+1022,shot,87668,87850,183,absent,0,0,0,0,0,75,"hair on 31/31 presence frames, none of it hers (best P 0.01)"
+1023,shot,87851,87894,44,ok,44,44,0,0,0,68,
+1024,shot,87895,87992,98,absent,0,0,0,0,0,37,"hair on 17/17 presence frames, none of it hers (best P 0.00)"
+1025,shot,87993,88047,55,absent,0,0,0,0,0,18,"hair on 10/10 presence frames, none of it hers (best P 0.09)"
+1026,shot,88048,88111,64,ok,64,64,0,0,0,97,
+1027,shot,88112,88211,100,check,5,5,0,6,0,364,fallback 51-56: no seed prompts (cleaned seed too small (1584 px): hair lost) | other characters' hair erased on 12 frames
+1028,shot,88212,88355,144,ok,99,99,0,0,0,230,other characters' hair erased on 41 frames
+1029,shot,88356,88419,64,ok,64,64,0,0,0,96,
+1030,shot,88420,88538,119,absent,0,0,0,0,0,36,"hair on 20/20 presence frames, none of it hers (best P 0.05)"
+1031,shot,88539,88574,36,ok,36,36,0,0,0,54,
+1032,shot,88575,88635,61,absent,0,0,0,0,0,20,"hair on 11/11 presence frames, none of it hers (best P 0.12)"
+1033,shot,88636,89035,400,check,316,315,1,8,0,835,"dark scene: 94% of frames fail 'missed', missed QC off | fallback 384-384: no seed prompts (cleaned seed too small (2311 px): hair lost) | fallback 386-387: no seed prompts (cleaned seed too small (2167 px): hair lost) | fallback 389-391: no seed prompts (cleaned seed too small (2131 px): hair lost) | fallback 395-395: no seed prompts (cleaned seed too small (2322 px): hair lost) | other characters' hair erased on 373 frames"
+1034,shot,89036,89138,103,check,103,94,9,6,0,226,other characters' hair erased on 103 frames
+1035,shot,89139,89271,133,ok,0,0,0,0,0,321,other characters' hair erased on 133 frames
+1036,shot,89272,89338,67,check,67,60,7,13,0,132,
+1037,shot,89339,89409,71,absent,0,0,0,0,0,26,"hair on 12/12 presence frames, none of it hers (best P 0.00)"
+1038,shot,89410,89492,83,check,52,50,2,3,0,159,other characters' hair erased on 33 frames
+1039,shot,89493,89661,169,check,139,137,2,2,0,292,other characters' hair erased on 30 frames
+1040,shot,89662,89725,64,absent,0,0,0,0,0,20,"hair on 11/11 presence frames, none of it hers (best P 0.09)"
+1041,shot,89726,89797,72,check,72,70,2,1,0,147,"tinted scene: median hair purity 0.35 < 0.5, purity/missed QC off"
+1042,shot,89798,89867,70,ok,70,70,0,0,0,120,"dark scene: 100% of frames fail 'missed', missed QC off"
+1043,shot,89868,90118,251,ok,251,251,0,0,0,366,"dark scene: 100% of frames fail 'missed', missed QC off"
+1044,shot,90119,90174,56,ok,56,56,0,0,0,82,
+1045,shot,90175,90282,108,absent,0,0,0,0,0,30,"hair on 18/18 presence frames, none of it hers (best P 0.02)"
+1046,shot,90283,90303,21,absent,0,0,0,0,0,7,"hair on 4/4 presence frames, none of it hers (best P 0.05)"
+1047,shot,90304,90397,94,ok,94,94,0,0,0,137,
+1048,shot,90398,90512,115,absent,0,0,0,0,0,35,"hair on 20/20 presence frames, none of it hers (best P 0.05)"
+1049,shot,90513,90822,310,ok,0,0,0,0,0,530,other characters' hair erased on 309 frames
+1050,shot,90823,90907,85,absent,0,0,0,0,0,31,"hair on 14/15 presence frames, none of it hers (best P 0.00)"
+1051,shot,90908,90949,42,absent,0,0,0,0,0,15,"hair on 7/7 presence frames, none of it hers (best P 0.00)"
+1052,shot,90950,90973,24,absent,0,0,0,0,0,11,"hair on 4/4 presence frames, none of it hers (best P 0.00)"
+1053,shot,90974,91075,102,absent,0,0,0,0,0,32,"hair on 1/17 presence frames, none of it hers (best P 0.01)"
+1054,shot,91076,91093,18,absent,0,0,0,0,0,8,"hair on 3/3 presence frames, none of it hers (best P 0.00)"
+1055,shot,91094,91133,40,absent,0,0,0,0,0,13,"hair on 7/7 presence frames, none of it hers (best P 0.01)"
+1056,shot,91134,91241,108,absent,0,0,0,0,0,40,"hair on 17/18 presence frames, none of it hers (best P 0.12)"
+1057,shot,91242,91277,36,absent,0,0,0,0,0,14,"hair on 6/6 presence frames, none of it hers (best P 0.02)"
+1058,shot,91278,91335,58,absent,0,0,0,0,0,24,"hair on 10/10 presence frames, none of it hers (best P 0.03)"
+1059,shot,91336,91409,74,absent,0,0,0,0,0,28,"hair on 13/13 presence frames, none of it hers (best P 0.01)"
+1060,shot,91410,91477,68,absent,0,0,0,0,0,24,"hair on 12/12 presence frames, none of it hers (best P 0.01)"
+1061,shot,91478,91560,83,absent,0,0,0,0,0,24,"hair on 14/14 presence frames, none of it hers (best P 0.00)"
+1062,shot,91561,91730,170,absent,0,0,0,0,0,71,"hair on 29/29 presence frames, none of it hers (best P 0.08)"
+1063,shot,91731,91920,190,ok,0,0,0,0,0,437,other characters' hair erased on 190 frames
+1064,shot,91921,92061,141,absent,0,0,0,0,0,56,"hair on 24/24 presence frames, none of it hers (best P 0.00)"
+1065,shot,92062,92079,18,absent,0,0,0,0,0,12,"hair on 3/3 presence frames, none of it hers (best P 0.02)"
+1066,shot,92080,92123,44,absent,0,0,0,0,0,19,"hair on 8/8 presence frames, none of it hers (best P 0.00)"
+1067,shot,92124,92162,39,absent,0,0,0,0,0,16,"hair on 7/7 presence frames, none of it hers (best P 0.00)"
+1068,shot,92163,92202,40,absent,0,0,0,0,0,13,"hair on 7/7 presence frames, none of it hers (best P 0.01)"
+1069,shot,92203,92225,23,absent,0,0,0,0,0,9,"hair on 4/4 presence frames, none of it hers (best P 0.00)"
+1070,shot,92226,92271,46,absent,0,0,0,0,0,23,"hair on 8/8 presence frames, none of it hers (best P 0.07)"
+1071,shot,92272,92294,23,absent,0,0,0,0,0,15,"hair on 4/4 presence frames, none of it hers (best P 0.01)"
+1072,shot,92295,92351,57,absent,0,0,0,0,0,18,"hair on 8/10 presence frames, none of it hers (best P 0.01)"
+1073,shot,92352,92370,19,absent,0,0,0,0,0,15,"hair on 4/4 presence frames, none of it hers (best P 0.00)"
+1074,shot,92371,92413,43,absent,0,0,0,0,0,22,"hair on 8/8 presence frames, none of it hers (best P 0.01)"
+1075,shot,92414,92495,82,absent,0,0,0,0,0,30,"hair on 14/14 presence frames, none of it hers (best P 0.00)"
+1076,shot,92496,92565,70,absent,0,0,0,0,0,26,"hair on 12/12 presence frames, none of it hers (best P 0.00)"
+1077,shot,92566,92594,29,absent,0,0,0,0,0,9,"hair on 4/5 presence frames, none of it hers (best P 0.07)"
+1078,shot,92595,92615,21,absent,0,0,0,0,0,10,"hair on 4/4 presence frames, none of it hers (best P 0.04)"
+1079,shot,92616,92660,45,absent,0,0,0,0,0,26,"hair on 8/8 presence frames, none of it hers (best P 0.22)"
+1080,shot,92661,92863,203,absent,0,0,0,0,0,74,"hair on 25/34 presence frames, none of it hers (best P 0.01)"
+1081,shot,92864,93025,162,absent,0,0,0,0,0,51,"hair on 27/27 presence frames, none of it hers (best P 0.07)"
+1082,shot,93026,93168,143,ok,0,0,0,0,0,319,other characters' hair erased on 143 frames
+1083,shot,93169,93276,108,absent,0,0,0,0,0,31,"hair on 4/18 presence frames, none of it hers (best P 0.00)"
+1084,shot,93277,93298,22,absent,0,0,0,0,0,6,"hair on 2/4 presence frames, none of it hers (best P 0.00)"
+1085,shot,93299,93318,20,absent,0,0,0,0,0,7,"hair on 2/4 presence frames, none of it hers (best P 0.00)"
+1086,shot,93319,93350,32,absent,0,0,0,0,0,17,"hair on 6/6 presence frames, none of it hers (best P 0.00)"
+1087,shot,93351,93444,94,absent,0,0,0,0,0,40,"hair on 16/16 presence frames, none of it hers (best P 0.02)"
+1088,shot,93445,93515,71,absent,0,0,0,0,0,21,"hair on 11/12 presence frames, none of it hers (best P 0.08)"
+1089,shot,93516,93543,28,absent,0,0,0,0,0,11,"hair on 5/5 presence frames, none of it hers (best P 0.04)"
+1090,shot,93544,93565,22,absent,0,0,0,0,0,11,"hair on 4/4 presence frames, none of it hers (best P 0.05)"
+1091,shot,93566,93606,41,absent,0,0,0,0,0,14,"hair on 7/7 presence frames, none of it hers (best P 0.03)"
+1092,shot,93607,93649,43,absent,0,0,0,0,0,24,"hair on 8/8 presence frames, none of it hers (best P 0.02)"
+1093,shot,93650,93685,36,absent,0,0,0,0,0,14,"hair on 6/6 presence frames, none of it hers (best P 0.01)"
+1094,shot,93686,93728,43,absent,0,0,0,0,0,27,"hair on 8/8 presence frames, none of it hers (best P 0.01)"
+1095,shot,93729,93749,21,absent,0,0,0,0,0,14,"hair on 4/4 presence frames, none of it hers (best P 0.04)"
+1096,shot,93750,93770,21,absent,0,0,0,0,0,6,"hair on 1/4 presence frames, none of it hers (best P 0.00)"
+1097,shot,93771,93812,42,absent,0,0,0,0,0,16,"hair on 7/7 presence frames, none of it hers (best P 0.02)"
+1098,shot,93813,93833,21,absent,0,0,0,0,0,13,"hair on 4/4 presence frames, none of it hers (best P 0.07)"
+1099,shot,93834,93854,21,absent,0,0,0,0,0,8,"hair on 4/4 presence frames, none of it hers (best P 0.00)"
+1100,shot,93855,93897,43,absent,0,0,0,0,0,29,"hair on 8/8 presence frames, none of it hers (best P 0.26)"
+1101,shot,93898,93981,84,absent,0,0,0,0,0,33,"hair on 10/14 presence frames, none of it hers (best P 0.04)"
+1102,shot,93982,94020,39,absent,0,0,0,0,0,19,"hair on 7/7 presence frames, none of it hers (best P 0.10)"
+1103,shot,94021,94061,41,absent,0,0,0,0,0,12,"hair on 4/7 presence frames, none of it hers (best P 0.07)"
+1104,shot,94062,94102,41,absent,0,0,0,0,0,15,"hair on 7/7 presence frames, none of it hers (best P 0.01)"
+1105,shot,94103,94128,26,absent,0,0,0,0,0,11,"hair on 5/5 presence frames, none of it hers (best P 0.01)"
+1106,shot,94129,94143,15,absent,0,0,0,0,0,8,"hair on 3/3 presence frames, none of it hers (best P 0.01)"
+1107,shot,94144,94185,42,absent,0,0,0,0,0,15,"hair on 7/7 presence frames, none of it hers (best P 0.01)"
+1108,shot,94186,94203,18,absent,0,0,0,0,0,9,"hair on 3/3 presence frames, none of it hers (best P 0.07)"
+1109,shot,94204,94230,27,absent,0,0,0,0,0,9,"hair on 5/5 presence frames, none of it hers (best P 0.02)"
+1110,transition,94231,94262,32,absent,0,0,0,0,0,12,"hair on 6/6 presence frames, none of it hers (best P 0.05)"
+1111,shot,94263,94373,111,check,70,68,2,15,0,195,other characters' hair erased on 41 frames
+1112,shot,94374,94461,88,ok,0,0,0,0,0,137,
+1113,shot,94462,94579,118,ok,118,118,0,0,0,175,
+1114,shot,94580,94676,97,absent,0,0,0,0,0,25,"hair on 6/17 presence frames, none of it hers (best P 0.06)"
+1115,shot,94677,94727,51,absent,0,0,0,0,0,24,"hair on 9/9 presence frames, none of it hers (best P 0.03)"
+1116,shot,94728,94843,116,ok,116,116,0,0,0,169,
+1117,shot,94844,95081,238,ok,238,238,0,0,0,407,
+1119,shot,95148,95191,44,ok,44,44,0,0,0,68,
+1118,shot,95082,95147,66,absent,0,0,0,0,0,17,
+1120,shot,95192,95249,58,absent,0,0,0,0,0,14,
+1121,shot,95250,95315,66,ok,66,66,0,0,0,99,
+1122,shot,95316,95371,56,absent,0,0,0,0,0,25,"hair on 10/10 presence frames, none of it hers (best P 0.00)"
+1123,shot,95372,95451,80,ok,80,80,0,0,0,131,"dark scene: 66% of frames fail 'missed', missed QC off"
+1124,shot,95452,95515,64,absent,0,0,0,0,0,20,"hair on 8/11 presence frames, none of it hers (best P 0.06)"
+1125,shot,95516,95551,36,check,36,33,3,2,0,62,
+1126,shot,95552,95631,80,check,80,68,12,2,0,154,
+1127,shot,95632,95721,90,absent,0,0,0,0,0,34,"hair on 15/15 presence frames, none of it hers (best P 0.00)"
+1128,shot,95722,95769,48,ok,48,48,0,0,0,74,
+1129,shot,95770,95854,85,absent,0,0,0,0,0,30,"hair on 15/15 presence frames, none of it hers (best P 0.03)"
+1130,shot,95855,95912,58,ok,58,58,0,0,0,88,"dark scene: 100% of frames fail 'missed', missed QC off"
+1131,shot,95913,95932,20,absent,0,0,0,0,0,6,"hair on 1/4 presence frames, none of it hers (best P 0.00)"
+1132,shot,95933,95952,20,absent,0,0,0,0,0,7,"hair on 4/4 presence frames, none of it hers (best P 0.00)"
+1133,shot,95953,95970,18,absent,0,0,0,0,0,8,"hair on 3/3 presence frames, none of it hers (best P 0.00)"
+1134,shot,95971,95990,20,absent,0,0,0,0,0,11,"hair on 4/4 presence frames, none of it hers (best P 0.00)"
+1135,shot,95991,96032,42,absent,0,0,0,0,0,13,"hair on 7/7 presence frames, none of it hers (best P 0.04)"
+1136,shot,96033,96102,70,absent,0,0,0,0,0,27,"hair on 12/12 presence frames, none of it hers (best P 0.01)"
+1137,shot,96103,96194,92,absent,0,0,0,0,0,32,"hair on 16/16 presence frames, none of it hers (best P 0.02)"
+1138,shot,96195,96308,114,check,33,25,8,7,0,273,other characters' hair erased on 77 frames
+1139,shot,96309,96354,46,ok,46,46,0,0,0,77,
+1140,shot,96355,96395,41,absent,0,0,0,0,0,18,"hair on 7/7 presence frames, none of it hers (best P 0.00)"
+1141,shot,96396,96435,40,check,40,40,0,2,0,61,fallback 1-1: no seed prompts (cleaned seed too small (4681 px): hair lost) | fallback 3-3: no seed prompts (cleaned seed too small (4681 px): hair lost)
+1142,shot,96436,96473,38,absent,0,0,0,0,0,17,"hair on 7/7 presence frames, none of it hers (best P 0.22)"
+1143,shot,96474,96518,45,check,9,9,0,3,0,69,fallback 38-40: no seed prompts (cleaned seed too small (1461 px): hair lost)
+1144,shot,96519,96555,37,absent,0,0,0,0,0,22,"hair on 7/7 presence frames, none of it hers (best P 0.01)"
+1145,shot,96556,96574,19,ok,19,19,0,0,0,31,
+1146,shot,96575,96612,38,check,9,5,4,3,0,73,other characters' hair erased on 36 frames
+1147,shot,96613,96648,36,absent,0,0,0,0,0,21,"hair on 6/6 presence frames, none of it hers (best P 0.00)"
+1148,shot,96649,96680,32,ok,32,32,0,0,0,49,
+1149,shot,96681,96711,31,ok,0,0,0,0,0,49,
+1150,shot,96712,96750,39,absent,0,0,0,0,0,16,"hair on 3/7 presence frames, none of it hers (best P 0.00)"
+1151,shot,96751,96770,20,absent,0,0,0,0,0,12,"hair on 4/4 presence frames, none of it hers (best P 0.01)"
+1152,shot,96771,96792,22,absent,0,0,0,0,0,12,"hair on 4/4 presence frames, none of it hers (best P 0.00)"
+1153,shot,96793,96802,10,absent,0,0,0,0,0,8,"hair on 2/2 presence frames, none of it hers (best P 0.01)"
+1154,shot,96803,96810,8,absent,0,0,0,0,0,6,"hair on 2/2 presence frames, none of it hers (best P 0.01)"
+1155,shot,96811,96830,20,absent,0,0,0,0,0,8,"hair on 4/4 presence frames, none of it hers (best P 0.01)"
+1156,shot,96831,96867,37,absent,0,0,0,0,0,14,"hair on 7/7 presence frames, none of it hers (best P 0.01)"
+1157,shot,96868,96903,36,absent,0,0,0,0,0,22,"hair on 6/6 presence frames, none of it hers (best P 0.03)"
+1158,shot,96904,96991,88,absent,0,0,0,0,0,57,"hair on 15/15 presence frames, none of it hers (best P 0.01)"
+1159,shot,96992,97034,43,check,43,41,2,2,0,74,
+1160,shot,97035,97054,20,absent,0,0,0,0,0,10,"hair on 2/4 presence frames, none of it hers (best P 0.00)"
+1161,shot,97055,97127,73,check,73,73,0,2,0,137,"tinted scene: median hair purity 0.00 < 0.5, purity/missed QC off | fallback 38-38: no seed prompts (cleaned seed too small (0 px): hair lost) | fallback 41-41: no seed prompts (cleaned seed too small (0 px): hair lost) | other characters' hair erased on 2 frames"
+1162,shot,97128,97168,41,absent,0,0,0,0,0,21,"hair on 7/7 presence frames, none of it hers (best P 0.03)"
+1163,shot,97169,97189,21,absent,0,0,0,0,0,8,"hair on 4/4 presence frames, none of it hers (best P 0.07)"
+1164,shot,97190,97210,21,ok,0,0,0,0,0,40,other characters' hair erased on 19 frames
+1165,shot,97211,97232,22,absent,0,0,0,0,0,9,"hair on 4/4 presence frames, none of it hers (best P 0.02)"
+1166,shot,97233,97251,19,absent,0,0,0,0,0,10,"hair on 4/4 presence frames, none of it hers (best P 0.01)"
+1167,shot,97252,97275,24,absent,0,0,0,0,0,15,"hair on 4/4 presence frames, none of it hers (best P 0.01)"
+1168,shot,97276,97290,15,absent,0,0,0,0,0,7,"hair on 3/3 presence frames, none of it hers (best P 0.12)"
+1169,shot,97291,97305,15,check,8,7,1,1,0,63,"dark scene: 100% of frames fail 'missed', missed QC off | other characters' hair erased on 15 frames"
+1170,shot,97306,97324,19,check,16,11,5,1,0,87,other characters' hair erased on 19 frames
+1171,shot,97325,97335,11,absent,0,0,0,0,0,7,"hair on 2/2 presence frames, none of it hers (best P 0.01)"
+1172,shot,97336,97344,9,absent,0,0,0,0,0,5,"hair on 2/2 presence frames, none of it hers (best P 0.05)"
+1173,shot,97345,97397,53,check,7,5,2,2,0,118,other characters' hair erased on 47 frames
+1174,shot,97398,97429,32,absent,0,0,0,0,0,12,"hair on 6/6 presence frames, none of it hers (best P 0.01)"
+1175,shot,97430,97489,60,ok,60,60,0,0,0,92,
+1176,shot,97490,97571,82,ok,82,82,0,0,0,120,
+1177,shot,97572,97628,57,absent,0,0,0,0,0,37,"hair on 10/10 presence frames, none of it hers (best P 0.02)"
+1178,shot,97629,97724,96,ok,96,96,0,0,0,140,
+1179,shot,97725,97769,45,absent,0,0,0,0,0,14,"hair on 8/8 presence frames, none of it hers (best P 0.03)"
+1180,shot,97770,97817,48,absent,0,0,0,0,0,19,"hair on 8/8 presence frames, none of it hers (best P 0.00)"
+1181,shot,97818,97865,48,absent,0,0,0,0,0,30,"hair on 8/8 presence frames, none of it hers (best P 0.09)"
+1182,shot,97866,97993,128,ok,128,128,0,0,0,190,
+1183,shot,97994,98027,34,absent,0,0,0,0,0,14,"hair on 6/6 presence frames, none of it hers (best P 0.01)"
+1184,shot,98028,98151,124,ok,124,124,0,0,0,182,
+1185,shot,98152,98194,43,absent,0,0,0,0,0,15,"hair on 8/8 presence frames, none of it hers (best P 0.06)"
+1186,shot,98195,98238,44,absent,0,0,0,0,0,20,"hair on 8/8 presence frames, none of it hers (best P 0.00)"
+1187,shot,98239,98270,32,absent,0,0,0,0,0,13,"hair on 6/6 presence frames, none of it hers (best P 0.07)"
+1188,shot,98271,98318,48,absent,0,0,0,0,0,26,"hair on 8/8 presence frames, none of it hers (best P 0.00)"
+1189,shot,98319,98374,56,absent,0,0,0,0,0,18,"hair on 10/10 presence frames, none of it hers (best P 0.02)"
+1190,shot,98375,98450,76,ok,0,0,0,0,0,275,other characters' hair erased on 76 frames
+1191,shot,98451,98539,89,absent,0,0,0,0,0,30,"hair on 15/15 presence frames, none of it hers (best P 0.12)"
+1192,shot,98540,98595,56,ok,56,56,0,0,0,84,
+1193,shot,98596,98700,105,check,5,2,3,1,0,252,other characters' hair erased on 105 frames
+1194,shot,98701,98796,96,absent,0,0,0,0,0,30,"hair on 16/16 presence frames, none of it hers (best P 0.01)"
+1195,shot,98797,98929,133,absent,0,0,0,0,0,42,"hair on 23/23 presence frames, none of it hers (best P 0.16)"
+1196,shot,98930,98978,49,ok,49,49,0,0,0,77,
+1197,shot,98979,99236,258,absent,0,0,0,0,0,84,"hair on 43/43 presence frames, none of it hers (best P 0.04)"
+1198,shot,99237,99298,62,ok,62,62,0,0,0,92,
+1199,shot,99299,99414,116,ok,116,116,0,0,0,292,other characters' hair erased on 10 frames
+1200,shot,99415,99486,72,ok,72,72,0,0,0,109,
+1201,shot,99487,99525,39,absent,0,0,0,0,0,16,"hair on 7/7 presence frames, none of it hers (best P 0.07)"
+1202,shot,99526,99573,48,absent,0,0,0,0,0,14,"hair on 6/8 presence frames, none of it hers (best P 0.07)"
+1203,shot,99574,99701,128,ok,128,128,0,0,0,191,
+1204,shot,99702,99749,48,absent,0,0,0,0,0,15,"hair on 8/8 presence frames, none of it hers (best P 0.09)"
+1205,shot,99750,99851,102,absent,0,0,0,0,0,30,"hair on 17/17 presence frames, none of it hers (best P 0.00)"
+1206,shot,99852,99922,71,absent,0,0,0,0,0,42,"hair on 12/12 presence frames, none of it hers (best P 0.00)"
+1207,shot,99923,99962,40,absent,0,0,0,0,0,13,"hair on 7/7 presence frames, none of it hers (best P 0.01)"
+1208,shot,99963,100055,93,absent,0,0,0,0,0,35,"hair on 16/16 presence frames, none of it hers (best P 0.00)"
+1209,shot,100056,100121,66,absent,0,0,0,0,0,22,"hair on 11/11 presence frames, none of it hers (best P 0.00)"
+1210,shot,100122,100145,24,absent,0,0,0,0,0,8,"hair on 4/4 presence frames, none of it hers (best P 0.00)"
+1211,shot,100146,100153,8,absent,0,0,0,0,0,4,"hair on 2/2 presence frames, none of it hers (best P 0.00)"
+1212,shot,100154,100177,24,absent,0,0,0,0,0,8,"hair on 4/4 presence frames, none of it hers (best P 0.01)"
+1213,shot,100178,100244,67,absent,0,0,0,0,0,20,"hair on 12/12 presence frames, none of it hers (best P 0.00)"
+1214,shot,100245,100318,74,absent,0,0,0,0,0,23,"hair on 13/13 presence frames, none of it hers (best P 0.00)"
+1215,shot,100319,100334,16,absent,0,0,0,0,0,8,"hair on 3/3 presence frames, none of it hers (best P 0.00)"
+1216,shot,100335,100360,26,absent,0,0,0,0,0,10,"hair on 5/5 presence frames, none of it hers (best P 0.01)"
+1217,shot,100361,100390,30,ok,0,0,0,0,0,44,other characters' hair erased on 30 frames
+1218,shot,100391,100400,10,absent,0,0,0,0,0,5,"hair on 2/2 presence frames, none of it hers (best P 0.02)"
+1219,shot,100401,100419,19,absent,0,0,0,0,0,9,"hair on 4/4 presence frames, none of it hers (best P 0.00)"
+1220,shot,100420,100431,12,ok,12,12,0,0,0,29,other characters' hair erased on 8 frames
+1221,shot,100432,100450,19,absent,0,0,0,0,0,8,"hair on 4/4 presence frames, none of it hers (best P 0.18)"
+1222,shot,100451,100478,28,ok,28,28,0,0,0,57,other characters' hair erased on 22 frames
+1223,shot,100479,100508,30,absent,0,0,0,0,0,12,"hair on 5/5 presence frames, none of it hers (best P 0.00)"
+1224,shot,100509,100536,28,ok,28,28,0,0,0,45,
+1225,shot,100537,100614,78,check,53,52,1,1,0,127,other characters' hair erased on 25 frames
+1226,shot,100615,100649,35,absent,0,0,0,0,0,13,"hair on 6/6 presence frames, none of it hers (best P 0.00)"
+1227,shot,100650,100675,26,absent,0,0,0,0,0,9,"hair on 5/5 presence frames, none of it hers (best P 0.00)"
+1228,shot,100676,100765,90,absent,0,0,0,0,0,30,"hair on 15/15 presence frames, none of it hers (best P 0.00)"
+1229,shot,100766,100886,121,absent,0,0,0,0,0,44,"hair on 21/21 presence frames, none of it hers (best P 0.00)"
+1230,shot,100887,100934,48,absent,0,0,0,0,0,20,"hair on 8/8 presence frames, none of it hers (best P 0.01)"
+1231,shot,100935,100981,47,absent,0,0,0,0,0,15,"hair on 8/8 presence frames, none of it hers (best P 0.04)"
+1232,shot,100982,100999,18,absent,0,0,0,0,0,7,"hair on 3/3 presence frames, none of it hers (best P 0.00)"
+1233,shot,101000,101129,130,absent,0,0,0,0,0,43,"hair on 22/22 presence frames, none of it hers (best P 0.06)"
+1234,shot,101130,101204,75,check,75,75,0,30,0,141,fallback 29-29: no seed prompts (cleaned seed too small (2710 px): hair lost) | fallback 45-45: no seed prompts (cleaned seed too small (2179 px): hair lost) | fallback 47-71: no seed prompts (cleaned seed too small (1887 px): hair lost) | fallback 73-75: no seed prompts (cleaned seed too small (1715 px): hair lost)
+1235,transition,101205,101251,47,check,31,31,0,1,0,72,"tinted scene: median hair purity 0.00 < 0.5, purity/missed QC off | fallback 15-15: no seed prompts (cleaned seed too small (0 px): hair lost) | other characters' hair erased on 6 frames"
+1236,shot,101252,101285,34,absent,0,0,0,0,0,9,
+1237,transition,101286,101313,28,absent,0,0,0,0,0,11,"hair on 3/5 presence frames, none of it hers (best P 0.00)"
+1238,shot,101314,101418,105,absent,0,0,0,0,0,37,"hair on 18/18 presence frames, none of it hers (best P 0.00)"
+1239,shot,101419,101538,120,absent,0,0,0,0,0,46,"hair on 20/20 presence frames, none of it hers (best P 0.23)"
+1240,shot,101539,101634,96,absent,0,0,0,0,0,27,"hair on 16/16 presence frames, none of it hers (best P 0.00)"
+1241,shot,101635,101668,34,absent,0,0,0,0,0,18,"hair on 6/6 presence frames, none of it hers (best P 0.10)"
+1242,shot,101669,101720,52,absent,0,0,0,0,0,23,"hair on 9/9 presence frames, none of it hers (best P 0.00)"
+1243,shot,101721,101763,43,absent,0,0,0,0,0,19,"hair on 8/8 presence frames, none of it hers (best P 0.01)"
+1244,shot,101764,101819,56,absent,0,0,0,0,0,26,"hair on 10/10 presence frames, none of it hers (best P 0.04)"
+1245,shot,101820,101947,128,absent,0,0,0,0,0,47,"hair on 22/22 presence frames, none of it hers (best P 0.01)"
+1246,shot,101948,102344,397,check,25,25,0,2,0,746,"tinted scene: median hair purity 0.00 < 0.5, purity/missed QC off | fallback 131-131: no seed prompts (cleaned seed too small (0 px): hair lost) | fallback 155-155: no seed prompts (cleaned seed too small (0 px): hair lost) | other characters' hair erased on 385 frames"
+1247,shot,102345,102452,108,absent,0,0,0,0,0,30,"hair on 17/18 presence frames, none of it hers (best P 0.46)"
+1248,shot,102453,102495,43,absent,0,0,0,0,0,15,"hair on 8/8 presence frames, none of it hers (best P 0.00)"
+1249,shot,102496,102528,33,absent,0,0,0,0,0,14,"hair on 6/6 presence frames, none of it hers (best P 0.03)"
+1250,shot,102529,102727,199,check,158,158,0,34,0,739,"tinted scene: median hair purity 0.00 < 0.5, purity/missed QC off | fallback 21-32: no seed prompts (cleaned seed too small (0 px): hair lost) | fallback 51-55: no seed prompts (cleaned seed too small (0 px): hair lost) | fallback 66-70: no seed prompts (cleaned seed too small (0 px): hair lost) | fallback 73-75: no seed prompts (cleaned seed too small (0 px): hair lost) | fallback 78-83: no seed prompts (cleaned seed too small (0 px): hair lost) | fallback 85-87: no seed prompts (cleaned seed too small (0 px): hair lost) | other characters' hair erased on 199 frames"
+1251,shot,102728,102777,50,absent,0,0,0,0,0,20,"hair on 9/9 presence frames, none of it hers (best P 0.00)"
+1252,shot,102778,102862,85,ok,85,85,0,0,0,316,"dusk scene: median hair purity 0.56 < 0.75, purity QC off | other characters' hair erased on 85 frames"
+1253,shot,102863,102914,52,ok,52,52,0,0,0,132,other characters' hair erased on 37 frames
+1254,shot,102915,102976,62,absent,0,0,0,0,0,24,"hair on 11/11 presence frames, none of it hers (best P 0.03)"
+1255,shot,102977,103217,241,ok,241,241,0,0,0,364,
+1256,shot,103218,103641,424,check,422,420,2,2,0,665,other characters' hair erased on 2 frames
+1257,shot,103642,103687,46,absent,0,0,0,0,0,24,"hair on 8/8 presence frames, none of it hers (best P 0.01)"
+1258,shot,103688,103725,38,ok,38,38,0,0,0,58,
+1259,shot,103726,103849,124,check,36,20,16,4,0,281,other characters' hair erased on 124 frames
+1260,shot,103850,103911,62,absent,0,0,0,0,0,22,"hair on 11/11 presence frames, none of it hers (best P 0.02)"
+1261,shot,103912,103947,36,ok,36,36,0,0,0,53,
+1262,shot,103948,104071,124,absent,0,0,0,0,0,45,"hair on 21/21 presence frames, none of it hers (best P 0.12)"
+1263,shot,104072,104188,117,absent,0,0,0,0,0,58,"hair on 20/20 presence frames, none of it hers (best P 0.33)"
+1264,shot,104189,104220,32,ok,32,32,0,0,0,51,
+1265,shot,104221,104252,32,absent,0,0,0,0,0,13,"hair on 6/6 presence frames, none of it hers (best P 0.08)"
+1266,shot,104253,104362,110,ok,110,110,0,0,0,170,
+1267,shot,104363,104564,202,absent,0,0,0,0,0,95,"hair on 34/34 presence frames, none of it hers (best P 0.28)"
+1268,shot,104565,104810,246,ok,246,246,0,0,0,373,
+1269,shot,104811,104878,68,absent,0,0,0,0,0,21,"hair on 12/12 presence frames, none of it hers (best P 0.04)"
+1270,shot,104879,104984,106,ok,106,106,0,0,0,160,
+1271,shot,104985,105044,60,absent,0,0,0,0,0,27,"hair on 10/10 presence frames, none of it hers (best P 0.01)"
+1272,shot,105045,105092,48,ok,48,48,0,0,0,75,
+1273,shot,105093,105168,76,absent,0,0,0,0,0,49,"hair on 13/13 presence frames, none of it hers (best P 0.01)"
+1274,shot,105169,105466,298,ok,298,298,0,0,0,438,
+1275,shot,105467,105550,84,absent,0,0,0,0,0,33,"hair on 14/14 presence frames, none of it hers (best P 0.25)"
+1276,shot,105551,105634,84,ok,84,84,0,0,0,127,
+1277,shot,105635,105704,70,ok,70,70,0,0,0,107,
+1278,shot,105705,105858,154,ok,154,154,0,0,0,229,
+1279,shot,105859,106194,336,ok,336,336,0,0,0,509,
+1280,shot,106195,106331,137,check,137,137,0,19,0,457,fallback 31-36: no seed prompts (cleaned seed too small (3377 px): hair lost) | fallback 38-38: no seed prompts (cleaned seed too small (3341 px): hair lost) | fallback 67-68: no seed prompts (cleaned seed too small (3838 px): hair lost) | fallback 103-112: no seed prompts (cleaned seed too small (2914 px): hair lost) | other characters' hair erased on 137 frames
+1281,shot,106332,106433,102,check,64,63,1,1,0,155,other characters' hair erased on 24 frames
+1282,shot,106434,106497,64,absent,0,0,0,0,0,21,"hair on 11/11 presence frames, none of it hers (best P 0.06)"
+1283,shot,106498,106602,105,absent,0,0,0,0,0,54,"hair on 18/18 presence frames, none of it hers (best P 0.04)"
+1284,shot,106603,106677,75,ok,75,75,0,0,0,257,other characters' hair erased on 75 frames
+1285,shot,106678,106729,52,absent,0,0,0,0,0,17,"hair on 9/9 presence frames, none of it hers (best P 0.09)"
+1286,shot,106730,106785,56,absent,0,0,0,0,0,20,
+1287,shot,106786,106893,108,ok,108,108,0,0,0,222,other characters' hair erased on 108 frames
+1288,shot,106894,106963,70,absent,0,0,0,0,0,33,
+1289,shot,106964,107009,46,absent,0,0,0,0,0,23,"hair on 8/8 presence frames, none of it hers (best P 0.04)"
+1290,shot,107010,107064,55,absent,0,0,0,0,0,15,
+1291,shot,107065,107124,60,ok,60,60,0,0,0,123,other characters' hair erased on 60 frames
+1292,shot,107125,107344,220,check,200,148,52,122,0,478,fallback 120-129: no seed prompts (cleaned seed too small (2993 px): hair lost) | fallback 131-141: no seed prompts (cleaned seed too small (2963 px): hair lost) | fallback 143-161: no seed prompts (cleaned seed too small (2916 px): hair lost) | other characters' hair erased on 74 frames
+1293,shot,107345,107408,64,ok,0,0,0,0,0,91,
+1294,shot,107409,107472,64,check,64,57,7,5,0,132,"dark scene: 55% of frames fail 'missed', missed QC off | other characters' hair erased on 5 frames"
+1295,shot,107473,107555,83,check,81,79,2,24,0,165,
+1296,shot,107556,107651,96,ok,96,96,0,0,0,162,
+1297,shot,107652,107741,90,ok,0,0,0,0,0,153,
+1298,shot,107742,107845,104,absent,0,0,0,0,0,27,"hair on 1/18 presence frames, none of it hers (best P 0.25)"
+1299,transition,107846,107860,15,ok,15,15,0,0,0,29,"tinted scene: median hair purity 0.00 < 0.5, purity/missed QC off"
+1300,shot,107861,107933,73,check,4,4,0,11,0,150,"tinted scene: median hair purity 0.00 < 0.5, purity/missed QC off | fallback 56-60: no seed prompts (cleaned seed too small (0 px): hair lost) | fallback 62-67: no seed prompts (cleaned seed too small (0 px): hair lost) | other characters' hair erased on 70 frames"
+1301,shot,107934,107995,62,absent,0,0,0,0,0,15,
+1302,shot,107996,108059,64,check,11,11,0,8,0,147,"tinted scene: median hair purity 0.00 < 0.5, purity/missed QC off | fallback 51-55: no seed prompts (cleaned seed too small (0 px): hair lost) | fallback 57-57: no seed prompts (cleaned seed too small (0 px): hair lost) | fallback 59-60: no seed prompts (cleaned seed too small (0 px): hair lost) | other characters' hair erased on 56 frames"
+1303,shot,108060,108103,44,ok,44,44,0,0,0,72,
+1304,shot,108104,108215,112,absent,0,0,0,0,0,38,"hair on 19/19 presence frames, none of it hers (best P 0.42)"
+1305,shot,108216,108353,138,ok,138,138,0,0,0,221,
+1306,shot,108354,108481,128,ok,128,128,0,0,0,193,
+1307,shot,108482,108701,220,check,56,56,0,14,0,363,fallback 21-22: no seed prompts (cleaned seed too small (2034 px): hair lost) | fallback 25-26: no seed prompts (cleaned seed too small (2102 px): hair lost) | fallback 28-28: no seed prompts (cleaned seed too small (1868 px): hair lost) | fallback 41-42: no seed prompts (cleaned seed too small (1858 px): hair lost) | fallback 71-77: no seed prompts (cleaned seed too small (1485 px): hair lost)
+1308,transition,108702,108726,25,absent,0,0,0,0,0,10,"hair on 4/5 presence frames, none of it hers (best P 0.44)"
+187,shot,16411,16496,86,ok,86,86,0,0,0,173,"manual override: track 10 = Kocoum's feathers/necklace f71-77 (P 0.81); 2,5,6,7 = 1-2 frame slivers left of her head f15-23. Her hair is track 0 | dark scene: 97% of frames fail 'missed', missed QC off | other characters' hair erased on 69 frames"
+1007,shot,86066,86557,492,check,390,390,0,167,0,1245,"manual override: SAM2 fallback spilled onto her body/water (f201, f390); identity tracks all P>0.7, so keep SAM3 | other characters' hair erased on 373 frames"
+1292,shot,107125,107344,220,check,197,197,0,134,0,377,"manual override: SAM2 fallback spilled onto tree trunks in the forest run (f92, f171) | other characters' hair erased on 74 frames"
+253,shot,22360,22483,124,check,124,124,0,51,0,190,"manual override: SAM2 f106 covered the whole night sky beside her (199k px, purity 0)"
+486,shot,42755,43033,279,check,279,279,0,94,0,459,manual override: SAM2 f127-134 spilled onto her body/bushes (purity 0.47)
+501,shot,44465,44572,108,check,108,108,0,47,0,158,"manual override: windy close-up: purity fails are blue highlights; SAM2 frames lose strands (f44, f50)"
+1250,shot,102529,102727,199,check,184,158,0,1,0,715,"manual override: misty finale line-up: SAM3 loses her on single frames, hair blinks | tinted scene: median hair purity 0.00 < 0.5, purity/missed QC off | fallback 21-32: no seed prompts (cleaned seed too small (0 px): hair lost) | fallback 51-55: no seed prompts (cleaned seed too small (0 px): hair lost) | fallback 66-70: no seed prompts (cleaned seed too small (0 px): hair lost) | fallback 73-75: no seed prompts (cleaned seed too small (0 px): hair lost) | fallback 78-83: no seed prompts (cleaned seed too small (0 px): hair lost) | fallback 85-87: no seed prompts (cleaned seed too small (0 px): hair lost) | hold_gaps: 26 dropout frames hold the previous mask | other characters' hair erased on 199 frames"
+1292,shot,107125,107344,220,check,220,197,0,127,0,378,"manual override: SAM2 fallback spilled onto tree trunks in the forest run (f92, f171); hold_gaps for 23 dropouts while she's small behind trunks | hold_gaps: 23 dropout frames hold the previous mask | other characters' hair erased on 74 frames"
+104,shot,9021,9134,114,check,17,17,0,7,0,322,other characters' hair erased on 113 frames
+105,shot,9135,9207,73,check,4,4,0,2,0,121,other characters' hair erased on 57 frames
+119,shot,10333,10408,76,check,20,20,0,20,0,195,"dusk scene: median hair purity 0.64 < 0.75, purity QC off | other characters' hair erased on 75 frames"
+128,shot,11277,11757,481,check,205,205,0,12,0,726,other characters' hair erased on 72 frames
+132,shot,11950,12018,69,check,54,54,0,1,0,101,other characters' hair erased on 4 frames
+134,shot,12193,12312,120,check,114,114,0,38,0,194,other characters' hair erased on 6 frames
+137,shot,12383,12566,184,check,167,167,0,37,0,282,"dusk scene: median hair purity 0.71 < 0.75, purity QC off | other characters' hair erased on 6 frames"
+148,shot,13227,13486,260,check,184,184,0,17,0,536,"tinted scene: median hair purity 0.34 < 0.5, purity/missed QC off | other characters' hair erased on 260 frames"
+157,shot,13982,14073,92,check,92,92,0,26,0,196,other characters' hair erased on 92 frames
+164,transition,14480,14501,22,check,22,22,0,4,0,58,"tinted scene: median hair purity 0.00 < 0.5, purity/missed QC off | other characters' hair erased on 22 frames"
+168,shot,14914,15040,127,check,123,123,0,1,0,253,other characters' hair erased on 127 frames
+171,shot,15167,15246,80,check,79,79,0,2,0,166,other characters' hair erased on 66 frames
+172,shot,15247,15526,280,check,234,234,0,24,0,543,other characters' hair erased on 216 frames
+183,shot,16217,16278,62,ok,62,62,0,0,0,127,"dark scene: 89% of frames fail 'missed', missed QC off | other characters' hair erased on 62 frames"
+186,shot,16365,16410,46,absent,0,0,0,0,0,28,"manual override: only a village woman with shoulder-length hair (P ~0.7); Pocahontas not in shot | hair on 8/8 presence frames, none of it hers (best P 0.61)"
+194,shot,16819,16866,48,check,48,48,0,18,0,86,
+196,shot,16920,17033,114,check,114,114,0,23,0,206,
+197,shot,17034,17147,114,check,50,50,0,9,0,200,other characters' hair erased on 112 frames
+204,shot,18121,18216,96,check,36,36,0,1,0,150,other characters' hair erased on 59 frames
+205,shot,18217,18377,161,check,161,161,0,1,0,248,
+212,shot,18747,18791,45,check,37,37,0,14,0,66,
+213,shot,18792,18851,60,check,60,60,0,2,0,91,
+215,shot,18968,19016,49,check,49,49,0,8,0,78,
+217,shot,19062,19239,178,check,55,55,0,16,0,296,other characters' hair erased on 15 frames
+218,shot,19240,19281,42,check,39,39,0,3,0,66,other characters' hair erased on 3 frames
+221,shot,19374,19504,131,check,34,34,0,6,0,208,other characters' hair erased on 47 frames
+232,shot,20262,20351,90,check,83,83,0,28,0,162,other characters' hair erased on 2 frames
+234,shot,20398,20536,139,check,114,114,0,18,0,233,other characters' hair erased on 16 frames
+235,shot,20537,20588,52,check,52,52,0,8,0,80,
+237,shot,20653,20734,82,check,82,82,0,3,0,131,
+252,shot,22145,22359,215,check,215,215,0,46,0,349,"dark scene: 54% of frames fail 'missed', missed QC off"
+254,shot,22484,22735,252,check,66,66,0,4,0,458,other characters' hair erased on 171 frames
+290,shot,25860,25923,64,check,58,58,0,3,0,101,other characters' hair erased on 5 frames
+326,shot,29055,29119,65,check,24,24,0,17,0,107,other characters' hair erased on 35 frames
+346,shot,30698,30817,120,check,120,120,0,3,0,286,other characters' hair erased on 28 frames
+368,shot,32301,32357,57,check,57,57,0,2,0,88,
+404,shot,36358,36490,133,check,37,37,0,4,0,253,other characters' hair erased on 95 frames
+484,shot,42538,42659,122,check,122,122,0,46,0,204,
+485,shot,42660,42754,95,check,95,95,0,45,0,172,other characters' hair erased on 1 frames
+489,shot,43224,43471,248,check,194,194,0,5,0,402,other characters' hair erased on 48 frames
+490,shot,43472,43613,142,check,142,142,0,3,0,210,"dark scene: 58% of frames fail 'missed', missed QC off"
+499,shot,44215,44326,112,check,112,112,0,2,0,210,"tinted scene: median hair purity 0.08 < 0.5, purity/missed QC off"
+511,shot,45463,45583,121,check,84,84,0,20,0,192,other characters' hair erased on 29 frames
+513,shot,45627,45662,36,check,36,36,0,4,0,55,
+514,shot,45663,45696,34,check,34,34,0,2,0,53,"dark scene: 76% of frames fail 'missed', missed QC off"
+595,shot,50788,50995,208,check,60,60,0,2,0,390,other characters' hair erased on 201 frames
+607,shot,52268,52457,190,check,190,190,0,2,0,293,
+638,shot,54474,54605,132,check,132,132,0,12,0,206,
+642,shot,54958,55053,96,check,96,96,0,2,0,158,
+648,shot,55429,55518,90,check,31,31,0,3,0,144,other characters' hair erased on 50 frames
+654,shot,55873,56048,176,check,127,127,0,3,0,271,other characters' hair erased on 12 frames
+657,shot,56227,56253,27,check,27,27,0,7,0,43,
+663,shot,56470,56579,110,check,106,106,0,14,0,175,
+666,shot,56843,57152,310,check,310,310,0,1,0,472,
+670,shot,57466,57694,229,check,171,171,0,24,0,361,
+671,shot,57695,57968,274,check,233,233,0,15,0,440,other characters' hair erased on 16 frames
+677,shot,58279,58344,66,check,66,66,0,26,0,103,
+678,shot,58345,58564,220,check,124,124,0,3,0,324,other characters' hair erased on 81 frames
+683,shot,58922,59032,111,check,111,111,0,3,0,174,"dusk scene: median hair purity 0.55 < 0.75, purity QC off"
+685,shot,59137,59314,178,check,35,35,0,40,0,295,other characters' hair erased on 114 frames
+686,shot,59315,59334,20,check,12,12,0,1,0,33,other characters' hair erased on 8 frames
+688,shot,59399,59575,177,check,163,163,0,8,0,272,other characters' hair erased on 13 frames
+690,shot,59640,59751,112,check,67,67,0,19,0,192,other characters' hair erased on 50 frames
+691,shot,59752,60019,268,check,224,224,0,23,0,477,other characters' hair erased on 46 frames
+693,shot,60074,60120,47,check,47,47,0,14,0,68,
+697,transition,60226,60266,41,check,24,24,0,7,0,76,other characters' hair erased on 20 frames
+765,shot,67148,67237,90,check,58,58,0,2,0,170,"dark scene: 72% of frames fail 'missed', missed QC off | other characters' hair erased on 69 frames"
+767,shot,67265,67408,144,check,133,133,0,22,0,326,other characters' hair erased on 126 frames
+768,shot,67409,67460,52,check,34,34,0,2,0,112,"dark scene: 100% of frames fail 'missed', missed QC off | other characters' hair erased on 50 frames"
+781,shot,68433,68652,220,check,218,218,0,72,0,346,other characters' hair erased on 2 frames
+804,shot,70652,71025,374,check,173,173,0,16,0,605,other characters' hair erased on 189 frames
+824,shot,71968,72251,284,check,284,284,0,4,0,520,
+835,shot,73143,73214,72,check,71,71,0,8,0,113,other characters' hair erased on 1 frames
+842,shot,73757,73860,104,check,39,39,0,1,0,238,"dark scene: 100% of frames fail 'missed', missed QC off | other characters' hair erased on 104 frames"
+844,shot,73905,74096,192,check,192,192,0,93,0,403,other characters' hair erased on 192 frames
+846,shot,74164,74358,195,check,195,195,0,90,0,286,
+850,shot,74542,74609,68,check,68,68,0,12,0,106,
+890,shot,77873,78061,189,check,146,146,0,45,0,305,other characters' hair erased on 47 frames
+892,shot,78143,78260,118,check,118,118,0,18,0,241,other characters' hair erased on 113 frames
+895,shot,78364,78556,193,check,184,184,0,6,0,393,other characters' hair erased on 188 frames
+926,shot,81035,81110,76,check,73,73,0,1,0,110,other characters' hair erased on 1 frames
+936,shot,81687,81734,48,check,48,48,0,2,0,82,"dark scene: 65% of frames fail 'missed', missed QC off"
+938,shot,81803,81882,80,check,52,52,0,36,0,143,other characters' hair erased on 17 frames
+956,shot,83250,83425,176,check,176,176,0,25,0,261,
+965,shot,84080,84183,104,check,27,27,0,3,0,166,other characters' hair erased on 77 frames
+972,shot,84443,84633,191,check,81,81,0,8,0,355,other characters' hair erased on 158 frames
+973,shot,84634,84652,19,check,18,18,0,1,0,30,"dark scene: 78% of frames fail 'missed', missed QC off | other characters' hair erased on 1 frames"
+980,shot,84895,84917,23,check,4,4,0,3,0,47,"dark scene: 75% of frames fail 'missed', missed QC off | other characters' hair erased on 20 frames"
+982,shot,84966,85071,106,check,82,82,0,8,0,234,other characters' hair erased on 94 frames
+987,shot,85168,85222,55,check,55,55,0,1,0,100,
+989,shot,85239,85252,14,check,6,6,0,2,0,24,other characters' hair erased on 8 frames
+999,shot,85678,85761,84,check,72,72,0,5,0,132,other characters' hair erased on 7 frames
+1033,shot,88636,89035,400,check,316,316,0,8,0,833,"dark scene: 94% of frames fail 'missed', missed QC off | other characters' hair erased on 373 frames"
+1034,shot,89036,89138,103,check,95,95,0,12,0,211,other characters' hair erased on 103 frames
+1036,shot,89272,89338,67,check,67,67,0,17,0,113,
+1038,shot,89410,89492,83,check,52,52,0,3,0,145,other characters' hair erased on 33 frames
+1039,shot,89493,89661,169,check,139,139,0,2,0,283,other characters' hair erased on 30 frames
+1041,shot,89726,89797,72,check,72,72,0,2,0,142,"tinted scene: median hair purity 0.35 < 0.5, purity/missed QC off"
+1111,shot,94263,94373,111,check,70,70,0,16,0,176,other characters' hair erased on 41 frames
+1125,shot,95516,95551,36,check,36,36,0,3,0,56,
+1126,shot,95552,95631,80,check,80,80,0,12,0,133,
+1138,shot,96195,96308,114,check,33,33,0,8,0,258,other characters' hair erased on 77 frames
+1146,shot,96575,96612,38,check,6,6,0,4,0,61,other characters' hair erased on 36 frames
+1159,shot,96992,97034,43,check,43,43,0,2,0,68,
+1169,shot,97291,97305,15,check,8,8,0,1,0,57,"dark scene: 100% of frames fail 'missed', missed QC off | other characters' hair erased on 15 frames"
+1170,shot,97306,97324,19,check,12,12,0,5,0,74,other characters' hair erased on 19 frames
+1173,shot,97345,97397,53,check,7,7,0,2,0,107,other characters' hair erased on 47 frames
+1193,shot,98596,98700,105,check,3,3,0,3,0,240,other characters' hair erased on 105 frames
+1225,shot,100537,100614,78,check,53,53,0,1,0,121,other characters' hair erased on 25 frames
+1256,shot,103218,103641,424,check,422,422,0,2,0,653,other characters' hair erased on 2 frames
+1259,shot,103726,103849,124,check,36,36,0,17,0,248,other characters' hair erased on 124 frames
+1281,shot,106332,106433,102,check,64,64,0,1,0,150,other characters' hair erased on 24 frames
+1294,shot,107409,107472,64,check,64,64,0,8,0,105,"dark scene: 55% of frames fail 'missed', missed QC off | other characters' hair erased on 5 frames"
+1295,shot,107473,107555,83,check,81,81,0,24,0,132,
+119,shot,10333,10408,76,check,22,18,4,17,0,216,"manual override: step 18 gaps: night canoe, she walks into the water and SAM3 drops her dark hair f37-55 | dusk scene: median hair purity 0.64 < 0.75, purity QC off | fallback 40-55: no seed prompts (cleaned seed too small (3150 px): hair lost) | other characters' hair erased on 75 frames"
+148,shot,13227,13486,260,check,196,184,0,5,0,547,"manual override: step 18 gaps: night splash with Nakoma, splashes cross her face f201-234, she stays in place | tinted scene: median hair purity 0.34 < 0.5, purity/missed QC off | hold_gaps: 12 dropout frames hold the previous mask | other characters' hair erased on 260 frames"
+685,shot,59137,59314,178,check,50,23,27,33,0,353,"manual override: step 18 gaps: sunset run, SAM3 misses her silhouette hair f23-30 | fallback 121-121: no seed prompts (cleaned seed too small (4456 px): hair lost) | other characters' hair erased on 114 frames"
+1034,shot,89036,89138,103,ok,103,95,0,0,0,215,"manual override: step 18 gaps: Pocahontas stands still beside Nakoma at night, SAM3 drops her hair on f11-22 | hold_gaps: 8 dropout frames hold the previous mask | other characters' hair erased on 103 frames"

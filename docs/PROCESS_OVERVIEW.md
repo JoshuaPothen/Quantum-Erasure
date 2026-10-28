@@ -1,4 +1,4 @@
-# Quantum Erasure
+# Quantum Erasure: from a whole film to floating hair
 
 **How we got to the first full-film test shot (segment 224), step by step.**
 *Covers Test 1 → SAM2 on the trailer → shot detection → X01 → X02. Last updated 2026-10-14.*

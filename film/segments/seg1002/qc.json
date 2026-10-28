@@ -1,0 +1,200 @@
+{
+ "seg": "seg1002",
+ "n": 10,
+ "missing": [],
+ "notes": [
+  "dark scene: 100% of frames fail 'missed', missed QC off"
+ ],
+ "fallbacks": [],
+ "source": [
+  "sam3",
+  "sam3",
+  "sam3",
+  "sam3",
+  "sam3",
+  "sam3",
+  "sam3",
+  "sam3",
+  "sam3",
+  "sam3"
+ ],
+ "status": "ok",
+ "fail_after": [],
+ "presence_best_p": 0.999,
+ "tracks": {
+  "0": 0.996
+ },
+ "n_other_frames": 0,
+ "qc_off": [
+  "missed"
+ ],
+ "sam3_failed": {},
+ "present": 10,
+ "per_frame": [
+  {
+   "f": 1,
+   "film": 85893,
+   "src": "sam3",
+   "area": 150891,
+   "purity": 0.901,
+   "missed": 0.225,
+   "inst": [
+    [
+     0,
+     0.85,
+     0.99,
+     1
+    ]
+   ]
+  },
+  {
+   "f": 2,
+   "film": 85894,
+   "src": "sam3",
+   "area": 150146,
+   "purity": 0.907,
+   "missed": 0.246,
+   "inst": [
+    [
+     0,
+     0.844,
+     0.991,
+     1
+    ]
+   ]
+  },
+  {
+   "f": 3,
+   "film": 85895,
+   "src": "sam3",
+   "area": 177957,
+   "purity": 0.907,
+   "missed": 0.111,
+   "inst": [
+    [
+     0,
+     0.921,
+     0.992,
+     1
+    ]
+   ]
+  },
+  {
+   "f": 4,
+   "film": 85896,
+   "src": "sam3",
+   "area": 177358,
+   "purity": 0.907,
+   "missed": 0.106,
+   "inst": [
+    [
+     0,
+     0.92,
+     0.99,
+     1
+    ]
+   ]
+  },
+  {
+   "f": 5,
+   "film": 85897,
+   "src": "sam3",
+   "area": 166873,
+   "purity": 0.911,
+   "missed": 0.172,
+   "inst": [
+    [
+     0,
+     0.95,
+     0.998,
+     1
+    ]
+   ]
+  },
+  {
+   "f": 6,
+   "film": 85898,
+   "src": "sam3",
+   "area": 163777,
+   "purity": 0.907,
+   "missed": 0.215,
+   "inst": [
+    [
+     0,
+     0.953,
+     0.998,
+     1
+    ]
+   ]
+  },
+  {
+   "f": 7,
+   "film": 85899,
+   "src": "sam3",
+   "area": 153811,
+   "purity": 0.897,
+   "missed": 0.32,
+   "inst": [
+    [
+     0,
+     0.944,
+     0.999,
+     1
+    ]
+   ]
+  },
+  {
+   "f": 8,
+   "film": 85900,
+   "src": "sam3",
+   "area": 184203,
+   "purity": 0.911,
+   "missed": 0.118,
+   "inst": [
+    [
+     0,
+     0.957,
+     0.999,
+     1
+    ]
+   ]
+  },
+  {
+   "f": 9,
+   "film": 85901,
+   "src": "sam3",
+   "area": 184146,
+   "purity": 0.908,
+   "missed": 0.218,
+   "inst": [
+    [
+     0,
+     0.953,
+     0.999,
+     1
+    ]
+   ]
+  },
+  {
+   "f": 10,
+   "film": 85902,
+   "src": "sam3",
+   "area": 185329,
+   "purity": 0.9,
+   "missed": 0.146,
+   "inst": [
+    [
+     0,
+     0.958,
+     0.999,
+     1
+    ]
+   ]
+  }
+ ],
+ "count": {
+  "sam3": 10,
+  "sam2": 0
+ },
+ "seconds": 16
+}

@@ -1,0 +1,291 @@
+{
+ "seg": "seg0989",
+ "n": 14,
+ "missing": [],
+ "notes": [
+  "other characters' hair erased on 8 frames"
+ ],
+ "fallbacks": [],
+ "source": [
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "sam3",
+  "sam3",
+  "sam3",
+  "sam3",
+  "sam3",
+  "sam3",
+  "none"
+ ],
+ "status": "check",
+ "fail_after": [
+  8,
+  13
+ ],
+ "presence_best_p": 0.631,
+ "tracks": {
+  "0": 0.451,
+  "1": 0.946,
+  "2": 0.936,
+  "3": 0.222
+ },
+ "n_other_frames": 8,
+ "qc_off": [],
+ "sam3_failed": {
+  "8": [
+   "jump x2.62"
+  ],
+  "13": [
+   "jump x0.56"
+  ]
+ },
+ "present": 6,
+ "per_frame": [
+  {
+   "f": 1,
+   "film": 85239,
+   "src": "none",
+   "area": 0,
+   "purity": 0.0,
+   "missed": 1.0,
+   "inst": [
+    [
+     0,
+     0.935,
+     0.135,
+     0
+    ]
+   ]
+  },
+  {
+   "f": 2,
+   "film": 85240,
+   "src": "none",
+   "area": 0,
+   "purity": 0.0,
+   "missed": 1.0,
+   "inst": [
+    [
+     0,
+     0.901,
+     0.07,
+     0
+    ]
+   ]
+  },
+  {
+   "f": 3,
+   "film": 85241,
+   "src": "none",
+   "area": 0,
+   "purity": 0.0,
+   "missed": 1.0,
+   "inst": [
+    [
+     0,
+     0.896,
+     0.108,
+     0
+    ]
+   ]
+  },
+  {
+   "f": 4,
+   "film": 85242,
+   "src": "none",
+   "area": 0,
+   "purity": 0.0,
+   "missed": 1.0,
+   "inst": [
+    [
+     0,
+     0.914,
+     0.572,
+     0
+    ]
+   ]
+  },
+  {
+   "f": 5,
+   "film": 85243,
+   "src": "none",
+   "area": 0,
+   "purity": 0.0,
+   "missed": 1.0,
+   "inst": [
+    [
+     0,
+     0.948,
+     0.126,
+     0
+    ]
+   ]
+  },
+  {
+   "f": 6,
+   "film": 85244,
+   "src": "none",
+   "area": 0,
+   "purity": 0.0,
+   "missed": 1.0,
+   "inst": [
+    [
+     0,
+     0.949,
+     0.672,
+     0
+    ]
+   ]
+  },
+  {
+   "f": 7,
+   "film": 85245,
+   "src": "none",
+   "area": 0,
+   "purity": 0.0,
+   "missed": 1.0,
+   "inst": [
+    [
+     0,
+     0.933,
+     0.591,
+     0
+    ]
+   ]
+  },
+  {
+   "f": 8,
+   "film": 85246,
+   "src": "sam3",
+   "area": 404911,
+   "purity": 0.852,
+   "missed": 0.0,
+   "inst": [
+    [
+     1,
+     0.846,
+     0.938,
+     1
+    ],
+    [
+     0,
+     0.532,
+     0.977,
+     1
+    ],
+    [
+     2,
+     0.437,
+     0.936,
+     1
+    ]
+   ]
+  },
+  {
+   "f": 9,
+   "film": 85247,
+   "src": "sam3",
+   "area": 354537,
+   "purity": 0.94,
+   "missed": 0.006,
+   "inst": [
+    [
+     1,
+     0.94,
+     0.987,
+     1
+    ]
+   ]
+  },
+  {
+   "f": 10,
+   "film": 85248,
+   "src": "sam3",
+   "area": 309351,
+   "purity": 0.925,
+   "missed": 0.0,
+   "inst": [
+    [
+     1,
+     0.95,
+     0.984,
+     1
+    ]
+   ]
+  },
+  {
+   "f": 11,
+   "film": 85249,
+   "src": "sam3",
+   "area": 239968,
+   "purity": 0.906,
+   "missed": 0.008,
+   "inst": [
+    [
+     1,
+     0.967,
+     0.988,
+     1
+    ]
+   ]
+  },
+  {
+   "f": 12,
+   "film": 85250,
+   "src": "sam3",
+   "area": 164124,
+   "purity": 0.903,
+   "missed": 0.066,
+   "inst": [
+    [
+     1,
+     0.939,
+     0.917,
+     1
+    ]
+   ]
+  },
+  {
+   "f": 13,
+   "film": 85251,
+   "src": "sam3",
+   "area": 92143,
+   "purity": 0.836,
+   "missed": 0.0,
+   "inst": [
+    [
+     1,
+     0.957,
+     0.631,
+     1
+    ]
+   ]
+  },
+  {
+   "f": 14,
+   "film": 85252,
+   "src": "none",
+   "area": 0,
+   "purity": 0.0,
+   "missed": 1.0,
+   "inst": [
+    [
+     3,
+     0.824,
+     0.222,
+     0
+    ]
+   ]
+  }
+ ],
+ "count": {
+  "sam3": 6,
+  "sam2": 0
+ },
+ "seconds": 24
+}

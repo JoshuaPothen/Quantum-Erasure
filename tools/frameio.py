@@ -56,7 +56,7 @@ def _segment(video, w, h, gray, start_s, stop_idx, end_idx):
     # that have no showinfo line -- and would fake picture in any extraction.
     cmd += ["-vf", vf, "-fps_mode", "passthrough",
             "-f", "rawvideo", "-pix_fmt", "gray" if gray else "bgr24", "-"]
-    p = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, bufsize=10**8)
+    p = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE)  # default bufsize: bufsize=10**8 made reads 13x slower (docs/03)
 
     # showinfo's "n: <k> pts: <p> pts_time: <t>" keyed by its frame counter k.
     # h264 error messages can be spliced into showinfo lines, so match the

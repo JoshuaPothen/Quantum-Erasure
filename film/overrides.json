@@ -1,0 +1,57 @@
+{
+ "186": {
+  "absent": true,
+  "why": "only a village woman with shoulder-length hair (P ~0.7); Pocahontas not in shot"
+ },
+ "187": {
+  "drop": [
+   2,
+   5,
+   6,
+   7,
+   10
+  ],
+  "why": "track 10 = Kocoum's feathers/necklace f71-77 (P 0.81); 2,5,6,7 = 1-2 frame slivers left of her head f15-23. Her hair is track 0"
+ },
+ "1007": {
+  "no_sam2": true,
+  "why": "SAM2 fallback spilled onto her body/water (f201, f390); identity tracks all P>0.7, so keep SAM3"
+ },
+ "1292": {
+  "no_sam2": true,
+  "why": "SAM2 fallback spilled onto tree trunks in the forest run (f92, f171); hold_gaps for 23 dropouts while she's small behind trunks",
+  "hold_gaps": true
+ },
+ "253": {
+  "no_sam2": true,
+  "why": "SAM2 f106 covered the whole night sky beside her (199k px, purity 0)"
+ },
+ "486": {
+  "no_sam2": true,
+  "why": "SAM2 f127-134 spilled onto her body/bushes (purity 0.47)"
+ },
+ "501": {
+  "no_sam2": true,
+  "why": "windy close-up: purity fails are blue highlights; SAM2 frames lose strands (f44, f50)"
+ },
+ "1250": {
+  "hold_gaps": true,
+  "why": "misty finale line-up: SAM3 loses her on single frames, hair blinks"
+ },
+ "1034": {
+  "hold_gaps": true,
+  "why": "step 18 gaps: Pocahontas stands still beside Nakoma at night, SAM3 drops her hair on f11-22"
+ },
+ "148": {
+  "hold_gaps": true,
+  "why": "step 18 gaps: night splash with Nakoma, splashes cross her face f201-234, she stays in place"
+ },
+ "119": {
+  "sam2": true,
+  "why": "step 18 gaps: night canoe, she walks into the water and SAM3 drops her dark hair f37-55"
+ },
+ "685": {
+  "sam2": true,
+  "why": "step 18 gaps: sunset run, SAM3 misses her silhouette hair f23-30"
+ }
+}

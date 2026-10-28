@@ -1,0 +1,41 @@
+{
+ "seg": "seg1095",
+ "n": 21,
+ "missing": [],
+ "notes": [
+  "hair on 4/4 presence frames, none of it hers (best P 0.04)"
+ ],
+ "fallbacks": [],
+ "source": [
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none"
+ ],
+ "status": "absent",
+ "fail_after": [],
+ "presence_best_p": 0.035,
+ "present": 0,
+ "count": {
+  "sam3": 0,
+  "sam2": 0
+ },
+ "seconds": 14
+}

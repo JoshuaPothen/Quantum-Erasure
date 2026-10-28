@@ -1,0 +1,10 @@
+# Source rips and rendered video: too large for GitHub (README "Outputs")
+*.mkv
+*.mp4
+# Regenerable bulk data
+shots/lowres_gray64x36.npy
+film/segments/*/masks/
+film/work/
+film/probe/
+film/idtest/
+__pycache__/

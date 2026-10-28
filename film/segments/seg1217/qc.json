@@ -1,0 +1,538 @@
+{
+ "seg": "seg1217",
+ "n": 30,
+ "missing": [],
+ "notes": [
+  "other characters' hair erased on 30 frames"
+ ],
+ "fallbacks": [],
+ "source": [
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none"
+ ],
+ "status": "ok",
+ "fail_after": [],
+ "presence_best_p": 0.87,
+ "tracks": {
+  "0": 0.372
+ },
+ "n_other_frames": 30,
+ "qc_off": [],
+ "sam3_failed": {},
+ "present": 0,
+ "per_frame": [
+  {
+   "f": 1,
+   "film": 100361,
+   "src": "none",
+   "area": 0,
+   "purity": 0.0,
+   "missed": 1.0,
+   "inst": [
+    [
+     0,
+     0.925,
+     0.87,
+     0
+    ]
+   ]
+  },
+  {
+   "f": 2,
+   "film": 100362,
+   "src": "none",
+   "area": 0,
+   "purity": 0.0,
+   "missed": 1.0,
+   "inst": [
+    [
+     0,
+     0.934,
+     0.853,
+     0
+    ]
+   ]
+  },
+  {
+   "f": 3,
+   "film": 100363,
+   "src": "none",
+   "area": 0,
+   "purity": 0.0,
+   "missed": 1.0,
+   "inst": [
+    [
+     0,
+     0.921,
+     0.147,
+     0
+    ]
+   ]
+  },
+  {
+   "f": 4,
+   "film": 100364,
+   "src": "none",
+   "area": 0,
+   "purity": 0.0,
+   "missed": 1.0,
+   "inst": [
+    [
+     0,
+     0.907,
+     0.036,
+     0
+    ]
+   ]
+  },
+  {
+   "f": 5,
+   "film": 100365,
+   "src": "none",
+   "area": 0,
+   "purity": 0.0,
+   "missed": 1.0,
+   "inst": [
+    [
+     0,
+     0.925,
+     0.119,
+     0
+    ]
+   ]
+  },
+  {
+   "f": 6,
+   "film": 100366,
+   "src": "none",
+   "area": 0,
+   "purity": 0.0,
+   "missed": 1.0,
+   "inst": [
+    [
+     0,
+     0.957,
+     0.256,
+     0
+    ]
+   ]
+  },
+  {
+   "f": 7,
+   "film": 100367,
+   "src": "none",
+   "area": 0,
+   "purity": 0.0,
+   "missed": 1.0,
+   "inst": [
+    [
+     0,
+     0.96,
+     0.236,
+     0
+    ]
+   ]
+  },
+  {
+   "f": 8,
+   "film": 100368,
+   "src": "none",
+   "area": 0,
+   "purity": 0.0,
+   "missed": 1.0,
+   "inst": [
+    [
+     0,
+     0.96,
+     0.102,
+     0
+    ]
+   ]
+  },
+  {
+   "f": 9,
+   "film": 100369,
+   "src": "none",
+   "area": 0,
+   "purity": 0.0,
+   "missed": 1.0,
+   "inst": [
+    [
+     0,
+     0.958,
+     0.154,
+     0
+    ]
+   ]
+  },
+  {
+   "f": 10,
+   "film": 100370,
+   "src": "none",
+   "area": 0,
+   "purity": 0.0,
+   "missed": 1.0,
+   "inst": [
+    [
+     0,
+     0.964,
+     0.297,
+     0
+    ]
+   ]
+  },
+  {
+   "f": 11,
+   "film": 100371,
+   "src": "none",
+   "area": 0,
+   "purity": 0.0,
+   "missed": 1.0,
+   "inst": [
+    [
+     0,
+     0.958,
+     0.451,
+     0
+    ]
+   ]
+  },
+  {
+   "f": 12,
+   "film": 100372,
+   "src": "none",
+   "area": 0,
+   "purity": 0.0,
+   "missed": 1.0,
+   "inst": [
+    [
+     0,
+     0.957,
+     0.446,
+     0
+    ]
+   ]
+  },
+  {
+   "f": 13,
+   "film": 100373,
+   "src": "none",
+   "area": 0,
+   "purity": 0.0,
+   "missed": 1.0,
+   "inst": [
+    [
+     0,
+     0.958,
+     0.616,
+     0
+    ]
+   ]
+  },
+  {
+   "f": 14,
+   "film": 100374,
+   "src": "none",
+   "area": 0,
+   "purity": 0.0,
+   "missed": 1.0,
+   "inst": [
+    [
+     0,
+     0.958,
+     0.66,
+     0
+    ]
+   ]
+  },
+  {
+   "f": 15,
+   "film": 100375,
+   "src": "none",
+   "area": 0,
+   "purity": 0.0,
+   "missed": 1.0,
+   "inst": [
+    [
+     0,
+     0.96,
+     0.537,
+     0
+    ]
+   ]
+  },
+  {
+   "f": 16,
+   "film": 100376,
+   "src": "none",
+   "area": 0,
+   "purity": 0.0,
+   "missed": 1.0,
+   "inst": [
+    [
+     0,
+     0.96,
+     0.515,
+     0
+    ]
+   ]
+  },
+  {
+   "f": 17,
+   "film": 100377,
+   "src": "none",
+   "area": 0,
+   "purity": 0.0,
+   "missed": 1.0,
+   "inst": [
+    [
+     0,
+     0.96,
+     0.724,
+     0
+    ]
+   ]
+  },
+  {
+   "f": 18,
+   "film": 100378,
+   "src": "none",
+   "area": 0,
+   "purity": 0.0,
+   "missed": 1.0,
+   "inst": [
+    [
+     0,
+     0.962,
+     0.705,
+     0
+    ]
+   ]
+  },
+  {
+   "f": 19,
+   "film": 100379,
+   "src": "none",
+   "area": 0,
+   "purity": 0.0,
+   "missed": 1.0,
+   "inst": [
+    [
+     0,
+     0.95,
+     0.762,
+     0
+    ]
+   ]
+  },
+  {
+   "f": 20,
+   "film": 100380,
+   "src": "none",
+   "area": 0,
+   "purity": 0.0,
+   "missed": 1.0,
+   "inst": [
+    [
+     0,
+     0.939,
+     0.409,
+     0
+    ]
+   ]
+  },
+  {
+   "f": 21,
+   "film": 100381,
+   "src": "none",
+   "area": 0,
+   "purity": 0.0,
+   "missed": 1.0,
+   "inst": [
+    [
+     0,
+     0.944,
+     0.176,
+     0
+    ]
+   ]
+  },
+  {
+   "f": 22,
+   "film": 100382,
+   "src": "none",
+   "area": 0,
+   "purity": 0.0,
+   "missed": 1.0,
+   "inst": [
+    [
+     0,
+     0.936,
+     0.173,
+     0
+    ]
+   ]
+  },
+  {
+   "f": 23,
+   "film": 100383,
+   "src": "none",
+   "area": 0,
+   "purity": 0.0,
+   "missed": 1.0,
+   "inst": [
+    [
+     0,
+     0.951,
+     0.123,
+     0
+    ]
+   ]
+  },
+  {
+   "f": 24,
+   "film": 100384,
+   "src": "none",
+   "area": 0,
+   "purity": 0.0,
+   "missed": 1.0,
+   "inst": [
+    [
+     0,
+     0.949,
+     0.169,
+     0
+    ]
+   ]
+  },
+  {
+   "f": 25,
+   "film": 100385,
+   "src": "none",
+   "area": 0,
+   "purity": 0.0,
+   "missed": 1.0,
+   "inst": [
+    [
+     0,
+     0.94,
+     0.244,
+     0
+    ]
+   ]
+  },
+  {
+   "f": 26,
+   "film": 100386,
+   "src": "none",
+   "area": 0,
+   "purity": 0.0,
+   "missed": 1.0,
+   "inst": [
+    [
+     0,
+     0.935,
+     0.271,
+     0
+    ]
+   ]
+  },
+  {
+   "f": 27,
+   "film": 100387,
+   "src": "none",
+   "area": 0,
+   "purity": 0.0,
+   "missed": 1.0,
+   "inst": [
+    [
+     0,
+     0.912,
+     0.297,
+     0
+    ]
+   ]
+  },
+  {
+   "f": 28,
+   "film": 100388,
+   "src": "none",
+   "area": 0,
+   "purity": 0.0,
+   "missed": 1.0,
+   "inst": [
+    [
+     0,
+     0.908,
+     0.325,
+     0
+    ]
+   ]
+  },
+  {
+   "f": 29,
+   "film": 100389,
+   "src": "none",
+   "area": 0,
+   "purity": 0.0,
+   "missed": 1.0,
+   "inst": [
+    [
+     0,
+     0.929,
+     0.197,
+     0
+    ]
+   ]
+  },
+  {
+   "f": 30,
+   "film": 100390,
+   "src": "none",
+   "area": 0,
+   "purity": 0.0,
+   "missed": 1.0,
+   "inst": [
+    [
+     0,
+     0.928,
+     0.148,
+     0
+    ]
+   ]
+  }
+ ],
+ "count": {
+  "sam3": 0,
+  "sam2": 0
+ },
+ "seconds": 44
+}

@@ -24,9 +24,8 @@ Images live in `docs/img/`, named with the phase number as a prefix.
 | 01 | [Shot detection](01_shot_detection.md): full-film segment list `shots/shots_v1.csv` (1,276 shots, 31 flagged transitions); frame-identity rules | done |
 | X01 | [SAM2 on the film's longest shot](X01_sam2_long_take.md): chunked propagation, drift fix, seam checks | done |
 | X02 | [SAM3 main + SAM2 fallback](X02_sam3_main_sam2_fallback.md) on daylight seg 224 | done |
-| 02 | Shot triage (buckets A / B / C, whose hair) | next |
-| 03 | SAM3 text-prompt pilot vs SAM2 point prompts | planned |
-| 04 | Pilot sequence, end to end | planned |
+| 02 | Shot triage: superseded by 03's probe triage + identity classifier | superseded |
+| 03 | [**Full-film run**](../film/README.md): SAM3 instances + CLIP identity classifier (Pocahontas only) + SAM2 fallback, one folder per segment in `film/segments/`, final film in `film/final/` | done 2026-10-26: full film + her cut assembled |
 
 ## Conventions
 
