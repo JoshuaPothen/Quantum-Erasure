@@ -11,6 +11,8 @@
 | `film/final/Pocahontas_hair_only.mp4` | The full film: 1080p, 23.976 fps, with the BDrip's English AC3 5.1 audio | 1:21:08.77, 116,732 frames, identical to the source |
 | `film/her_cut/Pocahontas_her_cut.mp4` | Only the 429 segments she appears in, back to back, with no audio. `index.csv` maps the cut back to the film | 31:04.49, 44,703 frames |
 
+**Download:** [release v1.0](https://github.com/JoshuaPothen/Quantum-Erasure/releases/tag/v1.0-full-film) has the full film without credits or audio (1:15:34, 108,727 frames) and the her cut.
+
 The videos, per-frame masks and source rips are too large for GitHub and aren't in the repo (see `.gitignore`). Everything needed to rebuild them is: the code, the segment list, the overrides, the per-segment QC logs and the docs.
 
 ## By the numbers

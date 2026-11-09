@@ -595,3 +595,15 @@ Twelve stills across the cut, from 1:00 to 30:04:
 
 - **Blank frames:** the cut works at segment level, so it also keeps the stretches of those segments where she's off-screen. **9,987 of the 44,703 frames (22%) are blank white**, as at 14:12 above.
 - **Trimming option:** a frame-level version could drop those frames, leaving about 34,700 frames (24 min). It would have to re-encode, because the cuts would no longer fall on keyframes.
+
+## Step 22 — GitHub release v1.0 (2026-11-09)
+
+**https://github.com/JoshuaPothen/Quantum-Erasure/releases/tag/v1.0-full-film** is a public release. At the user's decision it has **no credits and no audio**, so it doesn't redistribute Disney's soundtrack or the original credits.
+
+| Asset | Built from | Check |
+|---|---|---|
+| `Pocahontas_hair_only_no_credits_no_audio.mp4`, 109 MB | `film/final/concat_nocredits.txt`, which is the first 1,308 lines of `concat.txt`. The credits are the last entry (frames 108,727 onward). It's stream-copied with `-an` | **108,727 frames**, 1:15:34.82, video only |
+| `Pocahontas_her_cut.mp4`, 102 MB | Step 21 | 44,703 frames, no audio |
+| `Pocahontas_her_cut_index.csv` | `film/her_cut/index.csv` | |
+
+The local `film/final/Pocahontas_hair_only.mp4`, which has the audio and credits, isn't published.
